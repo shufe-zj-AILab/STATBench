@@ -1,0 +1,3362 @@
+[
+  {
+    "index": 1,
+    "question": "合法统计调查表需要有( )等标志。A.制定机关 B.表号 C.批准人 D.有效期限 E.主管单位",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "ABD",
+      "resource": "2017年度全国统计专业技术初级资格考试__实务卷_多选_41",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "elementary level",
+      "year": 2017
+    }
+  },
+  {
+    "index": 2,
+    "question": "统计调查项目分为( )统计调查项目。A.国家 B.部门 C.企业 D.行业 E.地方",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "ABE",
+      "resource": "2017年度全国统计专业技术初级资格考试__实务卷_多选_42",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "elementary level",
+      "year": 2017
+    }
+  },
+  {
+    "index": 3,
+    "question": "企业登记注册类型按大类分为( )。A.内资企业 B.个体工商企业 C.股份合作企业 D.港、澳、台商投资企业 E.外商投资企业",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "ADE",
+      "resource": "2017年度全国统计专业技术初级资格考试__实务卷_多选_43",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "elementary level",
+      "year": 2017
+    }
+  },
+  {
+    "index": 4,
+    "question": "统计上依据划分大中小微型企业的指标有( )。A.从业人员 B.营业收入 C.资产总额 D.利润总额 E.投资总额",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "ABC",
+      "resource": "2017年度全国统计专业技术初级资格考试__实务卷_多选_44",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "elementary level",
+      "year": 2017
+    }
+  },
+  {
+    "index": 5,
+    "question": "以下属于相对指标的是( )。A.老年人口系数 B.人均工资 C.能源消费量 D.平均人数 E.研发支出相当于国内生产总值比例",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "AE",
+      "resource": "2017年度全国统计专业技术初级资格考试__实务卷_多选_45",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "elementary level",
+      "year": 2017
+    }
+  },
+  {
+    "index": 6,
+    "question": "下列各项中属于工业企业中间投入的是( )。A.职工待业保险费 B.利息 C.折旧 D.外购原材料 E.外购电力",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "BDE",
+      "resource": "2017年度全国统计专业技术初级资格考试__实务卷_多选_46",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "elementary level",
+      "year": 2017
+    }
+  },
+  {
+    "index": 7,
+    "question": "工业增加值计算方法有( )。A.支出法 B.成本法 C.生产法 D.平均法 E.收入法",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "CE",
+      "resource": "2017年度全国统计专业技术初级资格考试__实务卷_多选_47",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "elementary level",
+      "year": 2017
+    }
+  },
+  {
+    "index": 8,
+    "question": "属于二次能源的是( )。A.原油 B.焦炭 C.天然气 D.汽油 E.柴油",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "BDE",
+      "resource": "2017年度全国统计专业技术初级资格考试__实务卷_多选_48",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "elementary level",
+      "year": 2017
+    }
+  },
+  {
+    "index": 9,
+    "question": "下列属于资产的是( )。A.商誉 B.存货 C.债券 D.实收资本 E.应付股利",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "ABC",
+      "resource": "2017年度全国统计专业技术初级资格考试__实务卷_多选_49",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "elementary level",
+      "year": 2017
+    }
+  },
+  {
+    "index": 10,
+    "question": "下列属于所有者权益的是( )。A.未分配利润 B.资本公积 C.应收帐款 D.应交税金 E.应付和预收帐款",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "AB",
+      "resource": "2017年度全国统计专业技术初级资格考试__实务卷_多选_50",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "elementary level",
+      "year": 2017
+    }
+  },
+  {
+    "index": 11,
+    "question": "社会统计内容包括( )统计。A.司法 B.科学研究 C.妇女儿童 D.住宿餐饮 E.人民生活",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "ACE",
+      "resource": "2017年度全国统计专业技术初级资格考试__实务卷_多选_51",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "elementary level",
+      "year": 2017
+    }
+  },
+  {
+    "index": 12,
+    "question": "以下关于恩格尔系数说法正确的是( )。A.恩格尔系数越大生活水平越高 B.恩格尔系数越小生活水平越高 C.恩格尔系数是衡量日常生活必需品的标志 D.恩格尔系数随着收入的上升而下降 E.恩格尔系数随着收入的上升而上升",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "BD",
+      "resource": "2017年度全国统计专业技术初级资格考试__实务卷_多选_52",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "elementary level",
+      "year": 2017
+    }
+  },
+  {
+    "index": 13,
+    "question": "下列各项中属于价格统计体系核心内容的有( )。A.劳动力价格 B.居民消费价格 C.房地产价格 D.工业品价格 E.建筑业价格",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "BCD",
+      "resource": "2017年度全国统计专业技术初级资格考试__实务卷_多选_53",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "elementary level",
+      "year": 2017
+    }
+  },
+  {
+    "index": 14,
+    "question": "以下关于居民消费价格调查正确的说法是( )。A.调查采用典型调查方法 B.调查内容包括8大类别 C.调查采用定人、定点、定时直接调查的方法 D.调查选择有地方特色的产品 E.调查选择对国计民生影响大的产品",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "BC",
+      "resource": "2017年度全国统计专业技术初级资格考试__实务卷_多选_54",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "elementary level",
+      "year": 2017
+    }
+  },
+  {
+    "index": 15,
+    "question": "下列各项中属于工业品价格统计内容的是( )。A.原材料 B.燃料 C.土地 D.动力 E.房屋租赁",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "ABD",
+      "resource": "2017年度全国统计专业技术初级资格考试__实务卷_多选_55",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "elementary level",
+      "year": 2017
+    }
+  },
+  {
+    "index": 16,
+    "question": "下列各项中属于概率抽样的是( )。A.简单随机抽样 B.随意抽样 C.等距抽样 D.整群抽样 E.分层抽样",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "ACDE",
+      "resource": "2018年度全国统计专业技术初级资格考试__实务卷_多选_41",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "elementary level",
+      "year": 2018
+    }
+  },
+  {
+    "index": 17,
+    "question": "下列各项中属于统计调查方法的有( )。A.典型调查 B.普查 C.重点调查 D.年审 E.注册",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "ABC",
+      "resource": "2018年度全国统计专业技术初级资格考试__实务卷_多选_42",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "elementary level",
+      "year": 2018
+    }
+  },
+  {
+    "index": 18,
+    "question": "统计调查项目的审批机关应当对调查项目的( )进行\n审查。A.必要性 B.可行性 C.科学性 D.适应性 E.保密性",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "ABC",
+      "resource": "2018年度全国统计专业技术初级资格考试__实务卷_多选_43",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "elementary level",
+      "year": 2018
+    }
+  },
+  {
+    "index": 19,
+    "question": "《国民经济行业分类》采用线分类法，将国民经济\n行业划分为( )。A..门类 B.总类 C.大类 D.中类 E.小类",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "ACDE",
+      "resource": "2018年度全国统计专业技术初级资格考试__实务卷_多选_44",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "elementary level",
+      "year": 2018
+    }
+  },
+  {
+    "index": 20,
+    "question": "下列各项中属于统计分类标准的有( )。A.城乡划分代码 B.企业登记注册类型划分 C.经济成分划分 D.战略性新兴产业分类 E.环境治理标准分类",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "ABCD",
+      "resource": "2018年度全国统计专业技术初级资格考试__实务卷_多选_45",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "elementary level",
+      "year": 2018
+    }
+  },
+  {
+    "index": 21,
+    "question": "下列各项中属于农业统计主要指标的有( )。A.农产品产量 B.乡村户数 C.居民农产品消费量 D.农产品生产者价格指数 E.农林牧渔业增加值",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "ABDE",
+      "resource": "2018年度全国统计专业技术初级资格考试__实务卷_多选_46",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "elementary level",
+      "year": 2018
+    }
+  },
+  {
+    "index": 22,
+    "question": "下列各项中应计入工业企业销售产值的有( )。A.实际销售的全部成品价值 B.只收取加工费的来料加\n工成品价值 C.实际销售的半成品价值 D.对外加工费收入 E.对外修理作业收入",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "ACDE",
+      "resource": "2018年度全国统计专业技术初级资格考试__实务卷_多选_47",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "elementary level",
+      "year": 2018
+    }
+  },
+  {
+    "index": 23,
+    "question": "下列各项中应计入利润总额的有( )。A.营业利润 B.营业外收入 C.营业外支出 D.财务费用 E.上交所得税",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "AB",
+      "resource": "2018年度全国统计专业技术初级资格考试__实务卷_多选_48",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "elementary level",
+      "year": 2018
+    }
+  },
+  {
+    "index": 24,
+    "question": "下列各项中应计入被调查单位从业人员的有( )。A.试用期人员 B.实习的大学生 C.休病假 2 个月的人员 D.招用的临时人员 E.派往外单位工作，但工\n资仍由本单位发放的人员",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "ACDE",
+      "resource": "2018年度全国统计专业技术初级资格考试__实务卷_多选_49",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "elementary level",
+      "year": 2018
+    }
+  },
+  {
+    "index": 25,
+    "question": "现行国家统计调查制度中，固定资产投资统计范围\n从报表类型来分包括( )。A.固定资产项目投资 B.金融项目投资 C.房地产开发投资 D.农村农户投资 E.小微企业投资",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "ACDE",
+      "resource": "2018年度全国统计专业技术初级资格考试__实务卷_多选_50",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "elementary level",
+      "year": 2018
+    }
+  },
+  {
+    "index": 26,
+    "question": "下列各项中属于固定资产投资微观经济效益指标的有( )。A.平均建设工期 B.投资回收率 C.生产能力利用率 D.投资回收年限 E.固定资产交付使用率",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "ABCD",
+      "resource": "2018年度全国统计专业技术初级资格考试__实务卷_多选_51",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "elementary level",
+      "year": 2018
+    }
+  },
+  {
+    "index": 27,
+    "question": "人口变动抽样调查的主要项目有( )填报的项目。A.按户 B.按单位 C.按亲属 D.按人 E.按身份",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "AD",
+      "resource": "2018年度全国统计专业技术初级资格考试__实务卷_多选_52",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "elementary level",
+      "year": 2018
+    }
+  },
+  {
+    "index": 28,
+    "question": "下列各项中属于科技创新统计主要内容的有( )。A.R&D 经费外部支出 B.专利申请数 C.发表的科技论文篇数 D.利用外资额 E.引进人才数量",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "ABC",
+      "resource": "2018年度全国统计专业技术初级资格考试__实务卷_多选_53",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "elementary level",
+      "year": 2018
+    }
+  },
+  {
+    "index": 29,
+    "question": "文化及相关产业增加值核算方法有( )。A.生产法 B.支出法 C.成本法 D.平均法 E.收入法",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "AE",
+      "resource": "2018年度全国统计专业技术初级资格考试__实务卷_多选_54",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "elementary level",
+      "year": 2018
+    }
+  },
+  {
+    "index": 30,
+    "question": "下列各项中属于我国价格统计调查指数的有( )。A.工业生产者价格指数 B.居民消费价格指数 C.二手住宅销售价格指数 D.煤炭期货价格指数 E.成品油价格指数",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "ABC",
+      "resource": "2018年度全国统计专业技术初级资格考试__实务卷_多选_55",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "elementary level",
+      "year": 2018
+    }
+  },
+  {
+    "index": 31,
+    "question": "根据我国现行周期性普查制度，每10年开展一次的普查有（ ）A.基本单位普查B.人口普查C.农业普查D.工业普查E.经济普查",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "BC",
+      "resource": "2019年度全国统计专业技术初级资格考试__实务卷_多选_41",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "elementary level",
+      "year": 2019
+    }
+  },
+  {
+    "index": 32,
+    "question": "下列各项中，属于非概率抽样的有（ ）A.简单随机抽样B.等距抽样C.随意抽样D.重点调查E.分层抽样",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "CD",
+      "resource": "2019年度全国统计专业技术初级资格考试__实务卷_多选_42",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "elementary level",
+      "year": 2019
+    }
+  },
+  {
+    "index": 33,
+    "question": "统计调查制度按照调查管理方式划分为（ ）A.周期性普查制度B.随机性调查制度C.专项调查制度D.经常性调查制度E.非经常性调查制度",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "ACD",
+      "resource": "2019年度全国统计专业技术初级资格考试__实务卷_多选_43",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "elementary level",
+      "year": 2019
+    }
+  },
+  {
+    "index": 34,
+    "question": "关于统计调查设计，下列说法正确的有（ ）A.确定调查方法是统计调查设计的第一个阶段B.应尽可能采用抽样调查、重点调查等非全面调查方法C.统计调查设计的好坏直接关系到调查工作的成本费用D.设计环节应提出完善的调查方案，并尽可能减小调查对象负担E.设计确定的调查方案一经执行，今后不能再更改",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "BCD",
+      "resource": "2019年度全国统计专业技术初级资格考试__实务卷_多选_44",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "elementary level",
+      "year": 2019
+    }
+  },
+  {
+    "index": 35,
+    "question": "关于法人单位和产业活动单位关系，下列说法正确的有（ ）A.二者不存在隶属关系B.一个法人单位至少包括一个产业活动单位C.产业活动单位接受法人单位的管理和控制D.位于一个活动场所并从事一种经济活动的法人单位是单产业法人单位E.两个或两个以上产业活动单位组成的法人单位称为多产业法人单位",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "BCDE",
+      "resource": "2019年度全国统计专业技术初级资格考试__实务卷_多选_45",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "elementary level",
+      "year": 2019
+    }
+  },
+  {
+    "index": 36,
+    "question": "下列行业中，属于第三产业的有（ ）A.建筑业B.房地产业C.金融业D.批发和零售业E.电力、热力、燃气及水生产和供应业",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "BCD",
+      "resource": "2019年度全国统计专业技术初级资格考试__实务卷_多选_46",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "elementary level",
+      "year": 2019
+    }
+  },
+  {
+    "index": 37,
+    "question": "根据统计上划分经济成分的规定，属于非公有经济的有（ ）A.国有经济B.集体经济C.私有经济D.港澳台经济E.外商经济",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "CDE",
+      "resource": "2019年度全国统计专业技术初级资格考试__实务卷_多选_47",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "elementary level",
+      "year": 2019
+    }
+  },
+  {
+    "index": 38,
+    "question": "计算农林牧渔业增加值的方法有（ ）A.产品法B.生产法C.成本法D.收入法E.支出法",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "BD",
+      "resource": "2019年度全国统计专业技术初级资格考试__实务卷_多选_48",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "elementary level",
+      "year": 2019
+    }
+  },
+  {
+    "index": 39,
+    "question": "计算工业总产值的内容有（ ）A.成品价值B.订货者来料价值C.对外加工费收入D.产品库存价值E.自制半成品在制品期末期初差额价值",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "ACE",
+      "resource": "2019年度全国统计专业技术初级资格考试__实务卷_多选_49",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "elementary level",
+      "year": 2019
+    }
+  },
+  {
+    "index": 40,
+    "question": "下列各项中，属于一次能源的有（ ）A.煤气B.天然气C.汽油D.原煤E.洗煤",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "BD",
+      "resource": "2019年度全国统计专业技术初级资格考试__实务卷_多选_50",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "elementary level",
+      "year": 2019
+    }
+  },
+  {
+    "index": 41,
+    "question": "下列属于能源消费量统计原则的有（ ）。A.谁消费谁统计B.谁购买谁统C.消费量可重复计算D.何时投入使用，何时计算消费量E.耗能工质不予统计",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "ADE",
+      "resource": "2019年度全国统计专业技术初级资格考试__实务卷_多选_51",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "elementary level",
+      "year": 2019
+    }
+  },
+  {
+    "index": 42,
+    "question": "公司的所有者权益又称股东权益，包括（ ）A.法人资本B.实收资本C.资本公积D.盈余公积E.未分配利润等",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "BCDE",
+      "resource": "2019年度全国统计专业技术初级资格考试__实务卷_多选_52",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "elementary level",
+      "year": 2019
+    }
+  },
+  {
+    "index": 43,
+    "question": "下列各项中，属于创新活动的有（ ）A.应用研究B.产品创新C.工艺创新D.试验发展E.组织创新",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "BCE",
+      "resource": "2019年度全国统计专业技术初级资格考试__实务卷_多选_53",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "elementary level",
+      "year": 2019
+    }
+  },
+  {
+    "index": 44,
+    "question": "住户调查中，属于住户成员的有（ ）A.住家家庭帮工B.轮流居住的老人C.由本住户供养的在外学生D.本住户不再供养的在外学生E.调查时点已应征入伍人员",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "BC",
+      "resource": "2019年度全国统计专业技术初级资格考试__实务卷_多选_54",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "elementary level",
+      "year": 2019
+    }
+  },
+  {
+    "index": 45,
+    "question": "关于居民消费价格（CPI）调查，下列说法正确的有（ ）A.CPI调查采用的是抽样调查方法B.计算CPI所用的权数每年调整一C.CPI调查将居民消费的商品和服务按用途分为 8个大类D.所有商品的调查频率均为每月调查 2次E.CPI调查代表规格品选取原则之一是消费量较大的消费项目",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "ACE",
+      "resource": "2019年度全国统计专业技术初级资格考试__实务卷_多选_55",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "elementary level",
+      "year": 2019
+    }
+  },
+  {
+    "index": 46,
+    "question": "统计的基本任务是（ ）A.进行统计调查、统计分析B.提供统计资料C.提供统计咨询意见D.制定宏观政策E.实行统计监督",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "ABCE",
+      "resource": "2020年度全国统计专业技术初级资格考试__实务卷_多选_41",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "elementary level",
+      "year": 2020
+    }
+  },
+  {
+    "index": 47,
+    "question": "统计调查设计时，确定统计调查方法应该（ ）。A.尽可能采用全面调查方法B.尽可能采用非全面调查方法C.仅通过统计调查取得数据D.研究利用行政记录等信息资源E.根据统计调查内容统筹考虑和规划",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "BDE",
+      "resource": "2020年度全国统计专业技术初级资格考试__实务卷_多选_42",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "elementary level",
+      "year": 2020
+    }
+  },
+  {
+    "index": 48,
+    "question": "我国现行的统计单位包括（ ）。A.住户B.法人单位C.个体经营户D.产业活动单位E.境外活动单位",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "BCD",
+      "resource": "2020年度全国统计专业技术初级资格考试__实务卷_多选_43",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "elementary level",
+      "year": 2020
+    }
+  },
+  {
+    "index": 49,
+    "question": "产业活动单位应同时具备的条件有（ ）A.能够独立承担民事责任B.有权与其他单位签订合同C.相对独立地组织生产或业务活动D.能够提供收入、支出等相关资料E.在一个场所从事一种或主要从事一种社会经济活动",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "CDE",
+      "resource": "2020年度全国统计专业技术初级资格考试__实务卷_多选_44",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "elementary level",
+      "year": 2020
+    }
+  },
+  {
+    "index": 50,
+    "question": "下列行业中，属于第二产业的有（ ）。A.电力、热力、燃气及水生产和供应业B.建筑业C.房地产业D.批发和零售业E.金融业",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "AB",
+      "resource": "2020年度全国统计专业技术初级资格考试__实务卷_多选_45",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "elementary level",
+      "year": 2020
+    }
+  },
+  {
+    "index": 51,
+    "question": "下列各项中，属于农业经营单位的有（ ）。A.农场B.林场C.养殖场D.农户E.农民专业合作社",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "ABCE",
+      "resource": "2020年度全国统计专业技术初级资格考试__实务卷_多选_46",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "elementary level",
+      "year": 2020
+    }
+  },
+  {
+    "index": 52,
+    "question": "计算工业总产值应遵循的原则有（ ）A.工业生产原则B.最终产品原则C.“成本法”原则D.“收入法”原则E.“工厂法”原则",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "ABE",
+      "resource": "2020年度全国统计专业技术初级资格考试__实务卷_多选_47",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "elementary level",
+      "year": 2020
+    }
+  },
+  {
+    "index": 53,
+    "question": "下列各项中，属于能源转换活动的是（ ）。A.煤炭燃烧发电B.煤炭气化成煤气C.原煤洗选成洗煤D.电能转换为热能E.原油蒸馏炼制成汽油",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "AD",
+      "resource": "2020年度全国统计专业技术初级资格考试__实务卷_多选_48",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "elementary level",
+      "year": 2020
+    }
+  },
+  {
+    "index": 54,
+    "question": "关于能源消费量统计，下列说法正确的有（ ）。A.谁消费谁统计B.何时购进何时计算C.消费量只能计算一次D.消费量可以重复计算E.耗能工质应统计在内",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "AC",
+      "resource": "2020年度全国统计专业技术初级资格考试__实务卷_多选_49",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "elementary level",
+      "year": 2020
+    }
+  },
+  {
+    "index": 55,
+    "question": "下列各项中，属于流动资产的有（ ）A.存货B.应收账款C.应付账款D.预付账款E.应交税费",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "ABD",
+      "resource": "2020年度全国统计专业技术初级资格考试__实务卷_多选_50",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "elementary level",
+      "year": 2020
+    }
+  },
+  {
+    "index": 56,
+    "question": "下列人员中，应统计为企业在岗职工的有（ ）。A.处于试用期的小李B.聘用的退休人员老孙C.在家休产假的生产人员小赵D.在企业实习的在校学生小王E.去外单位挂职锻炼的小郑",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "ACE",
+      "resource": "2020年度全国统计专业技术初级资格考试__实务卷_多选_51",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "elementary level",
+      "year": 2020
+    }
+  },
+  {
+    "index": 57,
+    "question": "研究与试验发展（R&D）活动包括（ ）A.学术研究B.基础研究C.应用研究D.试验发展E.科技服务",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "BCD",
+      "resource": "2020年度全国统计专业技术初级资格考试__实务卷_多选_52",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "elementary level",
+      "year": 2020
+    }
+  },
+  {
+    "index": 58,
+    "question": "关于住户调查，下列说法正确的有（ ）。A.仅调查城镇住户B.仅调查家庭居住户C.住户成员间一定有亲属关系D.采用抽样调查方法E.由国家统计局统一领导",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "DE",
+      "resource": "2020年度全国统计专业技术初级资格考试__实务卷_多选_53",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "elementary level",
+      "year": 2020
+    }
+  },
+  {
+    "index": 59,
+    "question": "居民可支配收入中，属于工资性收入的有（ ）。A.租金收入B.住房补贴C.补发工资D.困难补助E.实物福利",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "BCE",
+      "resource": "2020年度全国统计专业技术初级资格考试__实务卷_多选_54",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "elementary level",
+      "year": 2020
+    }
+  },
+  {
+    "index": 60,
+    "question": "居民消费价格调查中，代表规格品选定应遵循的原则有（ ）。A.选择消费量较大的消费品B.选择的工业消费品必须是合格品C.不必考虑规格品销售前景的好坏D.代表规格品之间价格变动幅度越小越好E.选中规格品要与未选中规格品的价格变动相关性低",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "AB",
+      "resource": "2020年度全国统计专业技术初级资格考试__实务卷_多选_55",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "elementary level",
+      "year": 2020
+    }
+  },
+  {
+    "index": 61,
+    "question": "统计的三大职能是( )。A.统计设计B.统计管理C.统计信息D.统计咨询F.统计监督",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "CDE",
+      "resource": "2021年度全国统计专业技术初级资格考试_实务卷_多选_41",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "elementary level",
+      "year": 2021
+    }
+  },
+  {
+    "index": 62,
+    "question": "我国现行周期性开展的普查有( )。 A.基本单位普查B.经济普查C.农业普查D.人口普查F.第三产业普查",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "BCD",
+      "resource": "2021年度全国统计专业技术初级资格考试_实务卷_多选_42",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "elementary level",
+      "year": 2021
+    }
+  },
+  {
+    "index": 63,
+    "question": "法人单位应同时具备的条件有( )。 A.依法成立，有自己的名称、组织机构和场所，能够独立承担民事责任B.独立拥有(或授权使用)资产或者经费，承担负债，有权与其他单位签订合同C.在一个场所从事一种或主要从事一种社会经济活动D.具有包括资产负债表在内的账户，或者能够根据需要编制账户F.能够提供收入、支出等相关资料",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "ABD",
+      "resource": "2021年度全国统计专业技术初级资格考试_实务卷_多选_43",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "elementary level",
+      "year": 2021
+    }
+  },
+  {
+    "index": 64,
+    "question": "根据《三次产业划分规定》，下列行业属于第三产业的有( )A.农、林、牧、渔专业及辅助性活动B.电力、热力、燃气及水生产和供应业C.金属制品、机械和设备修理业D.批发和零售业F.信息传输、软件和信息技术服务业",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "ACDE",
+      "resource": "2021年度全国统计专业技术初级资格考试_实务卷_多选_44",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "elementary level",
+      "year": 2021
+    }
+  },
+  {
+    "index": 65,
+    "question": "农业统计的基本单位包括( )A.农业生产经营户B.农林牧渔业公司C.养殖场D.工矿企业下属农场F.农业科学实验机构",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "ABCD",
+      "resource": "2021年度全国统计专业技术初级资格考试_实务卷_多选_45",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "elementary level",
+      "year": 2021
+    }
+  },
+  {
+    "index": 66,
+    "question": "下列各项中，应计入工业产品库存量的有( )A.本企业生产的，报告期内经检验合格入库的产品B.虽有销售对象，但尚未发货的库存产品C.代外单位保管的产品D.盘点中的账外产品F.已结束生产过程但尚未办理入库手续的产品",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "ABD",
+      "resource": "2021年度全国统计专业技术初级资格考试_实务卷_多选_46",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "elementary level",
+      "year": 2021
+    }
+  },
+  {
+    "index": 67,
+    "question": "建筑业主要活动包括( )。A.房屋建筑B.土木工程建筑C.建筑安装D.建筑装饰、装修F.物业管理",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "ABCD",
+      "resource": "2021年度全国统计专业技术初级资格考试_实务卷_多选_47",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "elementary level",
+      "year": 2021
+    }
+  },
+  {
+    "index": 68,
+    "question": "下列各项中，属于二次能源的有( )。A.焦炭B.原煤C.汽油D.天然气F.核能",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "AC",
+      "resource": "2021年度全国统计专业技术初级资格考试_实务卷_多选_48",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "elementary level",
+      "year": 2021
+    }
+  },
+  {
+    "index": 69,
+    "question": "关于能源库存统计，下列说法正确的有( )A.能源生产企业按照能源所有权原则统计B.能源生产企业的库存中包括代外单位保管的产品C.能源经销企业按照能源所有权原则统计D.能源使用企业按照能源使用权原则统计F.能源使用企业的库存中不包括已付货款但尚在运输中的产品",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "ACDE",
+      "resource": "2021年度全国统计专业技术初级资格考试_实务卷_多选_49",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "elementary level",
+      "year": 2021
+    }
+  },
+  {
+    "index": 70,
+    "question": "关于固定资产投资，下列说法正确的有( )A.固定资产投资是建造和购置固定资产的经济活动B.固定资产投资是再生产活动C.固定资产投资包括固定资产的大修理、养护、维护D.固定资产投资属于实物投资F.固定资产投资可以扩大社会再生产的规模",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "ABDE",
+      "resource": "2021年度全国统计专业技术初级资格考试_实务卷_多选_50",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "elementary level",
+      "year": 2021
+    }
+  },
+  {
+    "index": 71,
+    "question": "现行国家统计制度规定，固定资产投资统计范围包括( )。A.固定资产项目投资B.房地产开发投资C.农村农户投资D.小微企业投资F.金融投资",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "ABCD",
+      "resource": "2021年度全国统计专业技术初级资格考试_实务卷_多选_51",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "elementary level",
+      "year": 2021
+    }
+  },
+  {
+    "index": 72,
+    "question": "下列各项中，应计入营业利润的有( )。A.销售费用B.营业收入C.盘盈利得D.政府补助F.投资收益",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "BE",
+      "resource": "2021年度全国统计专业技术初级资格考试_实务卷_多选_52",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "elementary level",
+      "year": 2021
+    }
+  },
+  {
+    "index": 73,
+    "question": "下列各项中，应计入从业人员期末人数的有( )。A.聘用的兼职人员B.派往外单位的挂职锻炼人员C.试用期人员D.劳务外包而使用的人员F.正在休产假的正式职工",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "ABCE",
+      "resource": "2021年度全国统计专业技术初级资格考试_实务卷_多选_53",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "elementary level",
+      "year": 2021
+    }
+  },
+  {
+    "index": 74,
+    "question": "住户调查中，下列各项中视为“从业过”的有( )。A.农民小张从事农业生产经营活动B.小李在自家经营的商店劳动C.小赵参加社会公益性劳动D.小王从事家务劳动F.退休人员老钱被单位返聘工作",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "ABE",
+      "resource": "2021年度全国统计专业技术初级资格考试_实务卷_多选_54",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "elementary level",
+      "year": 2021
+    }
+  },
+  {
+    "index": 75,
+    "question": "关于居民消费价格调查，下列说法正确的有( )。A.国家统计局负责全国居民消费价格指数的编制B.调查报告期为季度C.价格调查点的抽选采取分层随机抽样D.代表规格品的选择原则之一是价格变动趋势和变动程度有较强的代表性F.本轮计算居民消费价格指数的固定基期为 2021 年",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "AD",
+      "resource": "2021年度全国统计专业技术初级资格考试_实务卷_多选_55",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "elementary level",
+      "year": 2021
+    }
+  },
+  {
+    "index": 76,
+    "question": "研究与试验发展（R&D）活动包括（）。A.基础研究B.应用研究C.成果应用 D.试验发展E.科技服务",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "ABD",
+      "resource": "2022年度全国统计专业技术初级资格考试_实务卷_多选_41",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "elementary level",
+      "year": 2022
+    }
+  },
+  {
+    "index": 77,
+    "question": "调查方案可行性的研究方法有（）。A.文案研究法B.逻辑分析法C.类比分析法D.经验判断法E.试点调查法",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "BDE",
+      "resource": "2022年度全国统计专业技术初级资格考试_实务卷_多选_42",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "elementary level",
+      "year": 2022
+    }
+  },
+  {
+    "index": 78,
+    "question": "工业中间劳务投入指支付给（）的服务费用。A.金融业B.文化教育业C.农业D.邮电业E.行政管理",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "ABE",
+      "resource": "2022年度全国统计专业技术初级资格考试_实务卷_多选_43",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "elementary level",
+      "year": 2022
+    }
+  },
+  {
+    "index": 79,
+    "question": "无论是天然的还是养殖的，水产品产量都应包括（）。A.海水鱼类B.海水藻类C.淡水鱼类D.淡水生植物E.淡水贝类",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "ABCE",
+      "resource": "2022年度全国统计专业技术初级资格考试_实务卷_多选_44",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "elementary level",
+      "year": 2022
+    }
+  },
+  {
+    "index": 80,
+    "question": "下列属于能源消费量统计原则的有（）。A.谁消费谁统计B.谁购买谁统计C.消费量可重复计算D.何时投入使用，何时计算消费量E.耗能工质不予统计",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "ADE",
+      "resource": "2022年度全国统计专业技术初级资格考试_实务卷_多选_45",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "elementary level",
+      "year": 2022
+    }
+  },
+  {
+    "index": 81,
+    "question": "实际工作中，计算建筑安装工程投资完成额主要采用（）。A.平均价格法B.部位进度法C.单价法D.成本法E.重置成本法",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "BC",
+      "resource": "2022年度全国统计专业技术初级资格考试_实务卷_多选_46",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "elementary level",
+      "year": 2022
+    }
+  },
+  {
+    "index": 82,
+    "question": "下列各项中，属于能源消费统计中的耗能工质的是（）。A.煤B.水C.氧气D.柴油E.压缩空气",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "BCE",
+      "resource": "2022年度全国统计专业技术初级资格考试_实务卷_多选_47",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "elementary level",
+      "year": 2022
+    }
+  },
+  {
+    "index": 83,
+    "question": "城镇住户调查中，财产净收入包括（）。A.存款利息B.出租房屋的租金C.投资股票获得的红利D.失业救济金E.稿费",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "ABC",
+      "resource": "2022年度全国统计专业技术初级资格考试_实务卷_多选_48",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "elementary level",
+      "year": 2022
+    }
+  },
+  {
+    "index": 84,
+    "question": "下列各项中，属于创新活动的有（）。A.应用研究B.产品创新C.工艺创新D.试验发展E.组织创新",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "BCE",
+      "resource": "2022年度全国统计专业技术初级资格考试_实务卷_多选_49",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "elementary level",
+      "year": 2022
+    }
+  },
+  {
+    "index": 85,
+    "question": "产业活动单位应同时具备的条件有（）。A.能够独立承担民事责任B.有权与其他单位签订合同C.相对独立地组织生产或业务活动D.能够提供收入、支出等相关资料E.在一个场所从事一种或主要从事一种社会经济活动",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "CDE",
+      "resource": "2022年度全国统计专业技术初级资格考试_实务卷_多选_50",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "elementary level",
+      "year": 2022
+    }
+  },
+  {
+    "index": 86,
+    "question": "下列各项中，属于我国价格统计体系中核心内容的是（）A.居民消费价格指数B.商品零售价格指数C.工资价格指数D.工业品价格指数E.固定资产投资价格指数",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "ABDE",
+      "resource": "2022年度全国统计专业技术初级资格考试_实务卷_多选_51",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "elementary level",
+      "year": 2022
+    }
+  },
+  {
+    "index": 87,
+    "question": "建筑业总产值包括（）。A.设备安装工程价值B.建筑工程产值C.被安装设备本身价值D.房屋修理所完成的价值E.被修理的房屋本身价值",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "ABD",
+      "resource": "2022年度全国统计专业技术初级资格考试_实务卷_多选_52",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "elementary level",
+      "year": 2022
+    }
+  },
+  {
+    "index": 88,
+    "question": "下列关于基尼系数的说法正确的是（）。A.基尼系数是表示消费结构的一个指标B.基尼系数是表示收入分配差异程度的指标C.基尼系数的范围为：0～1D.基尼系数越大，说明收入分配越平均E.基尼系数越小，说明收入分配越平均",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "BCE",
+      "resource": "2022年度全国统计专业技术初级资格考试_实务卷_多选_53",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "elementary level",
+      "year": 2022
+    }
+  },
+  {
+    "index": 89,
+    "question": "工业中间投入包括（）。A.外购劳务B.自制品C.固定资产转移价值D.回收废物E.外购燃料",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "AE",
+      "resource": "2022年度全国统计专业技术初级资格考试_实务卷_多选_54",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "elementary level",
+      "year": 2022
+    }
+  },
+  {
+    "index": 90,
+    "question": "合法统计调查表需要有（）等标志。A.制定机关B.表号C.批准人D.有效期限E.主管单位",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "ABD",
+      "resource": "2022年度全国统计专业技术初级资格考试_实务卷_多选_55",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "elementary level",
+      "year": 2022
+    }
+  },
+  {
+    "index": 91,
+    "question": "属于简单随机抽样的是( )A最简单的抽样技术B不会抽到一个非常差的样本C抽样框不需要其他辅助信息就能抽样D样本量的确定、总体估计、方差估计有现成的标准公式可用",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "ACD",
+      "resource": "2023年度全国统计专业技术初级资格考试__实务卷_多选_6",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "elementary level",
+      "year": 2023
+    }
+  },
+  {
+    "index": 92,
+    "question": "数字经济及其核心产业统计分类（2021 ）中属于数字经济核心产业的是（）。A数字产品制造业B数字化效率投资C数字产品服务业D数字技术应用业E数字要素驱动业",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "ACDE",
+      "resource": "2023年度全国统计专业技术初级资格考试__实务卷_多选_7",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "elementary level",
+      "year": 2023
+    }
+  },
+  {
+    "index": 93,
+    "question": "下列各项中应计入建筑业总产值的是（）。A新建厂房工程的价值B列入预算的电缆敷设工程的价值C动力设备安装工程的价值D购进的生产设备本身的价值E原有建筑物与拆除和工地平整工程的价值",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "BE",
+      "resource": "2023年度全国统计专业技术初级资格考试__实务卷_多选_8",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "elementary level",
+      "year": 2023
+    }
+  },
+  {
+    "index": 94,
+    "question": "对于能源经销企业应计入商品购进量的是（）。A其他单位赠送的样品B从工业企业购入的能源商品C买卖双方直接计算, 本单位只收取手续费的能源商品D从海关购买的缉私能源商品E销货使用，买方拒付货款的能源商品",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "BD",
+      "resource": "2023年度全国统计专业技术初级资格考试__实务卷_多选_9",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "elementary level",
+      "year": 2023
+    }
+  },
+  {
+    "index": 95,
+    "question": "下列人员中应计入本单位从业人员期末人数的是（）。A报告期最后一日与本单位解除劳动合同关系的人员B派往外单位短期学习，工资仍由本单位发放的人员C离开本单位，按期领取生活费的人员D在本单位实习的在校学生E劳务派遣单位派遣到本单位的人员",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "BE",
+      "resource": "2023年度全国统计专业技术初级资格考试__实务卷_多选_10",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "elementary level",
+      "year": 2023
+    }
+  },
+  {
+    "index": 96,
+    "question": "关于统计调查方法下列说法正确的是（）。A普查是政府统计常用的调查方法之一B政府统计中不使用行政记录资料C调查方法的选择要考虑调查目的和调查对象的特点D一项统计调查只能选择一种调查方法E能用非全面调查方法解决问题的就不采用全面调查",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "ACE",
+      "resource": "2023年度全国统计专业技术初级资格考试__实务卷_多选_11",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "elementary level",
+      "year": 2023
+    }
+  },
+  {
+    "index": 97,
+    "question": "统计实践证明，( )，都是科学合理、切实可行的统计调查方法。 A周期性普查 B经常性抽样调查 C全面定期统计报表 D案件调查 E 行政记录",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "ABCE",
+      "resource": "2017年度全国统计专业技术中级级资格考试__实务卷_多选_46",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "medium level",
+      "year": 2017
+    }
+  },
+  {
+    "index": 98,
+    "question": "与其他调查方法相比，普查的主要特点有( )。 A 覆盖单位更全 B 资料更系统 C 工作量大 D 时间较长 E 组织工作较为便利",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "ABCD",
+      "resource": "2017年度全国统计专业技术中级级资格考试__实务卷_多选_47",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "medium level",
+      "year": 2017
+    }
+  },
+  {
+    "index": 99,
+    "question": "国民经济核算中，机构单位按其性质及在国民经济中的功能划分为( )等机构部门。 A 非金融企业部门 B 金融机构部门 C 政府部门 D 住户部门 E 省外部门",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "ABCD",
+      "resource": "2017年度全国统计专业技术中级级资格考试__实务卷_多选_48",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "medium level",
+      "year": 2017
+    }
+  },
+  {
+    "index": 100,
+    "question": "我国资金流量表的编制分为两个部分来进行，这两个部分分别为( )。 A 实物交易部分 B 初次分配和再分配部分 C 经常转移部分 D 金融交易部分 E 净金融投资形成部分",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "AD",
+      "resource": "2017年度全国统计专业技术中级级资格考试__实务卷_多选_49",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "medium level",
+      "year": 2017
+    }
+  },
+  {
+    "index": 101,
+    "question": "资产负债核算中，我国已经开始了国有经济固定资产按照( )等资产进行分类的研究及编表工作。 A 无线电频谱 B 机器设备 C 市政工程 D 水资源 E 其他建筑物",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "BCE",
+      "resource": "2017年度全国统计专业技术中级级资格考试__实务卷_多选_50",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "medium level",
+      "year": 2017
+    }
+  },
+  {
+    "index": 102,
+    "question": "农产品产量统计包括( )。 A 粮食产量 B 油料产量 C 水果及干果产量 D 猪牛羊肉产量 E 期初(末)畜禽存栏头(只)数",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "ABDE",
+      "resource": "2017年度全国统计专业技术中级级资格考试__实务卷_多选_51",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "medium level",
+      "year": 2017
+    }
+  },
+  {
+    "index": 103,
+    "question": "计算空置面积的商品房包括( )。 A 待售商品房 B 滞销商品房 C 积压商品房 D 周转商品房 E 自持商品房",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "ABC",
+      "resource": "2017年度全国统计专业技术中级级资格考试__实务卷_多选_52",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "medium level",
+      "year": 2017
+    }
+  },
+  {
+    "index": 104,
+    "question": "能源存货量核算应遵循的原则包括( )。 A 时点性原则 B 实际数量原则 C 以验收合格办理完入库手续为准 D 能源使用企业按使用所有权原则进行核算 E 能源生产、经销企业按所有权原则进行核算",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "ABCE",
+      "resource": "2017年度全国统计专业技术中级级资格考试__实务卷_多选_53",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "medium level",
+      "year": 2017
+    }
+  },
+  {
+    "index": 105,
+    "question": "住户调查的主要目的和作用是( )。 A 了解全国和各地区城乡居民收入、消费等生活状况 B 为国民经济核算和价格调查提供基础数据 C 为一些重要研究，如收入分配、消费结构等提供必要的数据资料 D 为确定工业品价格指数提供各类使用品的权重资料 E 了解全国和各地城乡居民生活满意度",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "ABC",
+      "resource": "2017年度全国统计专业技术中级级资格考试__实务卷_多选_54",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "medium level",
+      "year": 2017
+    }
+  },
+  {
+    "index": 106,
+    "question": "编制固定资产投资价格指数，应分别编制( )，然后采用加权算术平均法求得固定资产价格总指数。 A 建筑安装工程投资价格指数 B 设备、工器具投资价格指数 C 其他费用投资价格指数 D 租赁房房租价格指数 E 新建住宅销售价格指数",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "ABC",
+      "resource": "2017年度全国统计专业技术中级级资格考试__实务卷_多选_55",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "medium level",
+      "year": 2017
+    }
+  },
+  {
+    "index": 107,
+    "question": "经批准进行的涉外社会调查，应当在调查问卷、表格或者访谈、观察提纲首页显著位置标明并向调查对象说明( )等事项。 A. 涉外调查许可证编号 B. 调查项目的制定机关 C. 调查项目的批准机关、批准文号 D. 本调查为调查对象自愿接受的调查",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "ACD",
+      "resource": "2018年度全国统计专业技术中级资格考试__实务卷_多选_43",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "medium level",
+      "year": 2018
+    }
+  },
+  {
+    "index": 108,
+    "question": "下列关于统计标准的表述，正确的有( )。 A. 统计标准是确保统计数据真实准确、可比可靠的基石 B. 国家统计标准由国家统计局制定，或者由国家统计局和国务院标准化主管部门共同制定 C. 国务院有关部门可以根据本部门统计工作的需要，在国家统计标准的基础上制定补充性的部门统计标准，报国务院标准化主管部门审批 D. 部门统计标准不得与国家统计标准相抵触",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "ABDE",
+      "resource": "2018年度全国统计专业技术中级资格考试__实务卷_多选_44",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "medium level",
+      "year": 2018
+    }
+  },
+  {
+    "index": 109,
+    "question": "下列人员中可以作为统计政务处分适用对象的有( )。 A. 行政机关公务员 B. 法律、法规授权的具有公共事务管理职能的事业单位中经批准参照《中华人民共和国公务员法》管理的工作人员 C. 行政机关依法委托的组织中的工作人员 D. 企业、事业单位、社会团体中由行政机关任命的人员",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "ABD",
+      "resource": "2018年度全国统计专业技术中级资格考试__实务卷_多选_45",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "medium level",
+      "year": 2018
+    }
+  },
+  {
+    "index": 110,
+    "question": "目前我国开展的全国性大型普查有( )。 A. 经济普查 B. 农业普查 C. 人口普查 D. 工业普查",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "ABC",
+      "resource": "2018年度全国统计专业技术中级资格考试__实务卷_多选_46",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "medium level",
+      "year": 2018
+    }
+  },
+  {
+    "index": 111,
+    "question": "下列关于核算价格的表述，正确的有( )。 A. 基本价格是生产者生产的单位货物和服务向购买者出售时获得的价值，减去其应付所得税 B. 生产者价格是生产者生产的单位货物和服务向购买者出售时获得的价值，加上其应收补贴 C. 生产者价格不包括货物离开生产单位后所发生的运输费用和商业费用 D. 购买者价格是购买者购买单位货物和服务所支付的价值",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "CDE",
+      "resource": "2018年度全国统计专业技术中级资格考试__实务卷_多选_47",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "medium level",
+      "year": 2018
+    }
+  },
+  {
+    "index": 112,
+    "question": "下列关于机构单位的表述，正确的有( )。 A. 有权独立拥有货物和资产，能够与其他机构单位交换货物或资产的所有权 B. 能够作为直接负有法律责任的经济实体决定和从事相应的经济活动 C. 能以自己的名义承担负债、其他义务或未来的承诺，并能签订契约 D. 能够编制出包括资金流量表在内的一套完整的账户",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "ABCE",
+      "resource": "2018年度全国统计专业技术中级资格考试__实务卷_多选_48",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "medium level",
+      "year": 2018
+    }
+  },
+  {
+    "index": 113,
+    "question": "在下列价值指标中，一般不能通过“数量×单价”的方法计算出来的是( )。 A. 总产值 B. 增加值 C. 货物出口 D. 销售额",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "BE ",
+      "resource": "2018年度全国统计专业技术中级资格考试__实务卷_多选_49",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "medium level",
+      "year": 2018
+    }
+  },
+  {
+    "index": 114,
+    "question": "下列各项表述中正确的有( )。 A. 国内生产总值=最终消费+资本形成总额+净出口 B. 国内生产总值=总产出+中间投入 C. 国内生产总值=劳动者报酬+生产税净额+固定资产折旧+营业盈余 D. 无论是否存在统计误差，生产法国内生产总值都等于支出法国内生产总值",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "ACE",
+      "resource": "2018年度全国统计专业技术中级资格考试__实务卷_多选_50",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "medium level",
+      "year": 2018
+    }
+  },
+  {
+    "index": 115,
+    "question": "支出法核算中的货物和服务进出口与海关统计的进出口总额的差别主要有( )。 A. 范围不同 B. 价格不同 C. 划分进出口的依据不同 D. 支出法GDP中的进口不包括常住单位在国外购买的货物",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "ABC",
+      "resource": "2018年度全国统计专业技术中级资格考试__实务卷_多选_51",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "medium level",
+      "year": 2018
+    }
+  },
+  {
+    "index": 116,
+    "question": "固定资本形成包括( )。 A. 购买的大型机器设备 B. 土地改良 C. 购买的旧建筑、旧设备 D. 奶牛增重",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "ABDE",
+      "resource": "2018年度全国统计专业技术中级资格考试__实务卷_多选_52",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "medium level",
+      "year": 2018
+    }
+  },
+  {
+    "index": 117,
+    "question": "下列关于工业统计的表述，正确的有( )。 A. 工业统计包括采矿业，制造业以及电力、热力、燃气及水生产和供应业的统计 B. 工业统计调查单位包括工业法人单位和工业个体经营单位 C. 对规下工业统计单位调查采用抽样调查的方法收集样本数据，进行推算 D. 工业增加值是按不变价格进行计算的",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "ABC",
+      "resource": "2018年度全国统计专业技术中级资格考试__实务卷_多选_53",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "medium level",
+      "year": 2018
+    }
+  },
+  {
+    "index": 118,
+    "question": "社会消费品零售总额包括( )。 A. 居民购票观看文艺演出 B. 居民支付的个人出行交通费 C. 居民购买的保险支出 D. 农民售给非农业居民和社会集团的商品",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "DE ",
+      "resource": "2018年度全国统计专业技术中级资格考试__实务卷_多选_54",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "medium level",
+      "year": 2018
+    }
+  },
+  {
+    "index": 119,
+    "question": "根据金融活动的领域，金融市场包括( )。 A. 债券市场 B. 拍卖市场 C. 股票市场 D. 外汇市场",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "ACDE",
+      "resource": "2018年度全国统计专业技术中级资格考试__实务卷_多选_55",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "medium level",
+      "year": 2018
+    }
+  },
+  {
+    "index": 120,
+    "question": "关于地方统计调查项目的制定，包含以下几种情形( )。 A. 国家统计局在地方派出的直属调查队单独制定 B. 县级以上人民政府有关部门单独制定 C. 县级以上地方人民政府统计机构和有关部门共同制定 D. 县级以上地方人民政府有关部门单独制定",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "CDE",
+      "resource": "2019年度全国统计专业技术中级资格考试__实务卷_多选_42",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "medium level",
+      "year": 2019
+    }
+  },
+  {
+    "index": 121,
+    "question": "统计行政处罚的基本原则包括()。 A. 程序优先原则 B. 统计行政处罚法定原则 C. 公正、公开原则 D. 统计行政处罚与统计违法行为相适应的原则",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "BCD",
+      "resource": "2019年度全国统计专业技术中级资格考试__实务卷_多选_44",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "medium level",
+      "year": 2019
+    }
+  },
+  {
+    "index": 122,
+    "question": "按照《关于统计上划分城乡的规定》，下列各项中属于城镇地区有()。 A. 城乡结合区 B. 镇乡结合区 C. 乡中心区 D. 镇中心区",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "ABDE",
+      "resource": "2019年度全国统计专业技术中级资格考试__实务卷_多选_46",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "medium level",
+      "year": 2019
+    }
+  },
+  {
+    "index": 123,
+    "question": "《国民经济行业分类》(GB/T4754-2017)划分为( )。 A. 门类 B. 大类 C. 中类 D. 小类",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "ABCD",
+      "resource": "2019年度全国统计专业技术中级资格考试__实务卷_多选_47",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "medium level",
+      "year": 2019
+    }
+  },
+  {
+    "index": 124,
+    "question": "统计调查方案可行性研究的方法包括( )。 A. 典型调查法 B. 重点调查法 C. 逻辑分析法 D. 经验判断法",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "CDE",
+      "resource": "2019年度全国统计专业技术中级资格考试__实务卷_多选_48",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "medium level",
+      "year": 2019
+    }
+  },
+  {
+    "index": 125,
+    "question": "生产范围决定消费范围，住户最终消费不包括( )。 A. 自己动手修理和维护车辆的服务价值 B. 自己清理住宅的服务价值 C. 自产自用农产品的价值 D. 自有住房服务的价值",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "ABE",
+      "resource": "2019年度全国统计专业技术中级资格考试__实务卷_多选_49",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "medium level",
+      "year": 2019
+    }
+  },
+  {
+    "index": 126,
+    "question": "中间投入也称为中间消耗，不包括()。 A. 能够获取经济利益的研究与开发支出 B. 原材料消耗 C. 燃料动力消耗 D. 购置的固定资产",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "ADE",
+      "resource": "2019年度全国统计专业技术中级资格考试__实务卷_多选_50",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "medium level",
+      "year": 2019
+    }
+  },
+  {
+    "index": 127,
+    "question": "不变价政府消费支出核算应综合利用( )缩减。 A. 人均工资指数 B. 服务项目价格指数 C. 居民消费价格指数 D. 零售价格指数",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "ACE",
+      "resource": "2019年度全国统计专业技术中级资格考试__实务卷_多选_51",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "medium level",
+      "year": 2019
+    }
+  },
+  {
+    "index": 128,
+    "question": "初次分配总收入包括()。 A. 财产收入 B. 劳动者报酬 C. 所得税 D. 生产税净额",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "ABD",
+      "resource": "2019年度全国统计专业技术中级资格考试__实务卷_多选_52",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "medium level",
+      "year": 2019
+    }
+  },
+  {
+    "index": 129,
+    "question": "以下说法正确的有( )。 A. 货物(旅客)周转量是研究运输发展规模和速度的重要指标 B. 货物(旅客)周转量是反馈运输业生产总成果的重要指标 C. 货物(旅客)周转量是计算运输劳动生产率的基础数据 D. 货物(旅客)周转量是反映运输业为国民经济和人民生活服务的数量指标",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "BCE",
+      "resource": "2019年度全国统计专业技术中级资格考试__实务卷_多选_53",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "medium level",
+      "year": 2019
+    }
+  },
+  {
+    "index": 130,
+    "question": "社会消费品零售总额包括()。 A. 售给城乡居民个人生活消费的商品金额 B. 城市居民用于购买商品房的支出费用 C. 农民用于购买农业生产资料的支出费用 D. 售给入境旅游的外国人、华侨、港澳台同胞的商品金额",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "ADE",
+      "resource": "2019年度全国统计专业技术中级资格考试__实务卷_多选_54",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "medium level",
+      "year": 2019
+    }
+  },
+  {
+    "index": 131,
+    "question": "列入我国进出口货物贸易统计的货物须同时具备的条件包括( )。 A. 自用的进出境物品 B. 实际进出关境 C. 改变我国的物质资源存量 D. 过境进出口货物",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "BC",
+      "resource": "2019年度全国统计专业技术中级资格考试__实务卷_多选_55",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "medium level",
+      "year": 2019
+    }
+  },
+  {
+    "index": 132,
+    "question": "下列关于县级以上人民政府有关部门统计机构设置的表述，不正确的是（ ）。 A.  根据统计任务的需要设立统计机构 B.  设立独立的统计机构，聘用专职或兼职统计人员 C. 在有关机构中设置统计人员，并指定统计负责人 D. 设置统计工作岗位，聘用专职或者兼职统计人员",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "BDE",
+      "resource": "2020年度全国统计专业技术中级资格考试__实务卷_多选_42",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "medium level",
+      "year": 2020
+    }
+  },
+  {
+    "index": 133,
+    "question": "下列关于申请涉外调查许可证的机构应当具备的条件，不正确的是（ ）。 A. 依法成立，具有法人资格 B. 经营范围或业务范围包含市场调查或者社会调查内容 C. 具有熟悉国家有关涉外调查管理规定的人员 D. 在申请之日前一年内开展一项以上调查项目，或者调查营业额达到十万元",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "DE",
+      "resource": "2020年度全国统计专业技术中级资格考试__实务卷_多选_43",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "medium level",
+      "year": 2020
+    }
+  },
+  {
+    "index": 134,
+    "question": "按照《行政处罚法》的相关规定，统计行政机关在正式做出行政处罚决定之前，应当以书面形式告知当事人的内容有（ ）。 A. 做出行政处罚的事实 B. 做出行政处罚的各种证据 C. 做出行政处罚的理由 D. 做出行政处罚的法律依据",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "ACDE",
+      "resource": "2020年度全国统计专业技术中级资格考试__实务卷_多选_45",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "medium level",
+      "year": 2020
+    }
+  },
+  {
+    "index": 135,
+    "question": "统计的基本任务是对经济社会发展情况进行（ ）。 A. 统计调查 B. 统计分析 C. 提供统计资料和统计咨询意见 D. 实行统计监督",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "ABCD",
+      "resource": "2020年度全国统计专业技术中级资格考试__实务卷_多选_46",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "medium level",
+      "year": 2020
+    }
+  },
+  {
+    "index": 136,
+    "question": "统计调查设计的结果体现为调查方案，包括（ ）等内容。 A. 统计指标 B. 调查方法 C. 调查表式 D. 调查实施",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "ABC",
+      "resource": "2020年度全国统计专业技术中级资格考试__实务卷_多选_47",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "medium level",
+      "year": 2020
+    }
+  },
+  {
+    "index": 137,
+    "question": "中国国民经济核算体系的核心内容是基本核算。基本核算包括（ ）。 A. 国内生产总值核算 B. 投入产出核算 C. 资金流量核算 D. 资产负债核算",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "ABCD",
+      "resource": "2020年度全国统计专业技术中级资格考试__实务卷_多选_48",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "medium level",
+      "year": 2020
+    }
+  },
+  {
+    "index": 138,
+    "question": "下列关于总产出的说法中正确的有（ ）。 A.  总产出反映常住单位生产活动的总规模 B.  总产出由市场总产出、为自身最终使用的总产出和非市场总产出组成 C. 市场总产出按生产者价格估价 D. 在我国核算实践中，实施增值税的行业总产出不包括应交增值税",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "ABCE",
+      "resource": "2020年度全国统计专业技术中级资格考试__实务卷_多选_49",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "medium level",
+      "year": 2020
+    }
+  },
+  {
+    "index": 139,
+    "question": "不变价国内生产总值（ ）。 A.  是按基期价格计算的国内生产总值 B.  可以分别按分行业增加值和最终使用进行核算 C.  分行业核算时，核算方法主要采用价格指数缩减法和物量指数外推法 D. 两个时期数据比较可以反映国内生产总值增长速度",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "ABCD",
+      "resource": "2020年度全国统计专业技术中级资格考试__实务卷_多选_50",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "medium level",
+      "year": 2020
+    }
+  },
+  {
+    "index": 140,
+    "question": "下列关于国际收支核算的表述中，正确的有（ ）。 A.  国际收支是指常住单位和非常住单位之间进行经济交易所发生的全部收支 B. 国际收支核算即编制国际收支平衡表和国际投资头寸表 C. 我国国际收支平衡表和国际投资头寸表均只使用美元作为记账单位 D. 通常认为一个国家负债率不应超过 20%",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "ABD",
+      "resource": "2020年度全国统计专业技术中级资格考试__实务卷_多选_51",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "medium level",
+      "year": 2020
+    }
+  },
+  {
+    "index": 141,
+    "question": "下列关于国际收支核算的表述中，正确的有（ ）。 A.  国际收支是指常住单位和非常住单位之间进行经济交易所发生的全部收支 B. 国际收支核算即编制国际收支平衡表和国际投资头寸表 C. 我国国际收支平衡表和国际投资头寸表均只使用美元作为记账单位 D. 通常认为一个国家负债率不应超过 20%",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "ABCD",
+      "resource": "2020年度全国统计专业技术中级资格考试__实务卷_多选_52",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "medium level",
+      "year": 2020
+    }
+  },
+  {
+    "index": 142,
+    "question": "能源消费量统计的原则是（ ）。 A.  谁消费、谁统计 B.  何时投入使用，何时计算消费量 C. 消费量只能计算一次 D. 耗能工质（如水、氧气、压缩空气等）统计在能源消耗量中",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "ABCE",
+      "resource": "2020年度全国统计专业技术中级资格考试__实务卷_多选_53",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "medium level",
+      "year": 2020
+    }
+  },
+  {
+    "index": 143,
+    "question": "关于文化及相关产业统计下列说法正确的是（ ）。 A.  文化及相关产业是指为社会公众提供文化产品和文化相关产品的生产活动的集合 B. 全部文化生产活动划分为文化核心领域和文化相关领域 C. 文化装备生产活动不属于文化及相关产业 D. 文化及相关产业增加值的核算方法有生产法和收入法",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "ABD",
+      "resource": "2020年度全国统计专业技术中级资格考试__实务卷_多选_54",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "medium level",
+      "year": 2020
+    }
+  },
+  {
+    "index": 144,
+    "question": "按照收入的来源，居民可支配收入包含（ ）。 A.  工资性收入 B. 经营净收入 C. 生产性固定资产折旧 D. 财产净收入",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "ABDE",
+      "resource": "2020年度全国统计专业技术中级资格考试__实务卷_多选_55",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "medium level",
+      "year": 2020
+    }
+  },
+  {
+    "index": 145,
+    "question": "关于我国现行统计管理体制，下列说法正确的是（ ）A.实行统一领导、分级负责的统计管理体制B.国家统计局依法组织领导和协调全国的统计工作C.地方各级统计机构设立、人员编制由地方政府负责D.各级人民政府和上级统计机构共同保障统计工作开展所需的条件E.各级统计机构对自己组织实施的统计调查活动负责",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "ABCE",
+      "resource": "2021年度全国统计专业技术中级资格考试__实务卷_多选_22",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "medium level",
+      "year": 2021
+    }
+  },
+  {
+    "index": 146,
+    "question": "未取得涉外调查许可证进行涉外调查的，可能承担的法律责任包括（ ）A.责令停止调查B.有违法所得的，没收违法所得C.违法所得 50 万元以上的，处违法所得 1 倍以上 5 倍以下的罚款D.没有违法所得的，处 200 万元以下的罚款E.依法追究刑事责任",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "ABDE",
+      "resource": "2021年度全国统计专业技术中级资格考试__实务卷_多选_24",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "medium level",
+      "year": 2021
+    }
+  },
+  {
+    "index": 147,
+    "question": "下列统计调查项目中，应当依法报送国家统计局审批的是( )A.教育部制定的，统计调查对象属于本部门管辖系统的统计调查项目B.教育部制定的，统计调查对象超出本部门管辖系统的统计调查项目C.安徽省统计局制定的统计调查项目D.安徽省教育厅制定的统计调查项目E.安徽省统计局和教育厅共同制定的统计调查项目",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "BCE",
+      "resource": "2021年度全国统计专业技术中级资格考试__实务卷_多选_25",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "medium level",
+      "year": 2021
+    }
+  },
+  {
+    "index": 148,
+    "question": "经济普查数据被政府、部门(行业协会)研究机构和企业广泛应用于（ ）A.农业产业分析B.修订 GDPC.预测经济形势D.制定公共政策E.进行投资决策",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "BCDE",
+      "resource": "2021年度全国统计专业技术中级资格考试__实务卷_多选_27",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "medium level",
+      "year": 2021
+    }
+  },
+  {
+    "index": 149,
+    "question": "下列关于统计业务工作基本流程的说法中正确的有()A.规范统一是统计工作的突出特征B.统计调查制度包括统计调查单位、调查指标、调查时间、调查频率、调查方法、数据采集和处理方法、数据评估方法、数据使用和发布及组织方式等内容C.原始数据通过入户调查、电话调查、网络调查、网络直报、无人机遥感等方式采集D.在数据处理中对出现的问题数据进行核实和修正E.各级统计机构拟定的数据发布时间和方式，不提前向社会公开",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "ABCD",
+      "resource": "2021年度全国统计专业技术中级资格考试__实务卷_多选_28",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "medium level",
+      "year": 2021
+    }
+  },
+  {
+    "index": 150,
+    "question": "统计调查设计中，会导致系统性误差的方法设计缺陷有（ ）A.调查范围覆盖不全B.尽可能减少调查对象负担C.样本轮换不及时D.抽样调查样本数量不足E.最大限度满足用户需求",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "ACD",
+      "resource": "2021年度全国统计专业技术中级资格考试__实务卷_多选_29",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "medium level",
+      "year": 2021
+    }
+  },
+  {
+    "index": 151,
+    "question": "我国统计单位包括( )A.集团单位B.法人单位C.产业活动单位D.农业种植户E.个体经营户",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "BCE",
+      "resource": "2021年度全国统计专业技术中级资格考试__实务卷_多选_30",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "medium level",
+      "year": 2021
+    }
+  },
+  {
+    "index": 152,
+    "question": "判断常住单位具有经济利益中心的基本要素是()A.具有一定的活动场所B.从事一定规模的经济活动C.拥有一定的设备和人力D.具有法定代表人E.从事经济活动超过一定时期（通常以一年为准)",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "ABE",
+      "resource": "2021年度全国统计专业技术中级资格考试__实务卷_多选_31",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "medium level",
+      "year": 2021
+    }
+  },
+  {
+    "index": 153,
+    "question": "下列关于资产负债核算的表述，正确的（ ）A.资产负债核算是以经济资产流量为对象的核算B.资产负债交易变化表记录由其他非交易因素引起的资产物量其他变化C.资产负债核算原则上按编表时点的市场价格估价D.固定资产通常采用永续盘存法进行估价E.资产净值是资产负债表的平衡项",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "CDE",
+      "resource": "2021年度全国统计专业技术中级资格考试__实务卷_多选_32",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "medium level",
+      "year": 2021
+    }
+  },
+  {
+    "index": 154,
+    "question": "房屋建筑面积应该包括( )A.多层房屋各层（包括地下室）面积总和B.旧房加层或改造中增加的建筑面积C.旧房拆除重建面积D.临时房屋面积E.突出墙面的柱垛、台阶的面积",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "ABC",
+      "resource": "2021年度全国统计专业技术中级资格考试__实务卷_多选_33",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "medium level",
+      "year": 2021
+    }
+  },
+  {
+    "index": 155,
+    "question": "反映运输业和邮政业生产发展总成果的指标是( )A.客运量B.货运量C.货物（旅客）周转量D.邮政业业务总量E.快递业务量",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "CD",
+      "resource": "2021年度全国统计专业技术中级资格考试__实务卷_多选_34",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "medium level",
+      "year": 2021
+    }
+  },
+  {
+    "index": 156,
+    "question": "按技术开发程度划分,能源可分为( )A.一次能源B.燃料型能源C.传统能源D.清洁能源E.新能源",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "CE",
+      "resource": "2021年度全国统计专业技术中级资格考试__实务卷_多选_35",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "medium level",
+      "year": 2021
+    }
+  },
+  {
+    "index": 157,
+    "question": "下列关于价格指数的说法，正确的是()A.价格指数是计算不变价 GDP 的重要基础指标B.价格指数计算方法主要有简单算术平均法、几何平均法和加权平均法C.目前计算居民消费价格指数的固定基期确定在 2020 年D.工业生产者价格权数调查每十年进行一次E.房地产价格统计调查范围为 70 个大中城市的市辖区，不包括县",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "ABCE",
+      "resource": "2021年度全国统计专业技术中级资格考试__实务卷_多选_36",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "medium level",
+      "year": 2021
+    }
+  },
+  {
+    "index": 158,
+    "question": "关于我国现行统计管理体制，下列说法正确的是（ ）。 A.实行统一领导、分级负责的统计管理体制 B.国家统计局依法组织领导和协调全国的统计工作 C.地方各级统计机构设立、人员编制由地方政府负责 D.各级人民政府和上级统计机构共同保障统计工作开展所需的条件 E.各级统计机构对自己组织实施的统计调查活动负责 ",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "ABCE",
+      "resource": "2022年度全国统计专业技术中级资格考试__实务卷_多选_42",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "medium level",
+      "year": 2022
+    }
+  },
+  {
+    "index": 159,
+    "question": "国家依法授权的统计执法监督检查权的机关包括（ ）。 A.国家统计局 B.国家统计局派出的调查队 C.人民检察院 D.县级以上地方各级人民政府统计机构 E.乡镇统计科 ",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "ABD",
+      "resource": "2022年度全国统计专业技术中级资格考试__实务卷_多选_44",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "medium level",
+      "year": 2022
+    }
+  },
+  {
+    "index": 160,
+    "question": "统计执法监督检查机构和执法检查人员的法定职责包括 （ ）。 A.起草制定统计法律法规规章和规范性文件 B.宣传、贯彻统计法律法规规章 C.布置统计调查任务 D.管理部门统计调查项目和地方统计调查项目 E.依法查处统计违法行为 ",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "ABE",
+      "resource": "2022年度全国统计专业技术中级资格考试__实务卷_多选_45",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "medium level",
+      "year": 2022
+    }
+  },
+  {
+    "index": 161,
+    "question": "统计行政处罚法定原则是指（ ）。 A.统计行政处罚的情况是法定的 B.统计行政处罚的依据是法定的 C.统计行政处罚的实施主体是法定的 D.统计行政处罚的职权是法定的 E.统计行政处罚的程序是法定的 ",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "BCDE",
+      "resource": "2022年度全国统计专业技术中级资格考试__实务卷_多选_48",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "medium level",
+      "year": 2022
+    }
+  },
+  {
+    "index": 162,
+    "question": "统计行政复议决定包括的情况有（ ）。 A.不予受理决定 B.维持决定 C.履行决定 D.撤销、变更和确认违法决定 E.和解协议 ",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "BCD",
+      "resource": "2022年度全国统计专业技术中级资格考试__实务卷_多选_49",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "medium level",
+      "year": 2022
+    }
+  },
+  {
+    "index": 163,
+    "question": "经济普查数据被政府、部门（行业协会）、研究机构和企业广泛应用于（ ）。 A.农业产业分析 B.修订 GDPC.预测经济形势 D.制定公共政策 E.进行投资决策 ",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "BCDE",
+      "resource": "2022年度全国统计专业技术中级资格考试__实务卷_多选_50",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "medium level",
+      "year": 2022
+    }
+  },
+  {
+    "index": 164,
+    "question": "扩展核算包括（ ）。 A.资源环境核算 B.资金流量核算 C.旅游核算 D.卫生核算 E.新兴经济核算 ",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "ACDE",
+      "resource": "2022年度全国统计专业技术中级资格考试__实务卷_多选_51",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "medium level",
+      "year": 2022
+    }
+  },
+  {
+    "index": 165,
+    "question": "国民经济核算价格主要（ ）价格。A.市场价格 B.购买者价格 C.生产者价格 D.基本价格 E.预算价格 ",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "BCD",
+      "resource": "2022年度全国统计专业技术中级资格考试__实务卷_多选_52",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "medium level",
+      "year": 2022
+    }
+  },
+  {
+    "index": 166,
+    "question": "属于中间投入的项目为（ ）。 A.对生产设备定期保养和修理的支出 B.单位为雇员定制的工作服 C.生产企业新建的仓库 D.机器设备的更新改造 E.雇员在外出差的费用 ",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "ABE",
+      "resource": "2022年度全国统计专业技术中级资格考试__实务卷_多选_53",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "medium level",
+      "year": 2022
+    }
+  },
+  {
+    "index": 167,
+    "question": "农林牧渔业增加值采用（ ）和（ ）两种方法计算。 A.产品法 B.资产负债法 C.生产法 D.收入法 E.资金流量法 ",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "CD",
+      "resource": "2022年度全国统计专业技术中级资格考试__实务卷_多选_54",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "medium level",
+      "year": 2022
+    }
+  },
+  {
+    "index": 168,
+    "question": "工业企业主要统计指标除工业总产值之外，还包括（ ）。 A.工业销售产值 B.工业出口交货值 C.企业自用量 D.工业产品生产能力 E.从业人员数",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "metadata": {
+      "answer": "ABCD",
+      "resource": "2022年度全国统计专业技术中级资格考试__实务卷_多选_55",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "multiple_choice",
+      "level": "medium level",
+      "year": 2022
+    }
+  }
+]

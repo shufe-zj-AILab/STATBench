@@ -1,0 +1,3776 @@
+[
+  {
+    "index": 1,
+    "question": "农业统计的范围与第一产业统计范围一致。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "F",
+      "resource": "2017年度全国统计专业技术初级资格考试__实务卷_单选_56",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2017
+    }
+  },
+  {
+    "index": 2,
+    "question": "农业统计采用全面调查、抽样调查和重点调查相结合的方法。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "T",
+      "resource": "2017年度全国统计专业技术初级资格考试__实务卷_单选_57",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2017
+    }
+  },
+  {
+    "index": 3,
+    "question": "工业企业生产中外购的废品废料属于中间投入。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "T",
+      "resource": "2017年度全国统计专业技术初级资格考试__实务卷_单选_58",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2017
+    }
+  },
+  {
+    "index": 4,
+    "question": "工业企业基层调查表本期应交增值税为负数时，综合汇总时则按照\n零处理。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "T",
+      "resource": "2017年度全国统计专业技术初级资格考试__实务卷_单选_59",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2017
+    }
+  },
+  {
+    "index": 5,
+    "question": "房地产开发统计调查既包括具有法人资格的独立核算房地产开发单位\n，也包括单纯的房地产管理、代理与经纪的企业。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "F",
+      "resource": "2017年度全国统计专业技术初级资格考试__实务卷_单选_60",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2017
+    }
+  },
+  {
+    "index": 6,
+    "question": "能源按成分划分，分为燃料能源和非燃料能源。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "F",
+      "resource": "2017年度全国统计专业技术初级资格考试__实务卷_单选_61",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2017
+    }
+  },
+  {
+    "index": 7,
+    "question": "工业企业所属独立核算车队消费的能源计算在工业企业能源消费统计中。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "F",
+      "resource": "2017年度全国统计专业技术初级资格考试__实务卷_单选_62",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2017
+    }
+  },
+  {
+    "index": 8,
+    "question": "企业资产负债财务统计主要反映企业拥有的资产、承担的负债及所有\n者权益状况，是进行国民经济核算和编制资产负债表的基础资料。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "T",
+      "resource": "2017年度全国统计专业技术初级资格考试__实务卷_单选_63",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2017
+    }
+  },
+  {
+    "index": 9,
+    "question": "流动负债是偿还期都在一年之内的债务。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "F",
+      "resource": "2017年度全国统计专业技术初级资格考试__实务卷_单选_64",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2017
+    }
+  },
+  {
+    "index": 10,
+    "question": "企业固定资产净值等于固定资产原值减累计折旧。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "T",
+      "resource": "2017年度全国统计专业技术初级资格考试__实务卷_单选_65",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2017
+    }
+  },
+  {
+    "index": 11,
+    "question": "劳动报酬既包括货币形式支付的也包括实物形式支付的。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "T",
+      "resource": "2017年度全国统计专业技术初级资格考试__实务卷_单选_66",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2017
+    }
+  },
+  {
+    "index": 12,
+    "question": "铁路大修属于固定资产投资。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "F",
+      "resource": "2017年度全国统计专业技术初级资格考试__实务卷_单选_67",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2017
+    }
+  },
+  {
+    "index": 13,
+    "question": "固定资产投资是指建造和购置固定资产的经济活动。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "T",
+      "resource": "2017年度全国统计专业技术初级资格考试__实务卷_单选_68",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2017
+    }
+  },
+  {
+    "index": 14,
+    "question": "老年人口系数是指老年人口数与平均人口数的比例。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "F",
+      "resource": "2017年度全国统计专业技术初级资格考试__实务卷_单选_69",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2017
+    }
+  },
+  {
+    "index": 15,
+    "question": "人口普查的户和住户调查的户都包括家庭户和集体户。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "T",
+      "resource": "2017年度全国统计专业技术初级资格考试__实务卷_单选_70",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2017
+    }
+  },
+  {
+    "index": 16,
+    "question": "科技活动经费支出分为内部支出和外部支出。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "T",
+      "resource": "2017年度全国统计专业技术初级资格考试__实务卷_单选_71",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2017
+    }
+  },
+  {
+    "index": 17,
+    "question": "卫生统计属于社会统计。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "T",
+      "resource": "2017年度全国统计专业技术初级资格考试__实务卷_单选_72",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2017
+    }
+  },
+  {
+    "index": 18,
+    "question": "生产价格和消费价格统计是价格统计的两大类别。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "T",
+      "resource": "2017年度全国统计专业技术初级资格考试__实务卷_单选_73",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2017
+    }
+  },
+  {
+    "index": 19,
+    "question": "住户调查采用日记帐和问卷调查相结合的方式采集数据。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "T",
+      "resource": "2017年度全国统计专业技术初级资格考试__实务卷_单选_74",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2017
+    }
+  },
+  {
+    "index": 20,
+    "question": "工业品价格指数采用的权数一般五年更换一次。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "T",
+      "resource": "2017年度全国统计专业技术初级资格考试__实务卷_单选_75",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2017
+    }
+  },
+  {
+    "index": 21,
+    "question": "重点调查属于概率抽样。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "F",
+      "resource": "2018年度全国统计专业技术初级资格考试__实务卷_单选_56",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2018
+    }
+  },
+  {
+    "index": 22,
+    "question": "行政记录由于可以为统计提供信息，所以也是统计。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "F",
+      "resource": "2018年度全国统计专业技术初级资格考试__实务卷_单选_57",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2018
+    }
+  },
+  {
+    "index": 23,
+    "question": "1%人口抽样调查制度属于我国周期性调查制度。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "T",
+      "resource": "2018年度全国统计专业技术初级资格考试__实务卷_单选_58",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2018
+    }
+  },
+  {
+    "index": 24,
+    "question": "确定统计需求是统计生产的第一个阶段。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "T",
+      "resource": "2018年度全国统计专业技术初级资格考试__实务卷_单选_59",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2018
+    }
+  },
+  {
+    "index": 25,
+    "question": "统计资料的获取应当以周期性普查为基础，以经常性抽样调查\n为主体，综合运用全面调查、重点调查等方法，并充分利用行\n政记录等资料。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "T",
+      "resource": "2018年度全国统计专业技术初级资格考试__实务卷_单选_60",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2018
+    }
+  },
+  {
+    "index": 26,
+    "question": "当单位从事两种以上经济活动时，按照主要活动确定单位的国\n民经济行业类别。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "T",
+      "resource": "2018年度全国统计专业技术初级资格考试__实务卷_单选_61",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2018
+    }
+  },
+  {
+    "index": 27,
+    "question": "统计上大中小微型企业划分标准中，批发与零售企业依据资产\n总额指标划分企业类型。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "F",
+      "resource": "2018年度全国统计专业技术初级资格考试__实务卷_单选_62",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2018
+    }
+  },
+  {
+    "index": 28,
+    "question": "常规统计调查中，农产品稻谷和小麦的产量数据是通过全面普\n查方法获得的。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "F",
+      "resource": "2018年度全国统计专业技术初级资格考试__实务卷_单选_63",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2018
+    }
+  },
+  {
+    "index": 29,
+    "question": "现行国家建筑业统计调查制度规定，法人企业按照注册地统\n计，产业活动单位和个体经营户按照营业执照登记地进行统计。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "T",
+      "resource": "2018年度全国统计专业技术初级资格考试__实务卷_单选_64",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2018
+    }
+  },
+  {
+    "index": 30,
+    "question": "汽油是一次能源。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "F",
+      "resource": "2018年度全国统计专业技术初级资格考试__实务卷_单选_65",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2018
+    }
+  },
+  {
+    "index": 31,
+    "question": "本期补发的上期绩效工资不纳入本期工资总额统计之内。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "F",
+      "resource": "2018年度全国统计专业技术初级资格考试__实务卷_单选_66",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2018
+    }
+  },
+  {
+    "index": 32,
+    "question": "500 万至 5000 万元固定资产投资项目的调查频率为季度，5000\n万元以上固定资产投资项目的调查频率为月度。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "F",
+      "resource": "2018年度全国统计专业技术初级资格考试__实务卷_单选_67",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2018
+    }
+  },
+  {
+    "index": 33,
+    "question": "人口普查获得的单个对象的资料，可以作为行政处罚的依据。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "F",
+      "resource": "2018年度全国统计专业技术初级资格考试__实务卷_单选_68",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2018
+    }
+  },
+  {
+    "index": 34,
+    "question": "现行人口普查和人口变动抽样调查的标准时点都是 11 月 1 日零时。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "T",
+      "resource": "2018年度全国统计专业技术初级资格考试__实务卷_单选_69",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2018
+    }
+  },
+  {
+    "index": 35,
+    "question": "产品(服务)或工艺(流程)创新活动包括调查单位成功的和正在进\n行的，不包括中止的。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "F",
+      "resource": "2018年度全国统计专业技术初级资格考试__实务卷_单选_70",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2018
+    }
+  },
+  {
+    "index": 36,
+    "question": "文化产业单位的认定由国家统计局组织实施，依据《文化及相\n关产业分类》在国家统计联网直报平台中按行业小类对全部年\n(定)报单位进行文化活动属性的甄别和认定。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "T",
+      "resource": "2018年度全国统计专业技术初级资格考试__实务卷_单选_71",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2018
+    }
+  },
+  {
+    "index": 37,
+    "question": "社会统计数据部分来源于有关主管部门的行政管理记录。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "T",
+      "resource": "2018年度全国统计专业技术初级资格考试__实务卷_单选_72",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2018
+    }
+  },
+  {
+    "index": 38,
+    "question": "居民住户调查中的工资项不包括由单位代扣的养老保险金。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "F",
+      "resource": "2018年度全国统计专业技术初级资格考试__实务卷_单选_73",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2018
+    }
+  },
+  {
+    "index": 39,
+    "question": "住户之间现金和实物馈赠都属于转移性收入。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "F",
+      "resource": "2018年度全国统计专业技术初级资格考试__实务卷_单选_74",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2018
+    }
+  },
+  {
+    "index": 40,
+    "question": "工业生产者价格统计包括工业企业产品第一次出售时的出厂价\n格和企业作为中间投入的原材料、燃料、动力购进价格。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "T",
+      "resource": "2018年度全国统计专业技术初级资格考试__实务卷_单选_75",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2018
+    }
+  },
+  {
+    "index": 41,
+    "question": "统计调查的内容一方面要与统计调查能力相适应，另一方面要尽量满足更多的、更重要的用户",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "T",
+      "resource": "2019年度全国统计专业技术初级资格考试__实务卷_判断_56",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2019
+    }
+  },
+  {
+    "index": 42,
+    "question": "法人和其他组织统一社会信用代码由18位无关标识代码组成。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "F",
+      "resource": "2019年度全国统计专业技术初级资格考试__实务卷_判断_57",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2019
+    }
+  },
+  {
+    "index": 43,
+    "question": "划分城乡时，城乡分类代码不由各地统计部门直接编制，而是通过统计用区划代码 和城乡属性代码转换生成城乡分类代码。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "T",
+      "resource": "2019年度全国统计专业技术初级资格考试__实务卷_判断_58",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2019
+    }
+  },
+  {
+    "index": 44,
+    "question": "根据统计调查表的一般格式，左上角为填报单位的标记。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "T",
+      "resource": "2019年度全国统计专业技术初级资格考试__实务卷_判断_59",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2019
+    }
+  },
+  {
+    "index": 45,
+    "question": "计算农林牧渔业中间消耗时，固定资产的消耗以折旧形式计入中间消耗。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "F",
+      "resource": "2019年度全国统计专业技术初级资格考试__实务卷_判断_60",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2019
+    }
+  },
+  {
+    "index": 46,
+    "question": "常规统计调查中，农、林、牧、渔业统计数据均由国家统计局的统计调查系统承担。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "F",
+      "resource": "2019年度全国统计专业技术初级资格考试__实务卷_判断_61",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2019
+    }
+  },
+  {
+    "index": 47,
+    "question": "凡企业有权销售的产品，不论存放在什么地方，均应统计为工业产品库存量。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "T",
+      "resource": "2019年度全国统计专业技术初级资格考试__实务卷_判断_62",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2019
+    }
+  },
+  {
+    "index": 48,
+    "question": "建筑业总产值是一定时期内生产的以货币表现的建筑业产品和服务的总和，包括建 筑工程产值和安装工程产值两部分。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "F",
+      "resource": "2019年度全国统计专业技术初级资格考试__实务卷_判断_63",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2019
+    }
+  },
+  {
+    "index": 49,
+    "question": "房屋竣工价值不仅包括该竣工房屋在报告期内完成的价值，也包括跨年施工的房屋 在本期以前完成的价值。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "T",
+      "resource": "2019年度全国统计专业技术初级资格考试__实务卷_判断_64",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2019
+    }
+  },
+  {
+    "index": 50,
+    "question": "房地产业统计中，计算商品房销售面积不包括期房销售面积。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "F",
+      "resource": "2019年度全国统计专业技术初级资格考试__实务卷_判断_65",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2019
+    }
+  },
+  {
+    "index": 51,
+    "question": "容积率是指建设用地内各栋建筑物地上和地下建筑面积计算值之和与总建设用地 面积之比。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "F",
+      "resource": "2019年度全国统计专业技术初级资格考试__实务卷_判断_66",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2019
+    }
+  },
+  {
+    "index": 52,
+    "question": "标准燃料是计算能源总量的一种模拟的综合计算单位，我国采用标准煤为计算基 准，将各种能源按其发热量折算为标准煤。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "T",
+      "resource": "2019年度全国统计专业技术初级资格考试__实务卷_判断_67",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2019
+    }
+  },
+  {
+    "index": 53,
+    "question": "只有企业销售的合格能源产品才能统计其销售量，销售的次品不能计入能源产品销 售量。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "T",
+      "resource": "2019年度全国统计专业技术初级资格考试__实务卷_判断_68",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2019
+    }
+  },
+  {
+    "index": 54,
+    "question": "年内新成立单位的年平均人数的计算方法为：从实际开工之月起到年底的月平均人 数相加除以开工月数。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "F",
+      "resource": "2019年度全国统计专业技术初级资格考试__实务卷_判断_69",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2019
+    }
+  },
+  {
+    "index": 55,
+    "question": "以实物形式支付的报酬，不应列入工资总额的计算范围。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "F",
+      "resource": "2019年度全国统计专业技术初级资格考试__实务卷_判断_70",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2019
+    }
+  },
+  {
+    "index": 56,
+    "question": "实际工作中，对于投资额在 5000万元以上的建筑安装工程，计算投资额的主要方 法有单价法和部位进度法。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "T",
+      "resource": "2019年度全国统计专业技术初级资格考试__实务卷_判断_71",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2019
+    }
+  },
+  {
+    "index": 57,
+    "question": "投资回收率也称投资利税率，是投资回收年限的逆指标。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "T",
+      "resource": "2019年度全国统计专业技术初级资格考试__实务卷_判断_72",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2019
+    }
+  },
+  {
+    "index": 58,
+    "question": "在 2012年版和 2018年版的《文化及相关产业分类》标准中，均将文化及相关产业定义为“为社会公众提供文化产品和文化相关产品的生产活动的集合”。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "T",
+      "resource": "2019年度全国统计专业技术初级资格考试__实务卷_判断_73",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2019
+    }
+  },
+  {
+    "index": 59,
+    "question": "非经济普查年度《文化及相关产业综合统计制度》的统计范围包括所涵盖行业的全 部法人单位、产业活动单位和个体经营户。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "F",
+      "resource": "2019年度全国统计专业技术初级资格考试__实务卷_判断_74",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2019
+    }
+  },
+  {
+    "index": 60,
+    "question": "计算居民消费价格指数所用的权数是每一种商品或服务项目在居民所有消费商品和 服务总支出中所占的比重。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "T",
+      "resource": "2019年度全国统计专业技术初级资格考试__实务卷_判断_75",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2019
+    }
+  },
+  {
+    "index": 61,
+    "question": "地方统计调查项目是指省级统计机构制定并实施的地方性统计调查项目，需报国 家统计局备案。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "F",
+      "resource": "2020年度全国统计专业技术初级资格考试__实务卷_判断_56",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2020
+    }
+  },
+  {
+    "index": 62,
+    "question": "投入产出调查制度属于周期性调查制度。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "T",
+      "resource": "2020年度全国统计专业技术初级资格考试__实务卷_判断_57",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2020
+    }
+  },
+  {
+    "index": 63,
+    "question": "在定期审查统计调查项目执行情况时，对于能够通过行政记录加工取得的调查内 容，应及时剔除。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "T",
+      "resource": "2020年度全国统计专业技术初级资格考试__实务卷_判断_58",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2020
+    }
+  },
+  {
+    "index": 64,
+    "question": "农业增加值核算中，对于价值在 1000 元以下，但使用年限超过 1 年的小农具应作 为固定资产消耗，以折旧形式计入增加值。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "F",
+      "resource": "2020年度全国统计专业技术初级资格考试__实务卷_判断_59",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2020
+    }
+  },
+  {
+    "index": 65,
+    "question": "计入工业企业产品库存量的产品，必须是本企业有权销售，且仍存在本企业仓库 的产品。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "F",
+      "resource": "2020年度全国统计专业技术初级资格考试__实务卷_判断_60",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2020
+    }
+  },
+  {
+    "index": 66,
+    "question": "现房销售面积和期房销售面积均包括以一次性付款方式和分期付款方式销售的商 品房屋建筑面积。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "T",
+      "resource": "2020年度全国统计专业技术初级资格考试__实务卷_判断_61",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2020
+    }
+  },
+  {
+    "index": 67,
+    "question": "能源使用企业用于消费的库存包括代外单位保管的能源。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "F",
+      "resource": "2020年度全国统计专业技术初级资格考试__实务卷_判断_62",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2020
+    }
+  },
+  {
+    "index": 68,
+    "question": "能源消费弹性系数是指能源消费年均增长量与国内生产总值年均增长量之比。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "F",
+      "resource": "2020年度全国统计专业技术初级资格考试__实务卷_判断_63",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2020
+    }
+  },
+  {
+    "index": 69,
+    "question": "预计在一个正常营业周期中变现、出售或耗用的资产应归为流动资产。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "T",
+      "resource": "2020年度全国统计专业技术初级资格考试__实务卷_判断_64",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2020
+    }
+  },
+  {
+    "index": 70,
+    "question": "从业人员统计中，无论用工单位是否直接支付劳动报酬，劳务派遣人员均由实际用 工单位填报。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "T",
+      "resource": "2020年度全国统计专业技术初级资格考试__实务卷_判断_65",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2020
+    }
+  },
+  {
+    "index": 71,
+    "question": "固定资产投资统计中，建设周期是从宏观角度反映建设速度的指标，是建设项目投 产率的逆指标。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "T",
+      "resource": "2020年度全国统计专业技术初级资格考试__实务卷_判断_66",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2020
+    }
+  },
+  {
+    "index": 72,
+    "question": "对于来我国短期旅游的外国游客，只要是普查时点在我国境内的，就应作为人口普 查的对象进行登记调查。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "F",
+      "resource": "2020年度全国统计专业技术初级资格考试__实务卷_判断_67",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2020
+    }
+  },
+  {
+    "index": 73,
+    "question": "科技创新统计采用全面调查和抽样调查等多种调查方法，并充分利用行政记录。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "T",
+      "resource": "2020年度全国统计专业技术初级资格考试__实务卷_判断_68",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2020
+    }
+  },
+  {
+    "index": 74,
+    "question": "根据最新的文化及相关产业分类，将全部文化生产活动划分为文化核心领域和文 化相关领域。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "T",
+      "resource": "2020年度全国统计专业技术初级资格考试__实务卷_判断_69",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2020
+    }
+  },
+  {
+    "index": 75,
+    "question": "核算文化及相关产业增加值有生产法和收入法两种方法。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "T",
+      "resource": "2020年度全国统计专业技术初级资格考试__实务卷_判断_70",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2020
+    }
+  },
+  {
+    "index": 76,
+    "question": "卫生总费用包括政府卫生支出、社会卫生支出、个人现金卫生支出。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "T",
+      "resource": "2020年度全国统计专业技术初级资格考试__实务卷_判断_71",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2020
+    }
+  },
+  {
+    "index": 77,
+    "question": "住户调查中，居住在工厂集体宿舍的同屋小王和小李，共同分享生活必需品，应作 为一个住户进行调查。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "T",
+      "resource": "2020年度全国统计专业技术初级资格考试__实务卷_判断_72",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2020
+    }
+  },
+  {
+    "index": 78,
+    "question": "离退休人员的养老金或离退休金属于居民可支配收入中的工资性收入。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "F",
+      "resource": "2020年度全国统计专业技术初级资格考试__实务卷_判断_73",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2020
+    }
+  },
+  {
+    "index": 79,
+    "question": "住户调查实行样本轮换制度，样本调查小区的设计使用周期为 5 年，调查小区内抽 中的样本住户每 5 年轮换一次。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "F",
+      "resource": "2020年度全国统计专业技术初级资格考试__实务卷_判断_74",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2020
+    }
+  },
+  {
+    "index": 80,
+    "question": "编制工业生产者价格指数时，各地不应选择具有地方特色的产品作为代表产品。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "F",
+      "resource": "2020年度全国统计专业技术初级资格考试__实务卷_判断_75",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2020
+    }
+  },
+  {
+    "index": 81,
+    "question": "招募志愿者进行一种新药物的临床试验属于判断抽样。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "F",
+      "resource": "2021年度全国统计专业技术初级资格考试_实务卷_判断_56",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2021
+    }
+  },
+  {
+    "index": 82,
+    "question": "根据统计上城乡划分的规定，将我国的地域划分为城镇和乡村。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "T",
+      "resource": "2021年度全国统计专业技术初级资格考试_实务卷_判断_57",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2021
+    }
+  },
+  {
+    "index": 83,
+    "question": "农业常规统计调查按日历年、季、月度及农业生产季节进行，采用以抽样调查为主，全面统计及重点调查为辅的方法。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "T",
+      "resource": "2021年度全国统计专业技术初级资格考试_实务卷_判断_58",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2021
+    }
+  },
+  {
+    "index": 84,
+    "question": "工业企业直接从外购进产成品，只是更换了标签或包装的，不能作为工业产品销售量统计。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "T",
+      "resource": "2021年度全国统计专业技术初级资格考试_实务卷_判断_59",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2021
+    }
+  },
+  {
+    "index": 85,
+    "question": "房地产开发经营统计包括单纯的土地开发和交易活动。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "F",
+      "resource": "2021年度全国统计专业技术初级资格考试_实务卷_判断_60",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2021
+    }
+  },
+  {
+    "index": 86,
+    "question": "房屋新开工面积指新开工建设的房屋建筑面积，以单位工程为核算对象，即整栋房屋的全部建筑面积，不能分割计算。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "T",
+      "resource": "2021年度全国统计专业技术初级资格考试_实务卷_判断_61",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2021
+    }
+  },
+  {
+    "index": 87,
+    "question": "能源购进量核算遵循“谁购进、谁统计”的原则，包括作价购进的加工来料。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "T",
+      "resource": "2021年度全国统计专业技术初级资格考试_实务卷_判断_62",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2021
+    }
+  },
+  {
+    "index": 88,
+    "question": "用作能源加工转换的能源应算作该企业的原材料投入。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "F",
+      "resource": "2021年度全国统计专业技术初级资格考试_实务卷_判断_63",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2021
+    }
+  },
+  {
+    "index": 89,
+    "question": "固定资产投资率是国内生产总值用于固定资产投资的比率，属于投资效果指标。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "F",
+      "resource": "2021年度全国统计专业技术初级资格考试_实务卷_判断_64",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2021
+    }
+  },
+  {
+    "index": 90,
+    "question": "企业生产经营期间产生的利息支出应纳入财务费用统计。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "T",
+      "resource": "2021年度全国统计专业技术初级资格考试_实务卷_判断_65",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2021
+    }
+  },
+  {
+    "index": 91,
+    "question": "在劳动力调查中，农闲期的农民在调查参考周未从事其他任何有收入的工作，算作就业人员。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "F",
+      "resource": "2021年度全国统计专业技术初级资格考试_实务卷_判断_66",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2021
+    }
+  },
+  {
+    "index": 92,
+    "question": "人口变动抽样调查的调查对象为抽中调查小区内具有中华人民共和国国籍的人，调查标准时点为调查年 12 月 31 日 24 时。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "F",
+      "resource": "2021年度全国统计专业技术初级资格考试_实务卷_判断_67",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2021
+    }
+  },
+  {
+    "index": 93,
+    "question": "工业企业采用新型自动化包装生产线代替人工包装，这种创新活动属于工艺(流程)创新。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "T",
+      "resource": "2021年度全国统计专业技术初级资格考试_实务卷_判断_68",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2021
+    }
+  },
+  {
+    "index": 94,
+    "question": "离婚率是指某地区当年离婚对数占该地区结婚对数的比重，通常用千分比表示。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "F",
+      "resource": "2021年度全国统计专业技术初级资格考试_实务卷_判断_69",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2021
+    }
+  },
+  {
+    "index": 95,
+    "question": "文化产业业务活动统计主要由各文化主管部门负责开展，并依据《部门综合统计报表制度》，向国家统计局报送数据。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "T",
+      "resource": "2021年度全国统计专业技术初级资格考试_实务卷_判断_70",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2021
+    }
+  },
+  {
+    "index": 96,
+    "question": "在住户调查中，无论户口性质和户口登记地，中国公民均以住户为单位，在常住地参加调查。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "T",
+      "resource": "2021年度全国统计专业技术初级资格考试_实务卷_判断_71",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2021
+    }
+  },
+  {
+    "index": 97,
+    "question": "住户调查中，在调查期内因拖欠等原因没得到的工资，应计入本期工资性收入。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "F",
+      "resource": "2021年度全国统计专业技术初级资格考试_实务卷_判断_72",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2021
+    }
+  },
+  {
+    "index": 98,
+    "question": "住户调查采用日记账和问卷调查相结合的方式采集基础数据。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "T",
+      "resource": "2021年度全国统计专业技术初级资格考试_实务卷_判断_73",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2021
+    }
+  },
+  {
+    "index": 99,
+    "question": "工业生产者价格调查中，某种将被市场淘汰的产品因其一时销售产值比较大，也应选为代表产品。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "F",
+      "resource": "2021年度全国统计专业技术初级资格考试_实务卷_判断_74",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2021
+    }
+  },
+  {
+    "index": 100,
+    "question": "2021 年 5 月中国制造业采购经理指数为 51.0%，表示本月经济活动比上月有所收缩。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "F",
+      "resource": "2021年度全国统计专业技术初级资格考试_实务卷_判断_75",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2021
+    }
+  },
+  {
+    "index": 101,
+    "question": "农林牧渔服务业是对农林牧渔业生产活动进行的各种支持性服务活动，属于第一产业。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "F",
+      "resource": "2022年度全国统计专业技术初级资格考试_实务卷_判断_56",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2022
+    }
+  },
+  {
+    "index": 102,
+    "question": "技术员小刘因腿伤在家休养，已经离开工作岗位一个月。因此，小刘本期不应纳入在岗职工统计范围。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "F",
+      "resource": "2022年度全国统计专业技术初级资格考试_实务卷_判断_57",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2022
+    }
+  },
+  {
+    "index": 103,
+    "question": "现房销售面积和期房销售面积均包括以一次性付款方式和分期付款方式销售的商品房屋建筑面积。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "T",
+      "resource": "2022年度全国统计专业技术初级资格考试_实务卷_判断_58",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2022
+    }
+  },
+  {
+    "index": 104,
+    "question": "农业粮食产量采取全面调查方式获得。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "F",
+      "resource": "2022年度全国统计专业技术初级资格考试_实务卷_判断_59",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2022
+    }
+  },
+  {
+    "index": 105,
+    "question": "抽样调查是非全面调查，不能取得反映总体情况的信息。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "F",
+      "resource": "2022年度全国统计专业技术初级资格考试_实务卷_判断_60",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2022
+    }
+  },
+  {
+    "index": 106,
+    "question": "卫生统计属于社会统计。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "T",
+      "resource": "2022年度全国统计专业技术初级资格考试_实务卷_判断_61",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2022
+    }
+  },
+  {
+    "index": 107,
+    "question": "能源加工、转换的投入量不包括车间用能。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "T",
+      "resource": "2022年度全国统计专业技术初级资格考试_实务卷_判断_62",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2022
+    }
+  },
+  {
+    "index": 108,
+    "question": "城镇住户调查统计中，一个住户可以由两个或两个以上的家庭组成。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "T",
+      "resource": "2022年度全国统计专业技术初级资格考试_实务卷_判断_63",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2022
+    }
+  },
+  {
+    "index": 109,
+    "question": "调查对象负担过重会直接影响调查对象的配合度，填报数据的差错率也会上升，从而影响到统计数据质量。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "T",
+      "resource": "2022年度全国统计专业技术初级资格考试_实务卷_判断_64",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2022
+    }
+  },
+  {
+    "index": 110,
+    "question": "划分企业类型时，大型、中型、小型和微型企业须同时满足所列指标的下限。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "F",
+      "resource": "2022年度全国统计专业技术初级资格考试_实务卷_判断_65",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2022
+    }
+  },
+  {
+    "index": 111,
+    "question": "离退休人员的养老金或离退休金属于居民可支配收入中的工资性收入。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "T",
+      "resource": "2022年度全国统计专业技术初级资格考试_实务卷_判断_66",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2022
+    }
+  },
+  {
+    "index": 112,
+    "question": "能源加工转换企业综合能源消费量＝各种能源消费合计（包括自产自用的二次能源）－本企业加工转换的二次能源。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "F",
+      "resource": "2022年度全国统计专业技术初级资格考试_实务卷_判断_67",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2022
+    }
+  },
+  {
+    "index": 113,
+    "question": "人口自然增加数等于当期出生人口减去死亡人口加上净流出人口数。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "F",
+      "resource": "2022年度全国统计专业技术初级资格考试_实务卷_判断_68",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2022
+    }
+  },
+  {
+    "index": 114,
+    "question": "会计上独立核算，能够编制资产负债表是法人单位需要具备的条件之一。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "T",
+      "resource": "2022年度全国统计专业技术初级资格考试_实务卷_判断_69",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2022
+    }
+  },
+  {
+    "index": 115,
+    "question": "凡企业有权销售的产品，不论存放在什么地方，均应统计为工业产品库存量。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "T",
+      "resource": "2022年度全国统计专业技术初级资格考试_实务卷_判断_70",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2022
+    }
+  },
+  {
+    "index": 116,
+    "question": "部门统计调查项目中，调查对象属于本部门管辖系统的，需报国家统计局审批。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "F",
+      "resource": "2022年度全国统计专业技术初级资格考试_实务卷_判断_71",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2022
+    }
+  },
+  {
+    "index": 117,
+    "question": "建筑业增加值计算方法有生产法和收入法，但主要采用生产法计算。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "F",
+      "resource": "2022年度全国统计专业技术初级资格考试_实务卷_判断_72",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2022
+    }
+  },
+  {
+    "index": 118,
+    "question": "农业统计采用全面调查、抽样调查和重点调查相结合的方法。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "T",
+      "resource": "2022年度全国统计专业技术初级资格考试_实务卷_判断_73",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2022
+    }
+  },
+  {
+    "index": 119,
+    "question": "从事两种以上经济活动的单位，要按主要活动确定其行业性质。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "T",
+      "resource": "2022年度全国统计专业技术初级资格考试_实务卷_判断_74",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2022
+    }
+  },
+  {
+    "index": 120,
+    "question": "容积率是指建设用地内各栋建筑物地上和地下建筑面积计算值之和与总建设用地面积之比。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "F",
+      "resource": "2022年度全国统计专业技术初级资格考试_实务卷_判断_75",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "elementary level",
+      "year": 2022
+    }
+  },
+  {
+    "index": 121,
+    "question": "统计人员应当坚持实事求是，恪守职业道德，对其负责搜集、审核、录入的统计资料与统计调查对象报送的统计资料的真实性、准确性、及时性和完整性负责。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "F",
+      "resource": "2017年度全国统计专业技术中级级资格考试__实务卷_判断_56",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "medium level",
+      "year": 2017
+    }
+  },
+  {
+    "index": 122,
+    "question": "国家统计局对其派出机构的人员和编制实行垂直管理。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "T",
+      "resource": "2017年度全国统计专业技术中级级资格考试__实务卷_判断_58",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "medium level",
+      "year": 2017
+    }
+  },
+  {
+    "index": 123,
+    "question": "在统计工作中，统计调查和统计分析是相互独立的两个环节。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "F",
+      "resource": "2017年度全国统计专业技术中级级资格考试__实务卷_判断_61",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "medium level",
+      "year": 2017
+    }
+  },
+  {
+    "index": 124,
+    "question": "国家统计调查项目、部门统计调查项目、地方统计调查项目应当明确责任、互相衔接、不得重复。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "T",
+      "resource": "2017年度全国统计专业技术中级级资格考试__实务卷_判断_62",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "medium level",
+      "year": 2017
+    }
+  },
+  {
+    "index": 125,
+    "question": "某生产单位出售货物100元，其中销项税17元，另收送货费20元，则该货物的生产者价格为83元。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "T",
+      "resource": "2017年度全国统计专业技术中级级资格考试__实务卷_判断_63",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "medium level",
+      "year": 2017
+    }
+  },
+  {
+    "index": 126,
+    "question": "行政记录是指行政部门为实现管理、控制和服务等目的，通过办证、登记、审批等方式收集并保存的关于自然人或其他社会实体的相关信息。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "T",
+      "resource": "2017年度全国统计专业技术中级级资格考试__实务卷_判断_64",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "medium level",
+      "year": 2017
+    }
+  },
+  {
+    "index": 127,
+    "question": "最终消费包括了非常住单位在本国经济领土内的消费支出。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "F",
+      "resource": "2017年度全国统计专业技术中级级资格考试__实务卷_判断_65",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "medium level",
+      "year": 2017
+    }
+  },
+  {
+    "index": 128,
+    "question": "国际收支统计中，只包括以货币支付的对外贸易和对外资本往来，不包括无偿国际援助、易货贸易等不发生货币收支的活动。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "F",
+      "resource": "2017年度全国统计专业技术中级级资格考试__实务卷_判断_66",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "medium level",
+      "year": 2017
+    }
+  },
+  {
+    "index": 129,
+    "question": "专业性的桑园、茶园、果园、果木苗圃、林地、芦苇地、天然或人工菜地面积纳入耕地面积统计范畴。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "F",
+      "resource": "2017年度全国统计专业技术中级级资格考试__实务卷_判断_67",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "medium level",
+      "year": 2017
+    }
+  },
+  {
+    "index": 130,
+    "question": "工业企业对外销售的半成品可视为最终产品计入工业总产值。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "T",
+      "resource": "2017年度全国统计专业技术中级级资格考试__实务卷_判断_68",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "medium level",
+      "year": 2017
+    }
+  },
+  {
+    "index": 131,
+    "question": "工业销售产值不含半成品在制品期末期初差额价值，而工业总产值包括这部分的价值。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "T",
+      "resource": "2017年度全国统计专业技术中级级资格考试__实务卷_判断_69",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "medium level",
+      "year": 2017
+    }
+  },
+  {
+    "index": 132,
+    "question": "货(客)运密度，指一定时期内某种运输方式在营运路线的某一区段平均每公里线路通过的运输工具数量。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "F",
+      "resource": "2017年度全国统计专业技术中级级资格考试__实务卷_判断_70",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "medium level",
+      "year": 2017
+    }
+  },
+  {
+    "index": 133,
+    "question": "零售业指百货商店、超市、专门零售商场、品牌专卖店、收货摊等主要面向最终消费者的销售活动，不包括互联网、邮政、电话、售货机等方式的销售活动。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "F",
+      "resource": "2017年度全国统计专业技术中级级资格考试__实务卷_判断_71",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "medium level",
+      "year": 2017
+    }
+  },
+  {
+    "index": 134,
+    "question": "根据批发零售业采用的调查方式，对年主营业务收入1000万及以上的批发企业实施全面调查，由企业网上直报;对年主营业务收入500万元及以下的零售企业及个体户实施抽样调查。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "F",
+      "resource": "2017年度全国统计专业技术中级级资格考试__实务卷_判断_72",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "medium level",
+      "year": 2017
+    }
+  },
+  {
+    "index": 135,
+    "question": "货币汇率按照汇价变动情况可分为固定汇率、浮动汇率、联合浮动汇率和平均汇率。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "F",
+      "resource": "2017年度全国统计专业技术中级级资格考试__实务卷_判断_73",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "medium level",
+      "year": 2017
+    }
+  },
+  {
+    "index": 136,
+    "question": "失业人员是指一定年龄以上，有劳动能力，在调查期间无工作，当前无就业可能的人员。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "F",
+      "resource": "2017年度全国统计专业技术中级级资格考试__实务卷_判断_74",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "medium level",
+      "year": 2017
+    }
+  },
+  {
+    "index": 137,
+    "question": "居民消费价格指数调查中，对于涉及与生活密切相关、价格变动比较频繁的商品至少每5天采集一次价格。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "T",
+      "resource": "2017年度全国统计专业技术中级级资格考试__实务卷_判断_75",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "medium level",
+      "year": 2017
+    }
+  },
+  {
+    "index": 138,
+    "question": "政府统计是由公共资源支撑的调查活动，获得的各类统计资料是现代社会重要的公共产品，必须取之于民、用之于民。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "T",
+      "resource": "2018年度全国统计专业技术中级资格考试__实务卷_判断题_57",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "medium level",
+      "year": 2018
+    }
+  },
+  {
+    "index": 139,
+    "question": "地方各级统计机构设立、人员编制、干部管理由国家统计局和地方政府共同负责。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "F",
+      "resource": "2018年度全国统计专业技术中级资格考试__实务卷_判断题_58",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "medium level",
+      "year": 2018
+    }
+  },
+  {
+    "index": 140,
+    "question": "行政记录的目的不是统计，但行政记录可以为统计提供信息。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "T",
+      "resource": "2018年度全国统计专业技术中级资格考试__实务卷_判断题_61",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "medium level",
+      "year": 2018
+    }
+  },
+  {
+    "index": 141,
+    "question": "当期生产的被用于最终消费、固定资本形成和出口的产品就是最终产品。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "F",
+      "resource": "2018年度全国统计专业技术中级资格考试__实务卷_判断题_62",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "medium level",
+      "year": 2018
+    }
+  },
+  {
+    "index": 142,
+    "question": "全部经常转移都属于收入分配交易范畴，部分资本转移属于收入分配交易范畴。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "F",
+      "resource": "2018年度全国统计专业技术中级资格考试__实务卷_判断题_63",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "medium level",
+      "year": 2018
+    }
+  },
+  {
+    "index": 143,
+    "question": "国际收支平衡表中，初次收入一般包括现金和实物转移，二次收入一般指投资收益和其他收入。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "F",
+      "resource": "2018年度全国统计专业技术中级资格考试__实务卷_判断题_64",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "medium level",
+      "year": 2018
+    }
+  },
+  {
+    "index": 144,
+    "question": "国际投资头寸表反映了一国对外金融资产负债的总体状况，它是分析一国对外金融脆弱性的重要指标。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "T",
+      "resource": "2018年度全国统计专业技术中级资格考试__实务卷_判断题_65",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "medium level",
+      "year": 2018
+    }
+  },
+  {
+    "index": 145,
+    "question": "收入法中固定资产折旧指一定时期内为弥补固定资产损耗按照核定的固定资产折旧率提取的固定资产折旧，它反映了固定资产在上期生产中的转移价值。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "F",
+      "resource": "2018年度全国统计专业技术中级资格考试__实务卷_判断题_66",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "medium level",
+      "year": 2018
+    }
+  },
+  {
+    "index": 146,
+    "question": "支出法中资本形成总额是通过生产形成的生产资产积累，包括固定资本形成总额、存货变动和贵重物品获得减处置。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "F",
+      "resource": "2018年度全国统计专业技术中级资格考试__实务卷_判断题_67",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "medium level",
+      "year": 2018
+    }
+  },
+  {
+    "index": 147,
+    "question": "在产业结构分析中服务业比重占比越高，说明该地区经济发展水平越高，实力越强。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "F",
+      "resource": "2018年度全国统计专业技术中级资格考试__实务卷_判断题_68",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "medium level",
+      "year": 2018
+    }
+  },
+  {
+    "index": 148,
+    "question": "衡量一个国家实力，净资产最重要，总资产并不关键。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "F",
+      "resource": "2018年度全国统计专业技术中级资格考试__实务卷_判断题_69",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "medium level",
+      "year": 2018
+    }
+  },
+  {
+    "index": 149,
+    "question": "农业统计中，乡村户数指长期(一年以上)居住在乡镇(不包括城关镇)行政管理区域内的住户，还包括居住在城关镇所辖行政村范围内的农村住户。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "T",
+      "resource": "2018年度全国统计专业技术中级资格考试__实务卷_判断题_70",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "medium level",
+      "year": 2018
+    }
+  },
+  {
+    "index": 150,
+    "question": "工业统计中经营地与行政登记住所不在同一县级行政区域的统计单位，原则上归入经营地所在的县级区域的统计范围。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "T",
+      "resource": "2018年度全国统计专业技术中级资格考试__实务卷_判断题_71",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "medium level",
+      "year": 2018
+    }
+  },
+  {
+    "index": 151,
+    "question": "房地产统计主要包括房地产开发经营统计，不包括单纯的土地开发和交易活动。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "T",
+      "resource": "2018年度全国统计专业技术中级资格考试__实务卷_判断题_72",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "medium level",
+      "year": 2018
+    }
+  },
+  {
+    "index": 152,
+    "question": "电力生产弹性系数是研究电力生产增长速度与国民经济增长速度之间关系的指标。一般来说，电力的发展会相对滞后于国民经济的发展。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "F",
+      "resource": "2018年度全国统计专业技术中级资格考试__实务卷_判断题_73",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "medium level",
+      "year": 2018
+    }
+  },
+  {
+    "index": 153,
+    "question": "固定资产投资完成额包括建筑工程，安装工程，设备、工具、器具购置和其他费用四部分。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "T",
+      "resource": "2018年度全国统计专业技术中级资格考试__实务卷_判断题_74",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "medium level",
+      "year": 2018
+    }
+  },
+  {
+    "index": 154,
+    "question": "高中阶段毛入学率是指高中阶段(包括普通高中、成人高中、中等职业学校)在校数总数占14～18岁年龄组人口数的比重。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "F",
+      "resource": "2018年度全国统计专业技术中级资格考试__实务卷_判断题_75",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "medium level",
+      "year": 2018
+    }
+  },
+  {
+    "index": 155,
+    "question": "我国境外的组织、个人需要在境内进行统计调查活动的，应当委托境内具有涉外统计调查资格的机构进行。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "T",
+      "resource": "2019年度全国统计专业技术中级资格考试__实务卷_判断题_58",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "medium level",
+      "year": 2019
+    }
+  },
+  {
+    "index": 156,
+    "question": "简单随机抽样的抽样框唯一的需要就是关于调查总体所有单位的一个完全清单以及如何联系的信息。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "T",
+      "resource": "2019年度全国统计专业技术中级资格考试__实务卷_判断题_61",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "medium level",
+      "year": 2019
+    }
+  },
+  {
+    "index": 157,
+    "question": "《战略性新兴产业分类(2012)》(试行)规定，战略性新兴产业分类第一层为八大类。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "F",
+      "resource": "2019年度全国统计专业技术中级资格考试__实务卷_判断题_62",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "medium level",
+      "year": 2019
+    }
+  },
+  {
+    "index": 158,
+    "question": "文化及相关产业是指为社会公众提供文化产品和文化相关产品的生产活动的集合。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "T",
+      "resource": "2019年度全国统计专业技术中级资格考试__实务卷_判断题_63",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "medium level",
+      "year": 2019
+    }
+  },
+  {
+    "index": 159,
+    "question": "国民经济核算体系是通过一套全面、系统的基本概念、基本分类、核算原则、核算框架、基本指标和基本核算方法，为开展国民经济核算工作确立了标准和规范。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "T",
+      "resource": "2019年度全国统计专业技术中级资格考试__实务卷_判断题_64",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "medium level",
+      "year": 2019
+    }
+  },
+  {
+    "index": 160,
+    "question": "某厂坐落于 A 省某县并开展经营活动超过一年，它的行政管辖权为 B 省，该企业可视为 B 省的常住单位。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "F",
+      "resource": "2019年度全国统计专业技术中级资格考试__实务卷_判断题_65",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "medium level",
+      "year": 2019
+    }
+  },
+  {
+    "index": 161,
+    "question": "国民经济核算体系的五大机构部门分别为非金融企业部门、金融机构部门、非政府部门、为住户服务的非营利机构部门和住户部门。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "F",
+      "resource": "2019年度全国统计专业技术中级资格考试__实务卷_判断题_66",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "medium level",
+      "year": 2019
+    }
+  },
+  {
+    "index": 162,
+    "question": "生产者价格=基本价格+产品税(包括增值税)-产品补贴。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "F",
+      "resource": "2019年度全国统计专业技术中级资格考试__实务卷_判断题_67",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "medium level",
+      "year": 2019
+    }
+  },
+  {
+    "index": 163,
+    "question": "居民实际最终消费是居民自身承担的消费性货物和服务支出。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "F",
+      "resource": "2019年度全国统计专业技术中级资格考试__实务卷_判断题_68",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "medium level",
+      "year": 2019
+    }
+  },
+  {
+    "index": 164,
+    "question": "完整的国际投资头寸表由期初头寸、期间交易、期间非交易变化和期末头寸构成。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "T",
+      "resource": "2019年度全国统计专业技术中级资格考试__实务卷_判断题_69",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "medium level",
+      "year": 2019
+    }
+  },
+  {
+    "index": 165,
+    "question": "建筑安装不包括工程收尾的装饰，如对墙面、地板、天花板、门窗等处理活动。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "T",
+      "resource": "2019年度全国统计专业技术中级资格考试__实务卷_判断题_70",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "medium level",
+      "year": 2019
+    }
+  },
+  {
+    "index": 166,
+    "question": "如一栋建筑面积 1200 平米的房屋，已完成施工 800 平米，则其房屋竣工面积为 800平米。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "F",
+      "resource": "2019年度全国统计专业技术中级资格考试__实务卷_判断题_71",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "medium level",
+      "year": 2019
+    }
+  },
+  {
+    "index": 167,
+    "question": "住房公积金缴存和提取服务属于房地产业活动。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "T",
+      "resource": "2019年度全国统计专业技术中级资格考试__实务卷_判断题_72",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "medium level",
+      "year": 2019
+    }
+  },
+  {
+    "index": 168,
+    "question": "科技创新统计中，创新可分为产品(服务)创新、工艺(流程)创新、组织(管理) 创新和营销创新。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "T",
+      "resource": "2019年度全国统计专业技术中级资格考试__实务卷_判断题_73",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "medium level",
+      "year": 2019
+    }
+  },
+  {
+    "index": 169,
+    "question": "住户调查中，经常性赔偿收入指住户及其成员因受到财产损失、人身伤害、精神损失得到国家、单位、个人的一次性赔偿。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "F",
+      "resource": "2019年度全国统计专业技术中级资格考试__实务卷_判断题_74",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "medium level",
+      "year": 2019
+    }
+  },
+  {
+    "index": 170,
+    "question": "财政收入包括一般公共预算收入、政府性基金收入(不包括国有土地出让金收入)、社会保险基金收入、国有资本经营收入。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "T",
+      "resource": "2019年度全国统计专业技术中级资格考试__实务卷_判断题_75",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "medium level",
+      "year": 2019
+    }
+  },
+  {
+    "index": 171,
+    "question": "1978 年 3 月，国务院批准恢复国家统计局。此后国务院分别于 1979 年 10 月和 1984 年 1 月发布了《关于加强统计工作充实统计机构的决定》和《关于加强统计工作的决定》，明确了“统一领导，分级负责”的统计管理体制。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "T",
+      "resource": "2020年度全国统计专业技术中级资格考试__实务卷_判断题_58",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "medium level",
+      "year": 2020
+    }
+  },
+  {
+    "index": 172,
+    "question": "根据《行政处罚法》规定，统计行政处罚决定依法做出后，当事人应当自收到处罚决定书之日起二十日内，到指定的银行缴纳罚款。银行应当收受罚款，并将罚款直接上缴国库。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "F",
+      "resource": "2020年度全国统计专业技术中级资格考试__实务卷_判断题_60",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "medium level",
+      "year": 2020
+    }
+  },
+  {
+    "index": 173,
+    "question": "抽样调查是指从研究对象的总体中抽取一部分单位作为样本进行调查，据此推断",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "F",
+      "resource": "2020年度全国统计专业技术中级资格考试__实务卷_判断题_61",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "medium level",
+      "year": 2020
+    }
+  },
+  {
+    "index": 174,
+    "question": "统计上最常用的抽样方法是概率抽样法。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "T",
+      "resource": "2020年度全国统计专业技术中级资格考试__实务卷_判断题_62",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "medium level",
+      "year": 2020
+    }
+  },
+  {
+    "index": 175,
+    "question": "统计设计环节应提出完善的调查方案，并尽量减小调查对象负担。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "T",
+      "resource": "2020年度全国统计专业技术中级资格考试__实务卷_判断题_63",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "medium level",
+      "year": 2020
+    }
+  },
+  {
+    "index": 176,
+    "question": "第一产业由农业、林业、牧业、渔业、农林牧渔专业及辅助性活动 5 个大类组成。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "F",
+      "resource": "2020年度全国统计专业技术中级资格考试__实务卷_判断题_64",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "medium level",
+      "year": 2020
+    }
+  },
+  {
+    "index": 177,
+    "question": "在一个生产过程生产出来后，又在其他生产过程中充当原材料、动力和燃料的产品是最终产品。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "F",
+      "resource": "2020年度全国统计专业技术中级资格考试__实务卷_判断题_65",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "medium level",
+      "year": 2020
+    }
+  },
+  {
+    "index": 178,
+    "question": "国民经济核算中的资产是根据使用权的原则界定的经济资产。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "F",
+      "resource": "2020年度全国统计专业技术中级资格考试__实务卷_判断题_66",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "medium level",
+      "year": 2020
+    }
+  },
+  {
+    "index": 179,
+    "question": "我国资金流量表按非金融交易表和金融交易表分别编制。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "T",
+      "resource": "2020年度全国统计专业技术中级资格考试__实务卷_判断题_67",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "medium level",
+      "year": 2020
+    }
+  },
+  {
+    "index": 180,
+    "question": "工业总产值由生产的成品价值、对外加工费收入、自制半成品在制品的期初价值和期末价值组成。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "F",
+      "resource": "2020年度全国统计专业技术中级资格考试__实务卷_判断题_68",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "medium level",
+      "year": 2020
+    }
+  },
+  {
+    "index": 181,
+    "question": "按我国现行建筑业统计制度，建筑业企业法人按照法人单位注册地原则进行统计。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "T",
+      "resource": "2020年度全国统计专业技术中级资格考试__实务卷_判断题_69",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "medium level",
+      "year": 2020
+    }
+  },
+  {
+    "index": 182,
+    "question": "房地产业统计范围包括单纯的土地开发和交易活动。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "F",
+      "resource": "2020年度全国统计专业技术中级资格考试__实务卷_判断题_70",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "medium level",
+      "year": 2020
+    }
+  },
+  {
+    "index": 183,
+    "question": "我国对失业人员的统计仅限于城镇范围，只有城镇失业率的数据。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "T",
+      "resource": "2020年度全国统计专业技术中级资格考试__实务卷_判断题_71",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "medium level",
+      "year": 2020
+    }
+  },
+  {
+    "index": 184,
+    "question": "若某地区年末未完工程累计完成投资额 200 万元，全年计划投资额 2000 万元，则其未完工程占用率为 10%。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "F",
+      "resource": "2020年度全国统计专业技术中级资格考试__实务卷_判断题_72",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "medium level",
+      "year": 2020
+    }
+  },
+  {
+    "index": 185,
+    "question": "人口负担系数是指被抚养人口与全部人口之比。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "F",
+      "resource": "2020年度全国统计专业技术中级资格考试__实务卷_判断题_73",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "medium level",
+      "year": 2020
+    }
+  },
+  {
+    "index": 186,
+    "question": "科技创新统计中，R&D 人员包括全时人员和非全时人员。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "T",
+      "resource": "2020年度全国统计专业技术中级资格考试__实务卷_判断题_74",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "medium level",
+      "year": 2020
+    }
+  },
+  {
+    "index": 187,
+    "question": "交通运输、仓储和邮政业主要业务量统计采用全面调查的方式，分别由各有关业务主管部门负责收集资料。 ",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "F",
+      "resource": "2020年度全国统计专业技术中级资格考试__实务卷_判断题_75",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "medium level",
+      "year": 2020
+    }
+  },
+  {
+    "index": 188,
+    "question": "联合国《统计组织手册》规定,统计机构必须坚持的第一条基本价值观和原则是科学性。当对存在的问题认真整改落实",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "F",
+      "resource": "2021年度全国统计专业技术中级资格考试__实务卷_判断题_39",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "medium level",
+      "year": 2021
+    }
+  },
+  {
+    "index": 189,
+    "question": "被督查地区、部门收到统计督察组反馈意见后，应当对存在的问题认真整改落实，并在 3 个月内将整改情况反馈国家统计局。情况复杂，不能在规定期限内完成整改的，经国家统计局批准,可以适当延长，但最多不超过 6 个月。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "F",
+      "resource": "2021年度全国统计专业技术中级资格考试__实务卷_判断题_40",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "medium level",
+      "year": 2021
+    }
+  },
+  {
+    "index": 190,
+    "question": "批评教育是一种具有训诫性质的统计行政法律责任形式。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "T",
+      "resource": "2021年度全国统计专业技术中级资格考试__实务卷_判断题_41",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "medium level",
+      "year": 2021
+    }
+  },
+  {
+    "index": 191,
+    "question": "2004 年,根据形势发展的需要,国务院决定将农业普查、工业普查、第三产业普查和基本单位普查整合为经济普查。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "F",
+      "resource": "2021年度全国统计专业技术中级资格考试__实务卷_判断题_42",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "medium level",
+      "year": 2021
+    }
+  },
+  {
+    "index": 192,
+    "question": "抽样调查是一种仅凭调查者的主观认识有意地抽选样本进行的调查，并据此推算有关总体的数量结论。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "F",
+      "resource": "2021年度全国统计专业技术中级资格考试__实务卷_判断题_43",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "medium level",
+      "year": 2021
+    }
+  },
+  {
+    "index": 193,
+    "question": "全国数据质量审核评估的对象是全国汇总统计数据，地方数据质重审核评估的对象是省级核算和统计数据。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "T",
+      "resource": "2021年度全国统计专业技术中级资格考试__实务卷_判断题_44",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "medium level",
+      "year": 2021
+    }
+  },
+  {
+    "index": 194,
+    "question": "《国民经济行业分类》(GF/T 4754-2017)共分 20 个门类，工业是其中之一。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "F",
+      "resource": "2021年度全国统计专业技术中级资格考试__实务卷_判断题_45",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "medium level",
+      "year": 2021
+    }
+  },
+  {
+    "index": 195,
+    "question": "如果一个国家全年生产的服务总产出为 20 万亿元，则其最终使用的服务总价值也是 20 万亿元。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "F",
+      "resource": "2021年度全国统计专业技术中级资格考试__实务卷_判断题_46",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "medium level",
+      "year": 2021
+    }
+  },
+  {
+    "index": 196,
+    "question": "直接消耗系数是指某产品部门的单位中间投入所直接消耗的另一部门的货物或服务的价值量。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "F",
+      "resource": "2021年度全国统计专业技术中级资格考试__实务卷_判断题_47",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "medium level",
+      "year": 2021
+    }
+  },
+  {
+    "index": 197,
+    "question": "国际储备的多少反映一国的国际支付能力,传统上认为，较安全的外汇储备量应保证不少于三个月的进口用汇。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "T",
+      "resource": "2021年度全国统计专业技术中级资格考试__实务卷_判断题_48",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "medium level",
+      "year": 2021
+    }
+  },
+  {
+    "index": 198,
+    "question": "工业产品生产能力利用率指报告期内主要产品生产价值与相应的生产能力之比。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "F",
+      "resource": "2021年度全国统计专业技术中级资格考试__实务卷_判断题_49",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "medium level",
+      "year": 2021
+    }
+  },
+  {
+    "index": 199,
+    "question": "物业管理活动包括单位对自有房屋的物业管理",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "T",
+      "resource": "2021年度全国统计专业技术中级资格考试__实务卷_判断题_50",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "medium level",
+      "year": 2021
+    }
+  },
+  {
+    "index": 200,
+    "question": "财务统计是连接统计核算与会计核算的桥梁",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "T",
+      "resource": "2021年度全国统计专业技术中级资格考试__实务卷_判断题_51",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "medium level",
+      "year": 2021
+    }
+  },
+  {
+    "index": 201,
+    "question": "人口统计中，常住人口不包括户口在本乡镇街道并在境外工作学习不满半年的人。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "F",
+      "resource": "2021年度全国统计专业技术中级资格考试__实务卷_判断题_52",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "medium level",
+      "year": 2021
+    }
+  },
+  {
+    "index": 202,
+    "question": "R&D 人员包括基础研究、应用研究和试验发展活动的直接参与者、管理人员，以及提供餐饮服务、安保人员",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "F",
+      "resource": "2021年度全国统计专业技术中级资格考试__实务卷_判断题_53",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "medium level",
+      "year": 2021
+    }
+  },
+  {
+    "index": 203,
+    "question": "住户调查将居住在一个住宅内的人群视为一个住户。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "F",
+      "resource": "2021年度全国统计专业技术中级资格考试__实务卷_判断题_54",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "medium level",
+      "year": 2021
+    }
+  },
+  {
+    "index": 204,
+    "question": "采购经理指数高于 50%反映经济活动比上期有所扩张。",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "T",
+      "resource": "2021年度全国统计专业技术中级资格考试__实务卷_判断题_55",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "medium level",
+      "year": 2021
+    }
+  },
+  {
+    "index": 205,
+    "question": "我国已经在 M0、M1、M2、M3 四个层次计量货币供应量",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "F",
+      "resource": "2021年度全国统计专业技术中级资格考试__实务卷_判断题_56",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "medium level",
+      "year": 2021
+    }
+  },
+  {
+    "index": 206,
+    "question": "国家机关、企业事业单位和其他组织以及个体工商户和个人等统计调查对象，必须依照本法和国家有关规定，真实、准确、完整、及时地提供统计调查所需的资料。（） ",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "T",
+      "resource": "2022年度全国统计专业技术中级资格考试__实务卷_判断题_57",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "medium level",
+      "year": 2022
+    }
+  },
+  {
+    "index": 207,
+    "question": "国家统计调查项目由国家统计局制定，或者由国家统计局和国务院有关部门共同制定，报国务院备案；重大的国家统计调查项目报国务院审批。（） ",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "T ",
+      "resource": "2022年度全国统计专业技术中级资格考试__实务卷_判断题_58",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "medium level",
+      "year": 2022
+    }
+  },
+  {
+    "index": 208,
+    "question": "统计督察情况不应当向社会公开。（）",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "F",
+      "resource": "2022年度全国统计专业技术中级资格考试__实务卷_判断题_59",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "medium level",
+      "year": 2022
+    }
+  },
+  {
+    "index": 209,
+    "question": "统计行政复议机关只能是具有行政职权的行政机关，而不能是立法机关和司法机关。（） ",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "T",
+      "resource": "2022年度全国统计专业技术中级资格考试__实务卷_判断题_62",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "medium level",
+      "year": 2022
+    }
+  },
+  {
+    "index": 210,
+    "question": "典型调查的结果通常可用以推算调查总体数值。（） ",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "F",
+      "resource": "2022年度全国统计专业技术中级资格考试__实务卷_判断题_63",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "medium level",
+      "year": 2022
+    }
+  },
+  {
+    "index": 211,
+    "question": "国民经济核算体系是通过一套全面、系统的基本概念、基本分类、核算原则、核算框架、基本指标和基本核算方法，为开展国民经济核算工作确立了标准和规范。（） ",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "T",
+      "resource": "2022年度全国统计专业技术中级资格考试__实务卷_判断题_64",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "medium level",
+      "year": 2022
+    }
+  },
+  {
+    "index": 212,
+    "question": "在野生森林中砍伐树木不属于生产活动。（） ",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "F",
+      "resource": "2022年度全国统计专业技术中级资格考试__实务卷_判断题_65",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "medium level",
+      "year": 2022
+    }
+  },
+  {
+    "index": 213,
+    "question": "增加值能够反映一定时期内各产业部门生产经营活动的最终成果。（） ",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "T",
+      "resource": "2022年度全国统计专业技术中级资格考试__实务卷_判断题_66",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "medium level",
+      "year": 2022
+    }
+  },
+  {
+    "index": 214,
+    "question": "国际收支平衡表中，初次收入一般包括现金和实物转移，二次收入一般指投资收益和其他收入。（） ",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "F",
+      "resource": "2022年度全国统计专业技术中级资格考试__实务卷_判断题_67",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "medium level",
+      "year": 2022
+    }
+  },
+  {
+    "index": 215,
+    "question": "以来料加工贸易方式进口的商品作为货物的进口进行核算。（） ",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "F",
+      "resource": "2022年度全国统计专业技术中级资格考试__实务卷_判断题_68",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "medium level",
+      "year": 2022
+    }
+  },
+  {
+    "index": 216,
+    "question": "按使用性质划分，能源可分为再生性能源和非再生性能源。（） ",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "F",
+      "resource": "2022年度全国统计专业技术中级资格考试__实务卷_判断题_69",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "medium level",
+      "year": 2022
+    }
+  },
+  {
+    "index": 217,
+    "question": "能源的购进量核算应遵循“谁使用，谁统计”的原则。（） ",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "F",
+      "resource": "2022年度全国统计专业技术中级资格考试__实务卷_判断题_70",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "medium level",
+      "year": 2022
+    }
+  },
+  {
+    "index": 218,
+    "question": "离开本单位但仍保留劳动关系的职工应记入企业从业人员中。（） ",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "F",
+      "resource": "2022年度全国统计专业技术中级资格考试__实务卷_判断题_71",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "medium level",
+      "year": 2022
+    }
+  },
+  {
+    "index": 219,
+    "question": "人口的性别比例是以女性人数为 ，计算男性与女性的比例，表示每  名女性所对应的男性人数。（） ",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "T",
+      "resource": "2022年度全国统计专业技术中级资格考试__实务卷_判断题_72",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "medium level",
+      "year": 2022
+    }
+  },
+  {
+    "index": 220,
+    "question": "工业生产是社会再生产的重要组成部分，在我国，工业部门是国民经济中所占比重较高的生产部门。（） ",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "T",
+      "resource": "2022年度全国统计专业技术中级资格考试__实务卷_判断题_73",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "medium level",
+      "year": 2022
+    }
+  },
+  {
+    "index": 221,
+    "question": "政府土地出让行为是政府资产存在形式的改变。（） ",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "T",
+      "resource": "2022年度全国统计专业技术中级资格考试__实务卷_判断题_74",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "medium level",
+      "year": 2022
+    }
+  },
+  {
+    "index": 222,
+    "question": "财政收支差率等于财政支出除以财政收入。（）",
+    "options": [
+      "T",
+      "F"
+    ],
+    "metadata": {
+      "answer": "F",
+      "resource": "2022年度全国统计专业技术中级资格考试__实务卷_判断题_75",
+      "subject": "Statistical Practice",
+      "question_type": "theoretical knowledge",
+      "question_format": "True_or_False",
+      "level": "medium level",
+      "year": 2022
+    }
+  }
+]

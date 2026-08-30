@@ -1,0 +1,1674 @@
+[
+  {
+    "Question": "判断模型参数估计量的符号、大小、相互之间关系的合理性属于什么检验？\nA．经济意义检验\nB．统计检验\nC．计量经济学检验\nD．模型的预测检验",
+    "Options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "Answer": "A",
+    "Metadata": {
+      "index": 4,
+      "subject": "Econometrics",
+      "question_type": "conceptual",
+      "question_format": "single_choice",
+      "topic": "Introduction"
+    }
+  },
+  {
+    "Question": "双对数模型 $\\ln Y=\\beta_{0}+\\beta_{1} \\ln X+\\mu$ 中，参数 $\\beta_{1}$ 的含义是\nA．$X$ 的相对变化引起的 $Y$ 的绝对变化\nB．$Y$ 关于 $X$ 的边际变化\nC．$X$ 的绝对变化引起的 $Y$ 的相对变化\nD．$Y$ 关于 $X$ 的弹性",
+    "Options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "Answer": "D",
+    "Metadata": {
+      "index": 13,
+      "subject": "Econometrics",
+      "question_type": "conceptual",
+      "question_format": "single_choice",
+      "topic": "Introduction"
+    }
+  },
+  {
+    "Question": "在满足经典假设的回归分析中，下列说法正确的是\nA．被解释变量和解释变量均为随机变量\nB．被解释变量和解释变量均为非随机变量\nC．被解释变量为随机变量，解释变量为非随机变量\nD．被解释变量为非随机变量，解释变量为随机变量",
+    "Options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "Answer": "C",
+    "Metadata": {
+      "index": 14,
+      "subject": "Econometrics",
+      "question_type": "conceptual",
+      "question_format": "single_choice",
+      "topic": "Introduction"
+    }
+  },
+  {
+    "Question": "下列数据类型不属于面板数据的是\nA． 100 户家庭过去 10 年的收人、消费、储蓄、就业、医疗等方面的数据\nB．我国内地 31 个省级行政区域过去 30 年地区生产总值、价格的数据\nC．我国过去30年GDP、价格、就业的数据\nD． 100 个国家过去 10 年的基尼系数",
+    "Options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "Answer": "C",
+    "Metadata": {
+      "index": 16,
+      "subject": "Econometrics",
+      "question_type": "conceptual",
+      "question_format": "single_choice",
+      "topic": "Introduction"
+    }
+  },
+  {
+    "Question": "计量经济学中应用的数据质量不包括\nA．完整性\nB．准确性\nC．可比性\nD．时效性",
+    "Options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "Answer": "D",
+    "Metadata": {
+      "index": 17,
+      "subject": "Econometrics",
+      "question_type": "conceptual",
+      "question_format": "single_choice",
+      "topic": "Introduction"
+    }
+  },
+  {
+    "Question": "参数估计量满足的小样本性质包括\nA．线性性\nB．无偏性\nC．有效性\nD．一致性",
+    "Options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "Answer": "ABC",
+    "Metadata": {
+      "index": 25,
+      "subject": "Econometrics",
+      "question_type": "conceptual",
+      "question_format": "multiple_choice",
+      "topic": "Introduction"
+    }
+  },
+  {
+    "Question": "对于 $Y_{i}=\\hat{\\beta}_{0}+\\hat{\\beta}_{1} X_{i}+e_{i}$ ，以 $\\hat{Y}_{i}$ 表示普通最小二乘回归值，$\\hat{\\sigma}$ 表示随机误差项的标准差的估计，则\nA．只有 $\\hat{\\sigma}=0$ 时，$\\sum\\left(Y_{i}-\\hat{Y}_{i}\\right)=0$\nB．只有 $\\hat{\\sigma}=0$ 时，$\\sum\\left(Y_{i}-\\hat{Y}_{i}\\right)^{2}=0$\nC．只有 $\\hat{\\sigma}=0$ 时，$\\sum\\left(Y_{i}-\\hat{Y}_{i}\\right)$ 最小\nD．只有 $\\hat{\\sigma}=0$ 时，$\\sum\\left(Y_{i}-\\hat{Y}_{i}\\right)^{2}$ 最小",
+    "Options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "Answer": "B",
+    "Metadata": {
+      "index": 60,
+      "subject": "Econometrics",
+      "question_type": "conceptual",
+      "question_format": "single_choice",
+      "topic": "Simple Linear Regression Model"
+    }
+  },
+  {
+    "Question": "在总体回归函数 $E\\left(Y / X_{i}\\right)=\\beta_{0}+\\beta_{1} X_{i}$ 中，$\\beta_{1}$ 表示\nA．当 $X$ 增加一单位时，$Y$ 增加 $\\beta_{1}$ 单位\nB．当 $X$ 增加一单位时，$Y$ 平均增加 $\\beta_{1}$ 单位\nC．当 $Y$ 增加一单位时，$X$ 增加 $\\beta_{1}$ 单位\nD．当 $Y$ 增加一单位时，$X$ 平均增加 $\\beta_{1}$ 单位",
+    "Options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "Answer": "B",
+    "Metadata": {
+      "index": 63,
+      "subject": "Econometrics",
+      "question_type": "conceptual",
+      "question_format": "single_choice",
+      "topic": "Simple Linear Regression Model"
+    }
+  },
+  {
+    "Question": "对于相同的数据，被解释变量总体均值的预测区间长度将会（ ）被解释变量个别值的预测区间长度。\nA．大于\nB．小于\nC．等于\nD．大于或小于",
+    "Options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "Answer": "B",
+    "Metadata": {
+      "index": 65,
+      "subject": "Econometrics",
+      "question_type": "conceptual",
+      "question_format": "single_choice",
+      "topic": "Simple Linear Regression Model"
+    }
+  },
+  {
+    "Question": "设 $k$ 为回归模型中解释变量的个数，$n$ 为样本容量。则对回归模型进行总体显著性检验构造的 $F$ 统计量为\nA．$F=\\frac{\\mathrm{ESS} / k}{\\mathrm{RSS} /(n-k-1)}$\nB．$F=\\frac{\\mathrm{ESS} /(k-1)}{\\mathrm{RSS} /(n-k)}$\nC．$F=\\frac{\\mathrm{ESS}}{\\mathrm{RSS}}$\nD．$F=1-\\frac{\\mathrm{RSS}}{\\mathrm{TSS}}$",
+    "Options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "Answer": "A",
+    "Metadata": {
+      "index": 94,
+      "subject": "Econometrics",
+      "question_type": "conceptual",
+      "question_format": "single_choice",
+      "topic": "Multiple Linear Regression Model"
+    }
+  },
+  {
+    "Question": "线性回归模型 $\\boldsymbol{Y}=\\boldsymbol{X} \\boldsymbol{\\beta}+\\boldsymbol{\\mu}$ 的参数估计量 $\\hat{\\boldsymbol{\\beta}}$ 是随机向量 $\\boldsymbol{Y}$ 的函数，即 $\\hat{\\boldsymbol{\\beta}}= \\left(\\boldsymbol{X}^{\\prime} \\boldsymbol{X}\\right)^{-1} \\boldsymbol{X}^{\\prime} \\boldsymbol{Y}$ 。 $\\hat{\\boldsymbol{\\beta}}$ 是\nA．随机向量\nB．非随机向量\nC．确定性向量\nD．常量",
+    "Options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "Answer": "A",
+    "Metadata": {
+      "index": 99,
+      "subject": "Econometrics",
+      "question_type": "conceptual",
+      "question_format": "single_choice",
+      "topic": "Multiple Linear Regression Model"
+    }
+  },
+  {
+    "Question": "在二元线性回归模型 $Y_{i}=\\beta_{0}+\\beta_{1} X_{1 i}+\\beta_{2} X_{2 i}+\\mu_{i}$ 中，$\\beta_{1}$ 表示\nA．当 $X_{2}$ 不变时，$X_{1}$ 每变动一单位 $Y$ 的平均变动\nB．当 $X_{1}$ 不变时，$X_{2}$ 每变动一单位 $Y$ 的平均变动\nC．当 $X_{1}$ 和 $X_{2}$ 都不变时，$Y$ 的平均变动\nD．当 $X_{1}$ 和 $X_{2}$ 都变动一单位时，$Y$ 的平均变动",
+    "Options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "Answer": "A",
+    "Metadata": {
+      "index": 113,
+      "subject": "Econometrics",
+      "question_type": "conceptual",
+      "question_format": "single_choice",
+      "topic": "Multiple Linear Regression Model"
+    }
+  },
+  {
+    "Question": "回归平方和是指\nA．被解释变量的观测值 $Y_{i}$ 与其均值 $\\bar{Y}$ 的离差平方和\nB．被解释变量的回归值 $\\hat{Y}_{i}$ 与其均值 $\\bar{Y}$ 的离差平方和\nC．被解释变量的总体平方和 $\\sum y_{i}^{2}$ 与残差平方和 $\\sum e_{i}^{2}$ 之差\nD．解释变量变动所引起的被解释变量的变动的大小",
+    "Options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "Answer": "BCD",
+    "Metadata": {
+      "index": 118,
+      "subject": "Econometrics",
+      "question_type": "conceptual",
+      "question_format": "multiple_choice",
+      "topic": "Multiple Linear Regression Model"
+    }
+  },
+  {
+    "Question": "对于回归模型 $Y_{i}=\\hat{\\beta}_{0}+\\hat{\\beta}_{2} X_{2 i}+\\hat{\\beta}_{3} X_{3 i}+e_{i}$ ，下列各式成立的有\nA．$\\sum e_{i}=0$\nB．$\\sum e_{i} X_{2 i}=0$\nC．$\\sum e_{i} X_{3 i}=0$\nD．$\\sum e_{i} Y_{i}=0$",
+    "Options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "Answer": "ABC",
+    "Metadata": {
+      "index": 123,
+      "subject": "Econometrics",
+      "question_type": "conceptual",
+      "question_format": "multiple_choice",
+      "topic": "Multiple Linear Regression Model"
+    }
+  },
+  {
+    "Question": "在工具变量的选取中，下面哪一个条件不是必须的？\nA．与所替代的随机解释变量高度相关\nB．与随机干扰项不相关\nC．与模型中的其他解释变量不相关\nD．与被解释变量存在因果关系",
+    "Options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "Answer": "D",
+    "Metadata": {
+      "index": 146,
+      "subject": "Econometrics",
+      "question_type": "conceptual",
+      "question_format": "single_choice",
+      "topic": "Stochastic Explanatory Variables"
+    }
+  },
+  {
+    "Question": "在计量模型中，被认为具有一定概率分布的随机变量的是\nA．内生变量\nB．外生变量\nC．虚拟变量\nD．解释变量",
+    "Options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "Answer": "A",
+    "Metadata": {
+      "index": 148,
+      "subject": "Econometrics",
+      "question_type": "conceptual",
+      "question_format": "single_choice",
+      "topic": "Stochastic Explanatory Variables"
+    }
+  },
+  {
+    "Question": "存在随机解释变量的情形包括\nA．滞后被解释变量作解释变量\nB．滞后解释变量作解释变量\nC．与被解释变量存在双向因果关系的变量作解释变量\nD．与随机误差项相关的变量作解释变量",
+    "Options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "Answer": "AC",
+    "Metadata": {
+      "index": 153,
+      "subject": "Econometrics",
+      "question_type": "conceptual",
+      "question_format": "multiple_choice",
+      "topic": "Stochastic Explanatory Variables"
+    }
+  },
+  {
+    "Question": "下列关于工具变量法的说法正确的是\nA．将随机解释变量换成了工具变量，改变了原模型\nB．可以用滞后一期的随机解释变量作工具变量\nC．一个随机解释变量只能使用一个工具变量\nD．是GMM估计的一个特例",
+    "Options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "Answer": "BD",
+    "Metadata": {
+      "index": 155,
+      "subject": "Econometrics",
+      "question_type": "conceptual",
+      "question_format": "multiple_choice",
+      "topic": "Stochastic Explanatory Variables"
+    }
+  },
+  {
+    "Question": "存在共线性时有\nA． $\\operatorname{Rank}(\\boldsymbol{X})=K+1$\nB． $\\operatorname{Rank}\\left(\\boldsymbol{X}^{\\prime} \\boldsymbol{X}\\right)=K+1$\nC． $\\operatorname{Rank}(\\boldsymbol{X})<K+1$\nD． $\\boldsymbol{X}^{\\prime} \\boldsymbol{X}$ 可逆",
+    "Options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "Answer": "C",
+    "Metadata": {
+      "index": 185,
+      "subject": "Econometrics",
+      "question_type": "conceptual",
+      "question_format": "single_choice",
+      "topic": "Multicollinearity"
+    }
+  },
+  {
+    "Question": "下列说法不正确的有\nA．多重共线性的存在会影响模型在预测上的应用\nB．多重共线性是完全可以避免的\nC．多重共线性不影响参数估计量的有效性\nD．多重共线性只有完全共线性一种类型",
+    "Options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "Answer": "ABD",
+    "Metadata": {
+      "index": 191,
+      "subject": "Econometrics",
+      "question_type": "conceptual",
+      "question_format": "multiple_choice",
+      "topic": "Multicollinearity"
+    }
+  },
+  {
+    "Question": "异方差是指\nA． $\\operatorname{Var}\\left(\\mu_{i}\\right) \\neq \\sigma^{2}$\nB． $\\operatorname{Var}\\left(X_{i}\\right) \\neq \\sigma^{2}$\nC． $\\operatorname{Var}\\left(\\mu_{i}\\right)=\\sigma^{2}$\nD． $\\operatorname{Var}\\left(X_{i}\\right)=\\sigma^{2}$",
+    "Options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "Answer": "A",
+    "Metadata": {
+      "index": 218,
+      "subject": "Econometrics",
+      "question_type": "conceptual",
+      "question_format": "single_choice",
+      "topic": "Heteroscedasticity"
+    }
+  },
+  {
+    "Question": "加权最小二乘法是下列哪个参数估计方法的特例\nA．广义差分法\nB．广义最小二乘法\nC．普通最小二乘法\nD．两阶段最小二乘法",
+    "Options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "Answer": "B",
+    "Metadata": {
+      "index": 219,
+      "subject": "Econometrics",
+      "question_type": "conceptual",
+      "question_format": "single_choice",
+      "topic": "Heteroscedasticity"
+    }
+  },
+  {
+    "Question": "在异方差的情况下，参数估计量仍是无偏的，其原因是\nA．零均值假定成立\nB．序列无自相关假定成立\nC．无多重共线性假定成立\nD．解释变量与随机误差项不相关假定成立",
+    "Options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "Answer": "A",
+    "Metadata": {
+      "index": 220,
+      "subject": "Econometrics",
+      "question_type": "conceptual",
+      "question_format": "single_choice",
+      "topic": "Heteroscedasticity"
+    }
+  },
+  {
+    "Question": "在下列产生异方差的原因中，不正确的是\nA．模型设定有误\nB．截面数据\nC．样本数据中有异常值\nD．解释变量的共线性",
+    "Options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "Answer": "D",
+    "Metadata": {
+      "index": 222,
+      "subject": "Econometrics",
+      "question_type": "conceptual",
+      "question_format": "single_choice",
+      "topic": "Heteroscedasticity"
+    }
+  },
+  {
+    "Question": "下列说法不正确的是\nA．使用截面数据容易产生异方差\nB．异方差产生的原因有设定错误\nC．检验异方差的方法有 $F$ 检验法\nD．修正异方差的方法有差分法",
+    "Options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "Answer": "D",
+    "Metadata": {
+      "index": 227,
+      "subject": "Econometrics",
+      "question_type": "conceptual",
+      "question_format": "single_choice",
+      "topic": "Heteroscedasticity"
+    }
+  },
+  {
+    "Question": "异方差的检验方法有\nA．图示检验法\nB．Gleiser检验\nC．White检验\nD．$t$ 检验",
+    "Options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "Answer": "ABC",
+    "Metadata": {
+      "index": 232,
+      "subject": "Econometrics",
+      "question_type": "conceptual",
+      "question_format": "multiple_choice",
+      "topic": "Heteroscedasticity"
+    }
+  },
+  {
+    "Question": "Goldfeld－Quandt检验法的应用条件有\nA．将观测值按解释变量的大小排序\nB．样本容量尽可能大\nC．随机误差项服从正态分布\nD．将排列在中间的约 $1 / 4$ 的观测值删除掉",
+    "Options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "Answer": "BC",
+    "Metadata": {
+      "index": 237,
+      "subject": "Econometrics",
+      "question_type": "conceptual",
+      "question_format": "multiple_choice",
+      "topic": "Heteroscedasticity"
+    }
+  },
+  {
+    "Question": "已知DW统计量的值接近于 0 ，则样本回归模型残差的一阶自相关系数 $\\hat{\\rho}$ 近似等于\nA．-1\nB． 0\nC． 1\nD． 0.5",
+    "Options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "Answer": "C",
+    "Metadata": {
+      "index": 254,
+      "subject": "Econometrics",
+      "question_type": "conceptual",
+      "question_format": "single_choice",
+      "topic": "Serial Correlation"
+    }
+  },
+  {
+    "Question": "广义差分法与下列哪个方法等价？\nA．加权最小二乘法\nB．广义最小二乘法\nC．普通最小二乘法\nD．两阶段最小二乘法",
+    "Options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "Answer": "B",
+    "Metadata": {
+      "index": 264,
+      "subject": "Econometrics",
+      "question_type": "conceptual",
+      "question_format": "single_choice",
+      "topic": "Serial Correlation"
+    }
+  },
+  {
+    "Question": "应用LM检验方法检验序列相关，下列说法错误的是\nA．解释变量可以是随机的\nB．不可以检验一阶自相关\nC．线性回归模型中可以不含截距项\nD．可以检验高阶序列相关",
+    "Options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "Answer": "B",
+    "Metadata": {
+      "index": 269,
+      "subject": "Econometrics",
+      "question_type": "conceptual",
+      "question_format": "single_choice",
+      "topic": "Serial Correlation"
+    }
+  },
+  {
+    "Question": "DW统计量与一阶自回归系数 $\\rho$ 的关系式是\nA． $\\mathrm{DW}=1-\\frac{\\rho}{2}$\nB． $\\mathrm{DW}=2(1-\\rho)$\nC． $\\mathrm{DW}=1-\\rho$\nD． $\\mathrm{DW}=-2 \\rho$",
+    "Options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "Answer": "B",
+    "Metadata": {
+      "index": 271,
+      "subject": "Econometrics",
+      "question_type": "conceptual",
+      "question_format": "single_choice",
+      "topic": "Serial Correlation"
+    }
+  },
+  {
+    "Question": "关于 DW 检验下列说法正确的有\nA．只适用于一阶线性自回归形式的序列相关\nB．DW统计量的取值区间是 $[0,4]$\n\nC．当 $\\mathrm{DW}=2$ 时，对应的相关系数为 0 ，表明不存在序列相关\nD．当DW值落在区间 $\\left[d_{L}, d_{U}\\right]$ 或者 $\\left[4-d_{U}, 4-d_{L}\\right]$ 上时，无法确定随机误差项是否存在自相关",
+    "Options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "Answer": "ABCD",
+    "Metadata": {
+      "index": 284,
+      "subject": "Econometrics",
+      "question_type": "conceptual",
+      "question_format": "multiple_choice",
+      "topic": "Serial Correlation"
+    }
+  },
+  {
+    "Question": "序列相关性的影响包括\nA．参数估计量不再满足无偏性\nB．变量的显著性检验失去意义\nC．模型的预测失效\nD．普通最小二乘法参数估计量方差较大",
+    "Options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "Answer": "BC",
+    "Metadata": {
+      "index": 285,
+      "subject": "Econometrics",
+      "question_type": "conceptual",
+      "question_format": "multiple_choice",
+      "topic": "Serial Correlation"
+    }
+  },
+  {
+    "Question": "下列说法正确的是\nA．自相关只存在于相邻随机误差项之间\nB．自相关产生的原因有经济变量的惯性作用\nC．检验自相关的方法有 $F$ 检验法\nD．修正自相关的方法有广义差分法",
+    "Options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "Answer": "BD",
+    "Metadata": {
+      "index": 293,
+      "subject": "Econometrics",
+      "question_type": "conceptual",
+      "question_format": "multiple_choice",
+      "topic": "Serial Correlation"
+    }
+  },
+  {
+    "Question": "对于高阶序列相关，可使用的检验方法有\nA．DW检验\nB．G－Q检验\nC．回归检验\nD．LW检验",
+    "Options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "Answer": "CD",
+    "Metadata": {
+      "index": 295,
+      "subject": "Econometrics",
+      "question_type": "conceptual",
+      "question_format": "multiple_choice",
+      "topic": "Serial Correlation"
+    }
+  },
+  {
+    "Question": "关于虚拟变量设置原则，下列表述正确的有\nA．当定性因素有 $m$ 个类别时，引人 $m-1$ 个虚拟变量\nB．当定性因素有 $m$ 个类别时，引人 $m$ 个虚拟变量，会产生多重共线性问题\nC．虚拟变量的值只能取 0 和 1\nD．在虚拟变量的设置中，基础类别一般取值为 1",
+    "Options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "Answer": "ABD",
+    "Metadata": {
+      "index": 325,
+      "subject": "Econometrics",
+      "question_type": "conceptual",
+      "question_format": "multiple_choice",
+      "topic": "Dummy Variable Models"
+    }
+  },
+  {
+    "Question": "在衣着消费支出模型 $Y_{t}=\\alpha_{1}+\\alpha_{2} D_{2 t}+\\alpha_{3} D_{3 t}+\\alpha_{4} D_{2 t} D_{3 t}+\\beta X_{t}+\\mu_{t}$ 中，$Y_{t}$ 为衣着消费支出，$X_{t}$ 为收人，虚拟变量 $D_{2 t}=\\left(1\\right.$ ，女性； 0 ，男性），$D_{3 t}=(1$ ，本科及以上学历； 0 ，本科以下学历）。关于模型的参数，下列说法正确的是\n\nA．$\\alpha_{2}$ 表示其他条件不变时，本科以下学历者中女性比男性在衣着消费支出方面多（少）支出的差额\nB．$\\alpha_{3}$ 表示其他条件不变时，男性中本科及以上学历者比本科以下学历者在衣着消费支出方面多（少）支出的差额\n\nC．$\\alpha_{4}$ 表示其他条件不变时，女性本科及以上学历者比男性本科以下学历者在衣着消费支出方面多（少）支出的差额\nD．$\\alpha_{4} D_{2 t} D_{3 t}$ 反映虚拟变量的交互效应，在两个虚拟变量的取值都是 1 时发挥作用",
+    "Options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "Answer": "ABD",
+    "Metadata": {
+      "index": 326,
+      "subject": "Econometrics",
+      "question_type": "conceptual",
+      "question_format": "multiple_choice",
+      "topic": "Dummy Variable Models"
+    }
+  },
+  {
+    "Question": "在分布滞后模型 $Y_{t}=\\alpha+\\beta_{0} X_{t}+\\beta_{1} X_{t-1}+\\beta_{2} X_{t-2}+\\cdots+\\beta_{k} X_{t-k}+\\mu_{t}$ 中，动态乘数为\nA．$\\beta_{0}$\nB．$\\beta_{i}(i=1,2, \\cdots, k)$\nC．$\\sum_{i=1}^{k} \\beta_{i}$\nD．$\\sum_{i=0}^{k} \\beta_{i}$",
+    "Options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "Answer": "B",
+    "Metadata": {
+      "index": 345,
+      "subject": "Econometrics",
+      "question_type": "conceptual",
+      "question_format": "single_choice",
+      "topic": "Lagged Variable Models"
+    }
+  },
+  {
+    "Question": "自适应预期模型基于如下的理论假设：影响被解释变量 $Y_{t}$ 的因素不是 $X_{t}$ ，而是关于 $X_{t}$ 的预期 $X_{t}^{*}$ ，且预期 $X_{t}^{*}$ 形成的过程是 $X_{t}^{*}-X_{t-1}^{*}=\\gamma\\left(X_{t}-X_{t-1}^{*}\\right)$ 。其中 $0<\\gamma<1, \\quad \\gamma$ 被称为\nA．衰减率\nB．预期系数\nC．调整因子\nD．预期误差",
+    "Options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "Answer": "B",
+    "Metadata": {
+      "index": 347,
+      "subject": "Econometrics",
+      "question_type": "conceptual",
+      "question_format": "single_choice",
+      "topic": "Lagged Variable Models"
+    }
+  },
+  {
+    "Question": "有限自回归模型一般不存在下列哪个问题？\nA．随机解释变量问题\nB．近似多重共线性问题\nC．序列相关问题\nD．完全多重共线性问题",
+    "Options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "Answer": "D",
+    "Metadata": {
+      "index": 349,
+      "subject": "Econometrics",
+      "question_type": "conceptual",
+      "question_format": "single_choice",
+      "topic": "Lagged Variable Models"
+    }
+  },
+  {
+    "Question": "在模型 $Y_{t}=\\alpha+\\beta_{0} X_{t}+\\beta_{1} X_{t-1}+\\cdots+\\beta_{s} X_{t-s}+\\mu_{t}$ 中，$\\beta_{0}+\\beta_{1}+\\cdots+\\beta_{s}$ 称为\n\nA．长期乘数\nB．短期乘数\nC．即期乘数\nD．延迟乘数",
+    "Options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "Answer": "D",
+    "Metadata": {
+      "index": 356,
+      "subject": "Econometrics",
+      "question_type": "conceptual",
+      "question_format": "single_choice",
+      "topic": "Lagged Variable Models"
+    }
+  },
+  {
+    "Question": "有限分布滞后模型的修正估计方法有\nA．经验加权法\nB．Almon多项式法\nC．Koyck方法\nD．帕斯卡方法",
+    "Options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "Answer": "AB",
+    "Metadata": {
+      "index": 369,
+      "subject": "Econometrics",
+      "question_type": "conceptual",
+      "question_format": "multiple_choice",
+      "topic": "Lagged Variable Models"
+    }
+  },
+  {
+    "Question": "关于自回归模型，下列表述正确的有\nA．估计自回归模型时的主要问题在于，滞后被解释变量的存在可能导致它与随机干扰项相关，以及随机干扰项出现序列相关\nB．Koyck模型和自适应预期模型都存在随机解释变量与随机干扰项同期相关问题\nC．局部调整模型中随机解释变量与随机干扰项没有同期相关，因此可以应用OLS估计\nD．无限期分布滞后模型通过一定的方法可以转换为一阶自回归模型",
+    "Options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "Answer": "ABCD",
+    "Metadata": {
+      "index": 370,
+      "subject": "Econometrics",
+      "question_type": "conceptual",
+      "question_format": "multiple_choice",
+      "topic": "Lagged Variable Models"
+    }
+  },
+  {
+    "Question": "弱平稳时间序列需要满足的条件不包括\nA．$E\\left(X_{t}\\right)=\\mu$\nB． $\\operatorname{Var}\\left(X_{t}\\right)=\\sigma^{2}$\nC．$X_{t} \\sim N\\left(0, \\sigma^{2}\\right)$\nD． $\\operatorname{Cov}\\left(X_{t}, X_{t+k}\\right)=\\gamma_{k}$",
+    "Options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "Answer": "C",
+    "Metadata": {
+      "index": 390,
+      "subject": "Econometrics",
+      "question_type": "conceptual",
+      "question_format": "single_choice",
+      "topic": "Time Series Analysis"
+    }
+  },
+  {
+    "Question": "误差修正模型具有以下哪些优点？\nA．一阶差分项的使用消除了变量可能存在的趋势因素，从而避免了虚假回归问题\nB．一阶差分项的使用消除了模型可能存在的多重共线性问题\nC．误差修正项的引入保证了变量水平值的信息没有被忽视\n\nD．由于误差修正项本身的平稳性，该模型可以用经典的回归方法进行估计，尤其是模型中差分项可以使用通常的 $t$ 检验与 $F$ 检验来选取",
+    "Options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "Answer": "ABCD",
+    "Metadata": {
+      "index": 404,
+      "subject": "Econometrics",
+      "question_type": "conceptual",
+      "question_format": "multiple_choice",
+      "topic": "Time Series Analysis"
+    }
+  },
+  {
+    "Question": "在结构式模型中，当 $R\\left(\\boldsymbol{B}_{0} \\boldsymbol{\\Gamma}_{0}\\right)=g-1$ 且 $k-k_{i}>g_{i}-1$ 时，模型的识别状态为\nA．不可识别\nB．恰好识别\nC．过度识别\nD．无法判断",
+    "Options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "Answer": "C",
+    "Metadata": {
+      "index": 431,
+      "subject": "Econometrics",
+      "question_type": "conceptual",
+      "question_format": "single_choice",
+      "topic": "Simultaneous Equations Models"
+    }
+  },
+  {
+    "Question": "在二阶段最小二乘法中，作为工具变量的是\nA．末在方程中出现的外生变量\nB．任意在方程中出现的外生变量\nC．未在方程中出现的内生变量\nD．在方程中出现的内生变量的估计量",
+    "Options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "Answer": "D",
+    "Metadata": {
+      "index": 433,
+      "subject": "Econometrics",
+      "question_type": "conceptual",
+      "question_format": "single_choice",
+      "topic": "Simultaneous Equations Models"
+    }
+  },
+  {
+    "Question": "在某个结构方程过度识别的条件下，不适用的估计方法是\nA．间接最小二乘法\nB．工具变量法\nC．二阶段最小二乘法\nD．有限信息极大似然估计法",
+    "Options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "Answer": "A",
+    "Metadata": {
+      "index": 446,
+      "subject": "Econometrics",
+      "question_type": "conceptual",
+      "question_format": "single_choice",
+      "topic": "Simultaneous Equations Models"
+    }
+  },
+  {
+    "Question": "小型宏观计量模型 $\\left\\{\\begin{array}{l}C_{t}=a_{0}+a_{1} Y_{t}+\\mu_{1 t} \\\\ I_{t}=b_{0}+b_{1} Y_{t}+b_{2} Y_{t-1}+\\mu_{2 t} \\\\ Y_{t}=C_{t}+I_{t}+G_{t}\\end{array}\\right.$ 中，第一个方程是\nA．结构方程\nB．随机方程\nC．行为方程\nD．线性方程",
+    "Options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "Answer": "ABCD",
+    "Metadata": {
+      "index": 454,
+      "subject": "Econometrics",
+      "question_type": "conceptual",
+      "question_format": "multiple_choice",
+      "topic": "Simultaneous Equations Models"
+    }
+  },
+  {
+    "Question": "在一个计量经济模型中，可作为被解释变量的有\nA．内生变量\nB．虚拟变量\nC．随机变量\nD．滞后变量",
+    "Options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "Answer": "ABC",
+    "Metadata": {
+      "index": 460,
+      "subject": "Econometrics",
+      "question_type": "conceptual",
+      "question_format": "multiple_choice",
+      "topic": "Simultaneous Equations Models"
+    }
+  },
+  {
+    "Question": "下列关于产业分类的叙述中正确的是 $\\_\\_\\_\\_$。\nA．是国民经济核算的基础分类方法\nB．是分析产业结构的基础前提\nC．可以在机构单位基础上实现产业分类\nD．投资核算和资产负债核算中有必要应用产业部门分类，以反映资源配置结构问题\nE．主要基于生产产品或服务的同质性划分",
+    "Options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "Answer": "ABDE",
+    "Metadata": {
+      "index": 22,
+      "subject": "National Accounting",
+      "question_type": "conceptual",
+      "question_format": "multiple_choice",
+      "topic": "General Introduction"
+    }
+  },
+  {
+    "Question": "下列关于交易的说法中正确的是 $\\_\\_\\_\\_$。\nA．各单位内部发生的自产自用性质的经济活动不属于交易\nB．交易是指两个机构单位之间按照相互协议进行的活动\nC．国民经济核算中的交易主要以货币单位进行计量\nD．按交易内容一般分为货物和服务交易、收人分配交易及金融交易\nE．中国向非洲国家捐赠的物资不属于交易",
+    "Options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "Answer": "BCD",
+    "Metadata": {
+      "index": 23,
+      "subject": "National Accounting",
+      "question_type": "conceptual",
+      "question_format": "multiple_choice",
+      "topic": "General Introduction"
+    }
+  },
+  {
+    "Question": "GDP 核算覆盖了经济过程的生产、分配、消费、积累等不同方面。下列关于 GDP 总体核算的说法错误的是 $\\_\\_\\_\\_$。\nA．生产法和支出法 GDP 都是基于各产业增加值核算的\nB．生产法体现了生产环节的计算\nC．收人法体现了初次分配环节的计算思路\nD．支出法是就最终产品消费、积累使用阶段进行核算的结果",
+    "Options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "Answer": "A",
+    "Metadata": {
+      "index": 63,
+      "subject": "National Accounting",
+      "question_type": "conceptual",
+      "question_format": "single_choice",
+      "topic": "GDP Accounting"
+    }
+  },
+  {
+    "Question": "支出法是立足于 $\\_\\_\\_\\_$对国内生产总值进行核算的。\nA．最终产品\nB．中间产品\nC．成品\nD．最终产品和中间产品",
+    "Options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "Answer": "A",
+    "Metadata": {
+      "index": 66,
+      "subject": "National Accounting",
+      "question_type": "conceptual",
+      "question_format": "single_choice",
+      "topic": "GDP Accounting"
+    }
+  },
+  {
+    "Question": "下列表述正确的是 $\\_\\_\\_\\_$。\nA．一般公式：总产出 $=\\sum$ 产量 $\\times$ 价格\nB．总产出 $=\\sum$ 当期成品产量 $\\times$ 价格\nC．总产出 $=\\sum$ 当期成品产量 $\\times$ 价格 + 当期完成的在制品、半成品价值\nD．总产出 $=$ 产品销售收入十成品存货当期变动价值 + 在制品、半成品存货当期变动价值\n\nE．工业总产出 $=$ 工业成品价值 + 工业半成品、在制品期末存货价值 + 工业性作业价值",
+    "Options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "Answer": "ACD",
+    "Metadata": {
+      "index": 81,
+      "subject": "National Accounting",
+      "question_type": "conceptual",
+      "question_format": "multiple_choice",
+      "topic": "GDP Accounting"
+    }
+  },
+  {
+    "Question": "建筑业总产出的具体内容包括 $\\_\\_\\_\\_$。\nA．建筑工程产出\nB．设备安装工程产出\nC．房屋建筑物修理产出\nD．非标准件制造产出\nE．装饰装修产出",
+    "Options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "Answer": "ABCDE",
+    "Metadata": {
+      "index": 83,
+      "subject": "National Accounting",
+      "question_type": "conceptual",
+      "question_format": "multiple_choice",
+      "topic": "GDP Accounting"
+    }
+  },
+  {
+    "Question": "产出是生产的结果，因此其包括的内容应与生产核算范围具有完全的对应性。",
+    "Options": [
+      "T",
+      "F"
+    ],
+    "Answer": "T",
+    "Metadata": {
+      "index": 102,
+      "subject": "National Accounting",
+      "question_type": "conceptual",
+      "question_format": "True_or_False",
+      "topic": "GDP Accounting"
+    }
+  },
+  {
+    "Question": "服务与货物的主要区别在于：服务产出都是没有实物形态的。",
+    "Options": [
+      "T",
+      "F"
+    ],
+    "Answer": "F",
+    "Metadata": {
+      "index": 103,
+      "subject": "National Accounting",
+      "question_type": "conceptual",
+      "question_format": "True_or_False",
+      "topic": "GDP Accounting"
+    }
+  },
+  {
+    "Question": "用支出法计算国内生产总值时，不需要计算营业盈余，因为后者是收人法国内生产总值中的一个构成项。",
+    "Options": [
+      "T",
+      "F"
+    ],
+    "Answer": "T",
+    "Metadata": {
+      "index": 115,
+      "subject": "National Accounting",
+      "question_type": "conceptual",
+      "question_format": "True_or_False",
+      "topic": "GDP Accounting"
+    }
+  },
+  {
+    "Question": "公共消费支出主要是指政府消费支出，它一般在两种情况下发生：一是针对居民住户提供；二是针对公共服务提供。",
+    "Options": [
+      "T",
+      "F"
+    ],
+    "Answer": "T",
+    "Metadata": {
+      "index": 116,
+      "subject": "National Accounting",
+      "question_type": "conceptual",
+      "question_format": "True_or_False",
+      "topic": "GDP Accounting"
+    }
+  },
+  {
+    "Question": "在我国，城市居民购买的住房按固定资本形成计入当期住户部门的增加值。",
+    "Options": [
+      "T",
+      "F"
+    ],
+    "Answer": "F",
+    "Metadata": {
+      "index": 120,
+      "subject": "National Accounting",
+      "question_type": "conceptual",
+      "question_format": "True_or_False",
+      "topic": "GDP Accounting"
+    }
+  },
+  {
+    "Question": "供给使用表比较受青睐，因为它可以较容易地从现有统计体系中获得编制所需数据，而且可以通过它间接推出产品部门×产品部门表。面对一张三部门表，下列关于供给使用表的说法正确的是______。\n   A. 供给表从列的角度可以观察各产业部门都生产了哪些产品\n   B. 供给表第一行第二列数据的含义是第二产业所生产的农产品的价值量\n   C. 供给表第一行第二列数据的含义是第二产业对农产品的消耗\n   D. 使用表第一行第二列数据的含义是第二产业所消耗的农产品的价值量\n   E. 以上说法都对",
+    "Options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "Answer": "ABD",
+    "Metadata": {
+      "index": 143,
+      "subject": "National Accounting",
+      "question_type": "conceptual",
+      "question_format": "multiple_choice",
+      "topic": "Input-Output Accounting"
+    }
+  },
+  {
+    "Question": "把进口品放置在第Ⅱ象限是为了表示它仅与最终使用有关。",
+    "Options": [
+      "T",
+      "F"
+    ],
+    "Answer": "F",
+    "Metadata": {
+      "index": 159,
+      "subject": "National Accounting",
+      "question_type": "conceptual",
+      "question_format": "True_or_False",
+      "topic": "Input-Output Accounting"
+    }
+  },
+  {
+    "Question": "可支配收入是显示收入分配最终结果的收入总量。下列等式中表述不正确的是______。  \nA. 可支配收入=初始收入+经常转移收入-经常转移支出  \nB. 国民可支配收入=国民总收入+来自国外的经常转移净额  \nC. 国民可支配收入=国内生产总值+来自国外的初次收入净额+来自国外的经常转移净额  \nD. 国民可支配收入=国内生产总值+来自国外的初次收入分配流量净额",
+    "Options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "Answer": "D",
+    "Metadata": {
+      "index": 178,
+      "subject": "National Accounting",
+      "question_type": "conceptual",
+      "question_format": "single_choice",
+      "topic": "Flow of Funds Accounting"
+    }
+  },
+  {
+    "Question": "某宾馆为进行装修装潢，当期购买彩色电视机开支15万元，购买建材开支10万元，向装修企业支付装修费用5万元，则该宾馆当期固定资产成本成为______万元。  \nA. 15  \nB. 25  \nC. 30  \nD. 20",
+    "Options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "Answer": "C",
+    "Metadata": {
+      "index": 184,
+      "subject": "National Accounting",
+      "question_type": "calculation",
+      "question_format": "single_choice",
+      "topic": "Flow of Funds Accounting"
+    }
+  },
+  {
+    "Question": "按照希克斯给出的定义：\"收入是一个人在一周中所能消费的最高价值，并且预期他在周末的处境会和周初一样好。\"国民经济核算中与此对应的指标应是______。  \nA. 初始收入  \nB. 劳动者报酬  \nC. 储蓄  \nD. 可支配收入",
+    "Options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "Answer": "D",
+    "Metadata": {
+      "index": 185,
+      "subject": "National Accounting",
+      "question_type": "conceptual",
+      "question_format": "single_choice",
+      "topic": "Flow of Funds Accounting"
+    }
+  },
+  {
+    "Question": "资本转移包括多种类型，以下项目中属于资本转移的是______。  \nA. 债务注销  \nB. 资本税  \nC. 固定资产折旧  \nD. 投资补助  \nE. 债务豁免",
+    "Options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "Answer": "BDE",
+    "Metadata": {
+      "index": 198,
+      "subject": "National Accounting",
+      "question_type": "conceptual",
+      "question_format": "multiple_choice",
+      "topic": "Flow of Funds Accounting"
+    }
+  },
+  {
+    "Question": "资金流量核算覆盖的经济活动都是遵循市场经济规则发生的，是以货币为交易媒介的等价交换，因此都属于货币性交易。",
+    "Options": [
+      "T",
+      "F"
+    ],
+    "Answer": "F",
+    "Metadata": {
+      "index": 204,
+      "subject": "National Accounting",
+      "question_type": "conceptual",
+      "question_format": "True_or_False",
+      "topic": "Flow of Funds Accounting"
+    }
+  },
+  {
+    "Question": "某企业出租机器设备，由于机器设备是该企业的固定资产，因此其租金应记为财产收入。",
+    "Options": [
+      "T",
+      "F"
+    ],
+    "Answer": "F",
+    "Metadata": {
+      "index": 219,
+      "subject": "National Accounting",
+      "question_type": "conceptual",
+      "question_format": "True_or_False",
+      "topic": "Flow of Funds Accounting"
+    }
+  },
+  {
+    "Question": "金融衍生工具是一类比较特殊的金融交易对象，其核算方法也有独特之处。以下有关说法错误的是 $\\_\\_\\_\\_$。\nA．在货币互换中金融衍生工具交易只记录因互换而发生的利息支付净额\nB．对于远期类工具，应按照交易时合同对交易双方的价值来确定资产方与负债方，并按照合同价值来记录资产或负债交易价值\nC．对于期权交易，应以期权费记录交易双方的资产或负债交易价值\nD．金融衍生工具的价值在核算期内会随着基本产品价格的变化而变化，这种变化也属于金融交易",
+    "Options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "Answer": "D",
+    "Metadata": {
+      "index": 227,
+      "subject": "National Accounting",
+      "question_type": "conceptual",
+      "question_format": "single_choice",
+      "topic": "Flow of Funds Accounting - Financial Transactions"
+    }
+  },
+  {
+    "Question": "以下所列项目中属于由货币性实物交易引起的金融交易包括 $\\_\\_\\_\\_$。\nA．企业以存款支付税款\nB．住户提取存款购买股票\nC．企业划转银行存款清偿应付账款\nD．企业以现金向员工支付劳动者报酬\nE．政府发行新债偿还到期国债",
+    "Options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "Answer": "AD",
+    "Metadata": {
+      "index": 236,
+      "subject": "National Accounting",
+      "question_type": "conceptual",
+      "question_format": "multiple_choice",
+      "topic": "Flow of Funds Accounting - Financial Transactions"
+    }
+  },
+  {
+    "Question": "或有资产是一种有条件的债权，因此或有资产肯定不属于资金流量表中界定的金融资产。",
+    "Options": [
+      "T",
+      "F"
+    ],
+    "Answer": "F",
+    "Metadata": {
+      "index": 240,
+      "subject": "National Accounting",
+      "question_type": "conceptual",
+      "question_format": "True_or_False",
+      "topic": "Flow of Funds Accounting - Financial Transactions"
+    }
+  },
+  {
+    "Question": "在远期类工具的交易中，交易的每一方都是潜在的债务人，在期权交易中，期权的买方拥有无条件的债权，卖方则承担或有负债。",
+    "Options": [
+      "T",
+      "F"
+    ],
+    "Answer": "T",
+    "Metadata": {
+      "index": 244,
+      "subject": "National Accounting",
+      "question_type": "conceptual",
+      "question_format": "True_or_False",
+      "topic": "Flow of Funds Accounting - Financial Transactions"
+    }
+  },
+  {
+    "Question": "上市公司既发行股票，又购买股票，前者是公司的负债，后者则是公司的资产，在资金流量表中应分别记录在该部门的来源方和运用方。",
+    "Options": [
+      "T",
+      "F"
+    ],
+    "Answer": "T",
+    "Metadata": {
+      "index": 255,
+      "subject": "National Accounting",
+      "question_type": "conceptual",
+      "question_format": "True_or_False",
+      "topic": "Flow of Funds Accounting - Financial Transactions"
+    }
+  },
+  {
+    "Question": "下列属于生产资产的有 $\\_\\_\\_\\_$。\nA．世茂滨江花园楼盘占地面积 27.5 万平方米的土地\nB．世茂滨江花园楼盘的建筑物\n\nC．飞利浦公司拥有的旋转式刀头剃须刀专利权\nD．百度在纳斯达克上市融资 1 亿美元\nE．创维库存的电视机\n，其中金融资产 2000 亿\n\n同的境况，形成持有收\n\n目美元汇率",
+    "Options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "Answer": "BE",
+    "Metadata": {
+      "index": 273,
+      "subject": "National Accounting",
+      "question_type": "conceptual",
+      "question_format": "multiple_choice",
+      "topic": "Balance Sheet Accounting"
+    }
+  },
+  {
+    "Question": "价格上升会导致持有收益，价格下降会导致持有损失。",
+    "Options": [
+      "T",
+      "F"
+    ],
+    "Answer": "F",
+    "Metadata": {
+      "index": 285,
+      "subject": "National Accounting",
+      "question_type": "conceptual",
+      "question_format": "True_or_False",
+      "topic": "Balance Sheet Accounting"
+    }
+  },
+  {
+    "Question": "下列不属于我国常住单位的是 $\\_\\_\\_\\_$。\nA．我国某企业拥有的船只在国际水域航行\nB．外国商品在中国境内的代理商\nC．中国驻美国的大使馆\nD．中国驻外使馆的外籍工作人员",
+    "Options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "Answer": "D",
+    "Metadata": {
+      "index": 294,
+      "subject": "National Accounting",
+      "question_type": "conceptual",
+      "question_format": "single_choice",
+      "topic": "Balance of Payments and International Investment Position Accounting"
+    }
+  },
+  {
+    "Question": "对外资产／负债因汇率浮动而发生的变化应体现在 $\\_\\_\\_\\_$中；如果人民币升值，会使我国持有的储备资产价值有所 $\\_\\_\\_\\_$。\nA．国际收支平衡表；增加\nB．国际投资头寸表；增加\nC．国际收支平衡表；减少\nD．国际投资头寸表；减少",
+    "Options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "Answer": "D",
+    "Metadata": {
+      "index": 310,
+      "subject": "National Accounting",
+      "question_type": "conceptual",
+      "question_format": "single_choice",
+      "topic": "Balance of Payments and International Investment Position Accounting"
+    }
+  },
+  {
+    "Question": "下列关于记录价格的说法中，正确的有 $\\_\\_\\_\\_$。\nA．资产和负债存量按历史价格计价\nB．交易按双方商定的实际价格计价\nC．易货贸易按同类产品的市场价格计价\nD．直接投资按历史成本予以记录\nE．转移按历史成本计价",
+    "Options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "Answer": "BC",
+    "Metadata": {
+      "index": 313,
+      "subject": "National Accounting",
+      "question_type": "conceptual",
+      "question_format": "multiple_choice",
+      "topic": "Balance of Payments and International Investment Position Accounting"
+    }
+  },
+  {
+    "Question": "关于储备资产的说法，正确的是 $\\_\\_\\_\\_$。\nA．是一国对外金融资产的组成部分\nB．是从资产存在形式上划分的\nC．具有较高的流动性和变现性\nD．能够为货币当局有效控制\nE．主要用于调整国际收支平衡",
+    "Options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "Answer": "ACDE",
+    "Metadata": {
+      "index": 317,
+      "subject": "National Accounting",
+      "question_type": "conceptual",
+      "question_format": "multiple_choice",
+      "topic": "Balance of Payments and International Investment Position Accounting"
+    }
+  },
+  {
+    "Question": "企业提取在外存款购买外国企业发行的股票（持有股份为 $3 \\%$ ），所涉及的记录有 $\\_\\_\\_\\_$。\nA．直接投资的增加\nB．证券投资的增加\nC．其他投资的减少\nD．储备资产的减少\nE．其他非生产资产的减少",
+    "Options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "Answer": "BC",
+    "Metadata": {
+      "index": 319,
+      "subject": "National Accounting",
+      "question_type": "conceptual",
+      "question_format": "multiple_choice",
+      "topic": "Balance of Payments and International Investment Position Accounting"
+    }
+  },
+  {
+    "Question": "住户的常住性取决于它的工作所在地而不是住所所在地。",
+    "Options": [
+      "T",
+      "F"
+    ],
+    "Answer": "F",
+    "Metadata": {
+      "index": 322,
+      "subject": "National Accounting",
+      "question_type": "conceptual",
+      "question_format": "True_or_False",
+      "topic": "Balance of Payments and International Investment Position Accounting"
+    }
+  },
+  {
+    "Question": "在实际对外核算工作中，将进出口货物通过海关的时间作为货物贸易的发生时间予以记录。",
+    "Options": [
+      "T",
+      "F"
+    ],
+    "Answer": "F",
+    "Metadata": {
+      "index": 325,
+      "subject": "National Accounting",
+      "question_type": "conceptual",
+      "question_format": "True_or_False",
+      "topic": "Balance of Payments and International Investment Position Accounting"
+    }
+  },
+  {
+    "Question": "从内容上看，收人形成账户中的劳动报酬与初始收人分配账户中的劳动报酬之间的差额为 $\\_\\_\\_\\_$。\nA．对国外支付的劳动报酬净额\nB．从国外获得的劳动报酬\nC．对外支付的劳动报酬\nD．零",
+    "Options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "Answer": "A",
+    "Metadata": {
+      "index": 345,
+      "subject": "National Accounting",
+      "question_type": "conceptual",
+      "question_format": "single_choice",
+      "topic": "System of National Accounts and Matrix Tables"
+    }
+  },
+  {
+    "Question": "下列不属于国外部门的资产负债账户项目的是 $\\_\\_\\_\\_$。\nA．对国内持有的金融资产\nB．对国内持有的非金融资产\nC．对国内承担的负债\nD．对国内持有的资产净值",
+    "Options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "Answer": "B",
+    "Metadata": {
+      "index": 350,
+      "subject": "National Accounting",
+      "question_type": "conceptual",
+      "question_format": "single_choice",
+      "topic": "System of National Accounts and Matrix Tables"
+    }
+  },
+  {
+    "Question": "为使整个账户体系保持封闭，国民经济账户体系中特别设置了国外系列账户。以下属于国外系列账户的有 $\\_\\_\\_\\_$。\nA．生产账户\nB．货物和服务账户\nC．初始收人与经常转移账户\nD．收入使用账户\nE．资本账户",
+    "Options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "Answer": "BCE",
+    "Metadata": {
+      "index": 360,
+      "subject": "National Accounting",
+      "question_type": "conceptual",
+      "question_format": "multiple_choice",
+      "topic": "System of National Accounts and Matrix Tables"
+    }
+  },
+  {
+    "Question": "国内生产总值核算从产品使用角度记录的最终消费和资本形成，与资金流量核算从收人使用角度记录的最终消费支出、非金融投资是一件事情的两个方面。",
+    "Options": [
+      "T",
+      "F"
+    ],
+    "Answer": "T",
+    "Metadata": {
+      "index": 366,
+      "subject": "National Accounting",
+      "question_type": "conceptual",
+      "question_format": "True_or_False",
+      "topic": "System of National Accounts and Matrix Tables"
+    }
+  },
+  {
+    "Question": "与机构部门账户相比，国民经济综合账户并不核算政府部门对住户部门的实物社会转移，即调整后可支配收人分配账户，因为从经济总体来看，实物社会转移并不会对收人分配结果产生影响，即可支配收人与调整后可支配收人在数额上相等。",
+    "Options": [
+      "T",
+      "F"
+    ],
+    "Answer": "T",
+    "Metadata": {
+      "index": 372,
+      "subject": "National Accounting",
+      "question_type": "conceptual",
+      "question_format": "True_or_False",
+      "topic": "System of National Accounts and Matrix Tables"
+    }
+  },
+  {
+    "Question": "国外系列账户中的资本账户与国内账户的资本账户相对应，实际上，两者核算的项目内容也完全一致。",
+    "Options": [
+      "T",
+      "F"
+    ],
+    "Answer": "F",
+    "Metadata": {
+      "index": 378,
+      "subject": "National Accounting",
+      "question_type": "conceptual",
+      "question_format": "True_or_False",
+      "topic": "System of National Accounts and Matrix Tables"
+    }
+  },
+  {
+    "Question": "在国民经济核算矩阵中，交叉点上的单元具有双重含义：从行向来看，它表示横向标题下的来源项目；从列向来看，它表示列向标题下的使用项目。",
+    "Options": [
+      "T",
+      "F"
+    ],
+    "Answer": "T",
+    "Metadata": {
+      "index": 380,
+      "subject": "National Accounting",
+      "question_type": "conceptual",
+      "question_format": "True_or_False",
+      "topic": "System of National Accounts and Matrix Tables"
+    }
+  },
+  {
+    "Question": "某大型空调企业，除在总部所在地北京作为法人单位注册外，其分支机构在上海也作为法人进行了注册，并在重庆设置了非法人的分支机构，该企业在进行核算时应该这样处理： $\\_\\_\\_\\_$。\nA．重庆作为总部北京的非法人分支机构，应与北京地区总部合并核算增加值\nB．重庆作为非法人分支机构，可与上海的分支机构合并核算增加值\nC．应执行＂在地统计＂原则，分别按照基层单位核算其增加值\nD．北京、上海、重庆三地的基层单位应作为一个整体核算该企业增加值",
+    "Options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "Answer": "C",
+    "Metadata": {
+      "index": 383,
+      "subject": "National Accounting",
+      "question_type": "conceptual",
+      "question_format": "single_choice",
+      "topic": "Flexible Application and Extension of National Accounting"
+    }
+  },
+  {
+    "Question": "如果不考虑数据的可获得性，最适宜用来反映旅游供应规模的指标，即最适宜衡量旅游对国民经济实际贡献的指标，是 $\\_\\_\\_\\_$。\nA．国内旅游消费\nB．旅游产业增加值\nC．旅游直接国内生产总值\nD．国内旅游现金消费支出",
+    "Options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "Answer": "C",
+    "Metadata": {
+      "index": 389,
+      "subject": "National Accounting",
+      "question_type": "conceptual",
+      "question_format": "single_choice",
+      "topic": "Flexible Application and Extension of National Accounting"
+    }
+  },
+  {
+    "Question": "计算可比价 GDP，实践中应用最广泛的方法是 $\\_\\_\\_\\_$。\nA．直接估价法\nB．物量指数外推法\nC．价格指数缩减法\nD．以上都不对",
+    "Options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "Answer": "C",
+    "Metadata": {
+      "index": 423,
+      "subject": "National Accounting",
+      "question_type": "conceptual",
+      "question_format": "single_choice",
+      "topic": "Dynamic Comparison of National Accounting"
+    }
+  },
+  {
+    "Question": "测定产品质量变化的方法有多种，对于市场上不同时存在新旧质量的货物或服务，而是以新产品代替了旧产品，用 $\\_\\_\\_\\_$测度质量变化。\nA．直接法\nB．生产成本法\nC．专家估算法\nD．统计回归测定法",
+    "Options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "Answer": "B",
+    "Metadata": {
+      "index": 428,
+      "subject": "National Accounting",
+      "question_type": "conceptual",
+      "question_format": "single_choice",
+      "topic": "Dynamic Comparison of National Accounting"
+    }
+  },
+  {
+    "Question": "实际收入是从实际购买力角度定义的。下列有关实际收人的说法中错误的是 $\\_\\_\\_\\_$。\nA．参照某一选作参照年的价格水平进行衡量\nB．和参照年的选择没有关系\nC．相对于某一组作为定值标准的产品而言\nD．计量结果与定值标准的选择无关\nE．针对每一个收人指标都应该核算其实际收人",
+    "Options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "Answer": "BDE",
+    "Metadata": {
+      "index": 435,
+      "subject": "National Accounting",
+      "question_type": "conceptual",
+      "question_format": "multiple_choice",
+      "topic": "Dynamic Comparison of National Accounting"
+    }
+  },
+  {
+    "Question": "多种产品的物量就是单个产品的数量的综合，二者在概念上并无差别。",
+    "Options": [
+      "T",
+      "F"
+    ],
+    "Answer": "F",
+    "Metadata": {
+      "index": 449,
+      "subject": "National Accounting",
+      "question_type": "conceptual",
+      "question_format": "True_or_False",
+      "topic": "Dynamic Comparison of National Accounting"
+    }
+  },
+  {
+    "Question": "存在价格差别的货物或服务必然存在质量差别。",
+    "Options": [
+      "T",
+      "F"
+    ],
+    "Answer": "F",
+    "Metadata": {
+      "index": 453,
+      "subject": "National Accounting",
+      "question_type": "conceptual",
+      "question_format": "True_or_False",
+      "topic": "Dynamic Comparison of National Accounting"
+    }
+  },
+  {
+    "Question": "不同时期由于质量变化引起的价格变化应该包括在价格指数中，而不是物量指数中。",
+    "Options": [
+      "T",
+      "F"
+    ],
+    "Answer": "F",
+    "Metadata": {
+      "index": 454,
+      "subject": "National Accounting",
+      "question_type": "conceptual",
+      "question_format": "True_or_False",
+      "topic": "Dynamic Comparison of National Accounting"
+    }
+  },
+  {
+    "Question": "CPD 法估计购买力平价指数的主要思路是 $\\_\\_\\_\\_$。\nA．选取一国为基准国，采用桥梁国法计算其余国家的拉氏购买力平价指数\nB．采用不等加权的理想购买力平价指数\nC．采用国际价格作为基准国价格\nD．采用虚拟变量回归估计",
+    "Options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "Answer": "D",
+    "Metadata": {
+      "index": 460,
+      "subject": "National Accounting",
+      "question_type": "conceptual",
+      "question_format": "single_choice",
+      "topic": "International Comparison of National Accounting"
+    }
+  },
+  {
+    "Question": "下列有关 CPD 法的叙述正确的是 $\\_\\_\\_\\_$。\nA．适用于数据缺失的情况\nB．最大限度地利用每一个已得数据的信息\nC．通过拉氏购买力平价指数得到 GDP 总量的购买力平价指数\nD．通过回归方法得到 GDP 总量的购买力平价指数\n\nE．主要解决如何从规格品价格得到细类购买力平价的问题",
+    "Options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "Answer": "ABE",
+    "Metadata": {
+      "index": 465,
+      "subject": "National Accounting",
+      "question_type": "conceptual",
+      "question_format": "multiple_choice",
+      "topic": "International Comparison of National Accounting"
+    }
+  }
+]

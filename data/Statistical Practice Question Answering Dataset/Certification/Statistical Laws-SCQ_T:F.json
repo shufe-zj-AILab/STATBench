@@ -1,0 +1,930 @@
+[
+    {
+        "question": "国务院各部委和具有行政管理权的国务院直属机构可以根据工作需要制定统计行政法规。",
+        "options": [
+            "T",
+            "F"
+        ],
+        "Metadata": {
+            "index": 1,
+            "answer": "F",
+            "resource": "2017年度全国统计专业技术初级资格考试_判断_69",
+            "subject": "Statistics Law",
+            "question_format": "True_or_False",
+            "level": "elementary level",
+            "year": 2017
+        }
+    },
+    {
+        "question": "统计机构依法独立行使职权，不受任何机关、社会团体和个人的非法干涉。",
+        "options": [
+            "T",
+            "F"
+        ],
+        "Metadata": {
+            "index": 2,
+            "answer": "T",
+            "resource": "2017年度全国统计专业技术初级资格考试_判断_70",
+            "subject": "Statistics Law",
+            "question_format": "True_or_False",
+            "level": "elementary level",
+            "year": 2017
+        }
+    },
+    {
+        "question": "党的十一届三中全会以来，我国统计工作进入新的发展阶段。1979年3月，国务院批准恢复国家统计局。",
+        "options": [
+            "T",
+            "F"
+        ],
+        "Metadata": {
+            "index": 3,
+            "answer": "F",
+            "resource": "2017年度全国统计专业技术初级资格考试_判断_71",
+            "subject": "Statistics Law",
+            "question_format": "True_or_False",
+            "level": "elementary level",
+            "year": 2017
+        }
+    },
+    {
+        "question": "《统计法》规定设立的统计机构包括政府综合统计机构和部门统计机构。",
+        "options": [
+            "T",
+            "F"
+        ],
+        "Metadata": {
+            "index": 4,
+            "answer": "T",
+            "resource": "2017年度全国统计专业技术初级资格考试_判断_72",
+            "subject": "Statistics Law",
+            "question_format": "True_or_False",
+            "level": "elementary level",
+            "year": 2017
+        }
+    },
+    {
+        "question": "《统计法》规定，统计调查项目分为国家统计调查项目、地方统计调查项目和民间统计调查项目三类，实行分类管理。",
+        "options": [
+            "T",
+            "F"
+        ],
+        "Metadata": {
+            "index": 5,
+            "answer": "F",
+            "resource": "2017年度全国统计专业技术初级资格考试_判断_73",
+            "subject": "Statistics Law",
+            "question_format": "True_or_False",
+            "level": "elementary level",
+            "year": 2017
+        }
+    },
+    {
+        "question": "统计执法检查作为一种行政执法活动，具有严肃性、权威性和国家强制性。",
+        "options": [
+            "T",
+            "F"
+        ],
+        "Metadata": {
+            "index": 6,
+            "answer": "T",
+            "resource": "2017年度全国统计专业技术初级资格考试_判断_74",
+            "subject": "Statistics Law",
+            "question_format": "True_or_False",
+            "level": "elementary level",
+            "year": 2017
+        }
+    },
+    {
+        "question": "统计行政处罚遵循公正、公开的原则，最重要、最关键的是建立完善的回避制度和听证制度。",
+        "options": [
+            "T",
+            "F"
+        ],
+        "Metadata": {
+            "index": 7,
+            "answer": "F",
+            "resource": "2017年度全国统计专业技术初级资格考试_判断_75",
+            "subject": "Statistics Law",
+            "question_format": "True_or_False",
+            "level": "elementary level",
+            "year": 2017
+        }
+    },
+    {
+        "question": "广义的统计法是指统计法律制度，包括统计法律、统计行政法规、统计地方性法规和统计行政规章。",
+        "options": [
+            "T",
+            "F"
+        ],
+        "Metadata": {
+            "index": 8,
+            "answer": "F",
+            "resource": "2018年度全国统计专业技术初级资格考试_判断_68",
+            "subject": "Statistics Law",
+            "question_format": "True_or_False",
+            "level": "elementary level",
+            "year": 2018
+        }
+    },
+    {
+        "question": "设区的市的人民代表大会及其常委会根据本市的具体情况和实际需要，在不与宪法、法律、行政法规相抵触的前提下，可以制定地方性法规。",
+        "options": [
+            "T",
+            "F"
+        ],
+        "Metadata": {
+            "index": 9,
+            "answer": "F",
+            "resource": "2018年度全国统计专业技术初级资格考试_判断_69",
+            "subject": "Statistics Law",
+            "question_format": "True_or_False",
+            "level": "elementary level",
+            "year": 2018
+        }
+    },
+    {
+        "question": "《统计法实施条例》规定，县级以上地方人民政府统计机构在统计业务上受本级人民政府和上\n级人民政府统计机构的双重领导。",
+        "options": [
+            "T",
+            "F"
+        ],
+        "Metadata": {
+            "index": 10,
+            "answer": "F",
+            "resource": "2018年度全国统计专业技术初级资格考试_判断_71",
+            "subject": "Statistics Law",
+            "question_format": "True_or_False",
+            "level": "elementary level",
+            "year": 2018
+        }
+    },
+    {
+        "question": "依据统计法律法规规定，我国已经建立起了由国家统计局、地方人民政府统计机构、部门统计\n机构三部分组成的统计组织体系。",
+        "options": [
+            "T",
+            "F"
+        ],
+        "Metadata": {
+            "index": 11,
+            "answer": "F",
+            "resource": "2018年度全国统计专业技术初级资格考试_判断_72",
+            "subject": "Statistics Law",
+            "question_format": "True_or_False",
+            "level": "elementary level",
+            "year": 2018
+        }
+    },
+    {
+        "question": "行政许可是指行政机关应行政相对方的申请，通过颁发许可证、执照等\n形式，依法赋予行政相对方从事某种活动的法律资格或实施某种行为的法律权利的行政行为。",
+        "options": [
+            "T",
+            "F"
+        ],
+        "Metadata": {
+            "index": 12,
+            "answer": "T",
+            "resource": "2018年度全国统计专业技术初级资格考试_判断_73",
+            "subject": "Statistics Law",
+            "question_format": "True_or_False",
+            "level": "elementary level",
+            "year": 2018
+        }
+    },
+    {
+        "question": "国家统计局及其派出的调查队、县级以上地方各级人民政府统计机构和\n有关部门是国家依法授权的统计执法监督检查机关，依法具有统计执法监督检查权。",
+        "options": [
+            "T",
+            "F"
+        ],
+        "Metadata": {
+            "index": 13,
+            "answer": "F",
+            "resource": "2018年度全国统计专业技术初级资格考试_判断_74",
+            "subject": "Statistics Law",
+            "question_format": "True_or_False",
+            "level": "elementary level",
+            "year": 2018
+        }
+    },
+    {
+        "question": "企业事业单位或者其他组织使用暴力或者威胁方法拒绝、阻碍统计调查、\n统计监督检查，拒绝、阻碍统计调查、统计监督检查且严重影响相关工作正常开展，提供不真实、不完整的统计资料且造成严重后果或者恶劣影响，统计违法行为 1 年内被责令改正 3 次以上，属于统计违法情节严重行为。",
+        "options": [
+            "T",
+            "F"
+        ],
+        "Metadata": {
+            "index": 14,
+            "answer": "T",
+            "resource": "2018年度全国统计专业技术初级资格考试_判断_75",
+            "subject": "Statistics Law",
+            "question_format": "True_or_False",
+            "level": "elementary level",
+            "year": 2018
+        }
+    },
+    {
+        "question": "县级以上人民政府统计机构和有关部门，应当加强对统计人员的专业培训和职业道德教育。",
+        "options": [
+            "T",
+            "F"
+        ],
+        "Metadata": {
+            "index": 15,
+            "answer": "T",
+            "resource": "2019年度全国统计专业技术初级资格考试_判断_68",
+            "subject": "Statistics Law",
+            "question_format": "True_or_False",
+            "level": "elementary level",
+            "year": 2019
+        }
+    },
+    {
+        "question": "统计地方性法规，是指有地方立法权的地方人民代表大会及其常委会制定和发布，在本地方实施的统计规范性法律文件。",
+        "options": [
+            "T",
+            "F"
+        ],
+        "Metadata": {
+            "index": 16,
+            "answer": "T",
+            "resource": "2019年度全国统计专业技术初级资格考试_判断_69",
+            "subject": "Statistics Law",
+            "question_format": "True_or_False",
+            "level": "elementary level",
+            "year": 2019
+        }
+    },
+    {
+        "question": "国家统计调查项目、部门统计调查项目、地方统计调查项目应当明确分工、相互衔接、不得重复。",
+        "options": [
+            "T",
+            "F"
+        ],
+        "Metadata": {
+            "index": 17,
+            "answer": "T",
+            "resource": "2019年度全国统计专业技术初级资格考试_判断_70",
+            "subject": "Statistics Law",
+            "question_format": "True_or_False",
+            "level": "elementary level",
+            "year": 2019
+        }
+    },
+    {
+        "question": "集中型的统计管理体制是指国家统计机构对全国的统计工作实行集中统一的领导，其他主管部门一般不负责统计工作。",
+        "options": [
+            "T",
+            "F"
+        ],
+        "Metadata": {
+            "index": 18,
+            "answer": "T",
+            "resource": "2019年度全国统计专业技术初级资格考试_判断_71",
+            "subject": "Statistics Law",
+            "question_format": "True_or_False",
+            "level": "elementary level",
+            "year": 2019
+        }
+    },
+    {
+        "question": "部门统计机构，包括国务院各部门、授权的行业协会和地方政府各部门设立的统计机构或配备的统计人员。",
+        "options": [
+            "T",
+            "F"
+        ],
+        "Metadata": {
+            "index": 19,
+            "answer": "T",
+            "resource": "2019年度全国统计专业技术初级资格考试_判断_72",
+            "subject": "Statistics Law",
+            "question_format": "True_or_False",
+            "level": "elementary level",
+            "year": 2019
+        }
+    },
+    {
+        "question": "申请涉外调查许可证的机构, 调查范围跨省、自治区、直辖市行政区域的, 应当分别向该调查所涉及区域内的省、自治区、直辖市人民政府统计机构提出申请。",
+        "options": [
+            "T",
+            "F"
+        ],
+        "Metadata": {
+            "index": 20,
+            "answer": "F",
+            "resource": "2019年度全国统计专业技术初级资格考试_判断_73",
+            "subject": "Statistics Law",
+            "question_format": "True_or_False",
+            "level": "elementary level",
+            "year": 2019
+        }
+    },
+    {
+        "question": "地方有关部门制定的统计调查项目，涉及的统计调查对象属于本部门管辖系统的，报该地方人民政府统计机构备案；统计调查对象超出本部门管辖系统的，报该地方人民政府统计机构审批。",
+        "options": [
+            "T",
+            "F"
+        ],
+        "Metadata": {
+            "index": 21,
+            "answer": "F",
+            "resource": "2019年度全国统计专业技术初级资格考试_判断_74",
+            "subject": "Statistics Law",
+            "question_format": "True_or_False",
+            "level": "elementary level",
+            "year": 2019
+        }
+    },
+    {
+        "question": "政府统计机构在调查统计违法行为或者核查统计数据时, 有权进入检查对象的业务场所和统计数据处理信息系统进行检查、核对。",
+        "options": [
+            "T",
+            "F"
+        ],
+        "Metadata": {
+            "index": 22,
+            "answer": "T",
+            "resource": "2019年度全国统计专业技术初级资格考试_判断_75",
+            "subject": "Statistics Law",
+            "question_format": "True_or_False",
+            "level": "elementary level",
+            "year": 2019
+        }
+    },
+    {
+        "question": "《统计法》规定，国家有计划地加强统计信息化建设，推进统计信息搜集、加工、分析、汇总、存储技术和统计数据库体系的现代化。",
+        "options": [
+            "T",
+            "F"
+        ],
+        "Metadata": {
+            "index": 23,
+            "answer": "F",
+            "resource": "2020年度全国统计专业技术初级资格考试_判断_68",
+            "subject": "Statistics Law",
+            "question_format": "True_or_False",
+            "level": "elementary level",
+            "year": 2020
+        }
+    },
+    {
+        "question": "根据《统计法》的规定，国务院对《统计法实施细则》进行修改，并经常务会议审议，于 2017 年 4 月 12 日以 681 号令颁布了《统计法实施条例》。",
+        "options": [
+            "T",
+            "F"
+        ],
+        "Metadata": {
+            "index": 24,
+            "answer": "T",
+            "resource": "2020年度全国统计专业技术初级资格考试_判断_69",
+            "subject": "Statistics Law",
+            "question_format": "True_or_False",
+            "level": "elementary level",
+            "year": 2020
+        }
+    },
+    {
+        "question": "联合国统计委员会通过的《官方统计基本原则》将独立性作为统计机构必须坚持的一系列基本价值观和原则的第一条。",
+        "options": [
+            "T",
+            "F"
+        ],
+        "Metadata": {
+            "index": 25,
+            "answer": "F",
+            "resource": "2020年度全国统计专业技术初级资格考试_判断_70",
+            "subject": "Statistics Law",
+            "question_format": "True_or_False",
+            "level": "elementary level",
+            "year": 2020
+        }
+    },
+    {
+        "question": "《统计法实施条例》规定，县级以上地方人民政府统计机构受本级人民政府和上级人民政府统计机构的双重领导，在统计业务上以上级人民政府统计机构的领导为主。乡、镇人民政府在统计业务上受上级人民政府统计机构领导。",
+        "options": [
+            "T",
+            "F"
+        ],
+        "Metadata": {
+            "index": 26,
+            "answer": "T",
+            "resource": "2020年度全国统计专业技术初级资格考试_判断_71",
+            "subject": "Statistics Law",
+            "question_format": "True_or_False",
+            "level": "elementary level",
+            "year": 2020
+        }
+    },
+    {
+        "question": "重大统计违法行为一般是指严重的统计造假、弄虚作假，严重违背国家统计政令，严重违背国家统计调查制度，在重大国情国力普查中发生的统计造假作假，拒绝、抵制对统计工作的监督检查，等等。",
+        "options": [
+            "T",
+            "F"
+        ],
+        "Metadata": {
+            "index": 27,
+            "answer": "T",
+            "resource": "2020年度全国统计专业技术初级资格考试_判断_72",
+            "subject": "Statistics Law",
+            "question_format": "True_or_False",
+            "level": "elementary level",
+            "year": 2020
+        }
+    },
+    {
+        "question": "涉外调查项目审批是指依法赋予行政相对人实施涉外调查行为的法律义务的行为。",
+        "options": [
+            "T",
+            "F"
+        ],
+        "Metadata": {
+            "index": 28,
+            "answer": "F",
+            "resource": "2020年度全国统计专业技术初级资格考试_判断_73",
+            "subject": "Statistics Law",
+            "question_format": "True_or_False",
+            "level": "elementary level",
+            "year": 2020
+        }
+    },
+    {
+        "question": "统计执法监督检查应该是积极的、主动的活动，不仅要对已经发生的统计违法行为进行严肃查处，还要主动做好防患于未然的工作，通过开展 \"双随机\"抽查，查找违法隐患，纠正违法行为，提高全社会的统计法律意识，预防、减少各种统计违法行为的发生。",
+        "options": [
+            "T",
+            "F"
+        ],
+        "Metadata": {
+            "index": 29,
+            "answer": "T",
+            "resource": "2020年度全国统计专业技术初级资格考试_判断_74",
+            "subject": "Statistics Law",
+            "question_format": "True_or_False",
+            "level": "elementary level",
+            "year": 2020
+        }
+    },
+    {
+        "question": "在统计法律法规中，处分是指对有统计违法行为的国家工作人员实施的警告、记过、记大过、降级、撤职、开除等政务处分，由政府统计机构将案件和处分建议移送任免机关、监察机关，由任免机关、监察机关依法依规实施。",
+        "options": [
+            "T",
+            "F"
+        ],
+        "Metadata": {
+            "index": 30,
+            "answer": "T",
+            "resource": "2020年度全国统计专业技术初级资格考试_判断_75",
+            "subject": "Statistics Law",
+            "question_format": "True_or_False",
+            "level": "elementary level",
+            "year": 2020
+        }
+    },
+    {
+        "question": " 县级人民代表大会及其常委会根据本地方的具体情况和实际需要，在不与宪法、法律、行政法规和本省、自治区、直辖市的地方性法规相抵触的前提下，可以制定统计地方性法规。",
+        "options": [
+            "T",
+            "F"
+        ],
+        "Metadata": {
+            "index": 31,
+            "answer": "F",
+            "resource": "2021年度全国统计专业技术初级资格考试_判断_68",
+            "subject": "Statistics Law",
+            "question_format": "True_or_False",
+            "level": "elementary level",
+            "year": 2021
+        }
+    },
+    {
+        "question": "《统计法》在 1996 年修改时，明确规定统计调查中获得的能够识别或者推断单个统计调查对象身份的资料，任何单位和个人不得对外提供、泄露，不得用于统计以外的目的。",
+        "options": [
+            "T",
+            "F"
+        ],
+        "Metadata": {
+            "index": 32,
+            "answer": "F",
+            "resource": "2021年度全国统计专业技术初级资格考试_判断_69",
+            "subject": "Statistics Law",
+            "question_format": "True_or_False",
+            "level": "elementary level",
+            "year": 2021
+        }
+    },
+    {
+        "question": "《统计法》规定，搜集、整理统计资料应当以周期性普查为基础，以经常性抽样调查为主体，综合运用全面调查和重点调查等方法，并充分利用专项调查。",
+        "options": [
+            "T",
+            "F"
+        ],
+        "Metadata": {
+            "index": 33,
+            "answer": "F",
+            "resource": "2021年度全国统计专业技术初级资格考试_判断_73",
+            "subject": "Statistics Law",
+            "question_format": "True_or_False",
+            "level": "elementary level",
+            "year": 2021
+        }
+    },
+    {
+        "question": "数列中的极端变量值会影响其算术平均数和众数，但对中位数没有影响。",
+        "options": [
+            "T",
+            "F"
+        ],
+        "Metadata": {
+            "index": 34,
+            "answer": "F",
+            "resource": "2022年度全国统计专业技术初级资格考试_判断_62",
+            "subject": "Statistics Law",
+            "question_format": "True_or_False",
+            "level": "elementary level",
+            "year": 2022
+        }
+    },
+    {
+        "question": "随机原则要求所有调查单位都有一定的概率被抽取。",
+        "options": [
+            "T",
+            "F"
+        ],
+        "Metadata": {
+            "index": 35,
+            "answer": "T",
+            "resource": "2022年度全国统计专业技术初级资格考试_判断_63",
+            "subject": "Statistics Law",
+            "question_format": "True_or_False",
+            "level": "elementary level",
+            "year": 2022
+        }
+    },
+    {
+        "question": "《统计法》规定，统计人员应当具备与其从事的统计工作相适应的专业知识和业务能力。",
+        "options": [
+            "T",
+            "F"
+        ],
+        "Metadata": {
+            "index": 36,
+            "answer": "T",
+            "resource": "2022年度全国统计专业技术初级资格考试_判断_64",
+            "subject": "Statistics Law",
+            "question_format": "True_or_False",
+            "level": "elementary level",
+            "year": 2022
+        }
+    },
+    {
+        "question": "广义的统计法是指统计法律制度，包括统计法律、统计行政法规、统计地方性法规和统计行政规章。",
+        "options": [
+            "T",
+            "F"
+        ],
+        "Metadata": {
+            "index": 37,
+            "answer": "F",
+            "resource": "2022年度全国统计专业技术初级资格考试_判断_69",
+            "subject": "Statistics Law",
+            "question_format": "True_or_False",
+            "level": "elementary level",
+            "year": 2022
+        }
+    },
+    {
+        "question": "统计执法检查作为一种行政执法活动，具有严肃性、权威性和国家强制性。（）",
+        "options": [
+            "T",
+            "F"
+        ],
+        "Metadata": {
+            "index": 38,
+            "answer": "T",
+            "resource": "2022年度全国统计专业技术初级资格考试_判断_72",
+            "subject": "Statistics Law",
+            "question_format": "True_or_False",
+            "level": "elementary level",
+            "year": 2022
+        }
+    },
+    {
+        "question": "统计机构是完成统计任务的组织保障。",
+        "options": [
+            "T",
+            "F"
+        ],
+        "Metadata": {
+            "index": 39,
+            "answer": "T",
+            "resource": "2023年度全国统计专业技术初级资格考试_判断_1",
+            "subject": "Statistics Law",
+            "question_format": "True_or_False",
+            "level": "elementary level",
+            "year": 2023
+        }
+    },
+    {
+        "question": "县级以上人民政府有关部门在统计业务上受本级人民政府统计机构的指导。",
+        "options": [
+            "T",
+            "F"
+        ],
+        "Metadata": {
+            "index": 40,
+            "answer": "T",
+            "resource": "2023年度全国统计专业技术初级资格考试_判断_2",
+            "subject": "Statistics Law",
+            "question_format": "True_or_False",
+            "level": "elementary level",
+            "year": 2023
+        }
+    },
+    {
+        "question": "统计数据与各级行政领导的政绩密切相关，容易受到干扰。只有通过立法规定，设立独立的政府综合统计机构，并确认其相应的法律地位，才可能使其独立行使职权、履行职责。",
+        "options": [
+            "T",
+            "F"
+        ],
+        "Metadata": {
+            "index": 41,
+            "answer": "T",
+            "resource": "2017年度全国统计专业技术中级级资格考试__实务卷_判断_57",
+            "subject": "Statistics Law",
+            "question_format": "True_or_False",
+            "level": "medium level",
+            "year": 2017
+        }
+    },
+    {
+        "question": "统计负责人是指代表本部门或者本单位履行《统计法》规定职责的主要责任人员。不设统计机构的，一般应当由具备相当统计专业技术职务条件的人员担任统计负责人。",
+        "options": [
+            "T",
+            "F"
+        ],
+        "Metadata": {
+            "index": 42,
+            "answer": "T",
+            "resource": "2017年度全国统计专业技术中级级资格考试__实务卷_判断_59",
+            "subject": "Statistics Law",
+            "question_format": "True_or_False",
+            "level": "medium level",
+            "year": 2017
+        }
+    },
+    {
+        "question": "根据《行政处罚法》规定，统计行政处罚决定书送达后，当事人到期不缴纳罚款的，每日按罚款数额的百分之一加处罚款。",
+        "options": [
+            "T",
+            "F"
+        ],
+        "Metadata": {
+            "index": 43,
+            "answer": "F",
+            "resource": "2017年度全国统计专业技术中级级资格考试__实务卷_判断_60",
+            "subject": "Statistics Law",
+            "question_format": "True_or_False",
+            "level": "medium level",
+            "year": 2017
+        }
+    },
+    {
+        "question": "统计法的特殊性是指统计法律制度中包含着大量关于统计工作的技术性规范，如统计调查制度、统计标准等，这些规范是统计法律制度的重要组成部分。",
+        "options": [
+            "T",
+            "F"
+        ],
+        "Metadata": {
+            "index": 44,
+            "answer": "F",
+            "resource": "2018年度全国统计专业技术中级资格考试__实务卷_判断题_56",
+            "subject": "Statistics Law",
+            "question_format": "True_or_False",
+            "level": "medium level",
+            "year": 2018
+        }
+    },
+    {
+        "question": "重大统计违法行为一般是指严重的统计造假、弄虚作假，严重违背国家统计政令，严重违背国家统计调查制度，在重大国情国力普查中发生的统计造假作假，拒绝、抵制对统计工作的行政指导。",
+        "options": [
+            "T",
+            "F"
+        ],
+        "Metadata": {
+            "index": 45,
+            "answer": "F",
+            "resource": "2018年度全国统计专业技术中级资格考试__实务卷_判断题_59",
+            "subject": "Statistics Law",
+            "question_format": "True_or_False",
+            "level": "medium level",
+            "year": 2018
+        }
+    },
+    {
+        "question": "《统计执法监督检查办法》规定，县级以上人民政府统计机构作出对法人或者其他组织5万元以上罚款，对个体工商户作出2000元以上罚款的行政处罚决定前，应当告知处罚对象有要求举行听证的权利。处罚对要求听证的，作出处罚决定的统计机构应当依法组织听证。",
+        "options": [
+            "T",
+            "F"
+        ],
+        "Metadata": {
+            "index": 46,
+            "answer": "T",
+            "resource": "2018年度全国统计专业技术中级资格考试__实务卷_判断题_60",
+            "subject": "Statistics Law",
+            "question_format": "True_or_False",
+            "level": "medium level",
+            "year": 2018
+        }
+    },
+    {
+        "question": "《统计法》规定，县级以上人民政府统计机构可以在统计调查对象中推广使用计算机网络报送统计资料。",
+        "options": [
+            "T",
+            "F"
+        ],
+        "Metadata": {
+            "index": 47,
+            "answer": "T",
+            "resource": "2019年度全国统计专业技术中级资格考试__实务卷_判断题_56",
+            "subject": "Statistics Law",
+            "question_format": "True_or_False",
+            "level": "medium level",
+            "year": 2019
+        }
+    },
+    {
+        "question": "统计地方性法规的效力低于统计法律，与统计行政法规相当。",
+        "options": [
+            "T",
+            "F"
+        ],
+        "Metadata": {
+            "index": 48,
+            "answer": "F",
+            "resource": "2019年度全国统计专业技术中级资格考试__实务卷_判断题_57",
+            "subject": "Statistics Law",
+            "question_format": "True_or_False",
+            "level": "medium level",
+            "year": 2019
+        }
+    },
+    {
+        "question": "统计执法检查人员应当取得由国家统计局或省级统计局统一颁发的统计执法证，方才具备执法检查资格。",
+        "options": [
+            "T",
+            "F"
+        ],
+        "Metadata": {
+            "index": 49,
+            "answer": "F",
+            "resource": "2019年度全国统计专业技术中级资格考试__实务卷_判断题_59",
+            "subject": "Statistics Law",
+            "question_format": "True_or_False",
+            "level": "medium level",
+            "year": 2019
+        }
+    },
+    {
+        "question": "根据《行政诉讼法》的规定，公民、法人或者其他组织对具体统计行政行为不服， 应当申请统计行政复议，对统计行政复议不服的，再向人民法院提起诉讼。",
+        "options": [
+            "T",
+            "F"
+        ],
+        "Metadata": {
+            "index": 50,
+            "answer": "F",
+            "resource": "2019年度全国统计专业技术中级资格考试__实务卷_判断题_60",
+            "subject": "Statistics Law",
+            "question_format": "True_or_False",
+            "level": "medium level",
+            "year": 2019
+        }
+    },
+    {
+        "question": "在我国有权制定统计法律制度的包括全国人大及其常委会、国务院及其有关部门、具有立法权的地方人大及其常委会、具有立法权的地方政府及其有关部门。",
+        "options": [
+            "T",
+            "F"
+        ],
+        "Metadata": {
+            "index": 51,
+            "answer": "T",
+            "resource": "2020年度全国统计专业技术中级资格考试__实务卷_判断题_56",
+            "subject": "Statistics Law",
+            "question_format": "True_or_False",
+            "level": "medium level",
+            "year": 2020
+        }
+    },
+    {
+        "question": "严格按照统计法律规定制定统计调查制度并按照制度组织实施统计调查，确保了统计调查过程和行为的科学性，为提高统计调查的可靠性、可信性建立了扎实的法制保障。",
+        "options": [
+            "T",
+            "F"
+        ],
+        "Metadata": {
+            "index": 52,
+            "answer": "F",
+            "resource": "2020年度全国统计专业技术中级资格考试__实务卷_判断题_57",
+            "subject": "Statistics Law",
+            "question_format": "True_or_False",
+            "level": "medium level",
+            "year": 2020
+        }
+    },
+    {
+        "question": "在《统计法》《统计法实施条例》的法律责任部分，授予县级以上人民政府统计机构对统计违法行为具有通报、警告、没收违法所得、罚款等惩戒权，对重大国情国力普查中有统计违法行为的个人具有批评教育权。",
+        "options": [
+            "T",
+            "F"
+        ],
+        "Metadata": {
+            "index": 53,
+            "answer": "T",
+            "resource": "2020年度全国统计专业技术中级资格考试__实务卷_判断题_59",
+            "subject": "Statistics Law",
+            "question_format": "True_or_False",
+            "level": "medium level",
+            "year": 2020
+        }
+    },
+    {
+        "question": "统计法的立法目的是科学、有效地组织统计工作,保障统计资料的真实性、准确性、完整性、及时性, 发 挥统计在了解国情国力、服务经济社会发展中的重要作用，促进社会主义现代化建设各项事业的发展。",
+        "options": [
+            "T",
+            "F"
+        ],
+        "Metadata": {
+            "index": 54,
+            "answer": "T",
+            "resource": "2021年度全国统计专业技术中级资格考试__实务卷_判断题_37",
+            "subject": "Statistics Law",
+            "question_format": "True_or_False",
+            "level": "medium level",
+            "year": 2021
+        }
+    },
+    {
+        "question": "省级人民代表大会及其常委会制定和颁布的统计地方性法规，应当报全国人民代表大会常务委员会和国务院备案。",
+        "options": [
+            "T",
+            "F"
+        ],
+        "Metadata": {
+            "index": 55,
+            "answer": "T",
+            "resource": "2021年度全国统计专业技术中级资格考试__实务卷_判断题_38",
+            "subject": "Statistics Law",
+            "question_format": "True_or_False",
+            "level": "medium level",
+            "year": 2021
+        }
+    },
+    {
+        "question": "统计法的特殊性是指统计法律制度中包含着大量关于统计工作的技术性规范，如统计调查制度、统计标准等，这些规范是统计法律制度的重要组成部分。（） ",
+        "options": [
+            "T",
+            "F"
+        ],
+        "Metadata": {
+            "index": 56,
+            "answer": "F",
+            "resource": "2022年度全国统计专业技术中级资格考试__实务卷_判断题_56",
+            "subject": "Statistics Law",
+            "question_format": "True_or_False",
+            "level": "medium level",
+            "year": 2022
+        }
+    },
+    {
+        "question": "统计执法检查不仅要对已经发生的统计违法行为进行严肃查处，还要通过积极开展统计执法检查，主动做好防患于未然的工作。（） ",
+        "options": [
+            "T",
+            "F"
+        ],
+        "Metadata": {
+            "index": 57,
+            "answer": "T",
+            "resource": "2022年度全国统计专业技术中级资格考试__实务卷_判断题_60",
+            "subject": "Statistics Law",
+            "question_format": "True_or_False",
+            "level": "medium level",
+            "year": 2022
+        }
+    },
+    {
+        "question": "在对统计违法行为进行处罚时，应当以事实为根据、以法律为准绳，对程序的要求可以灵活掌握。（） ",
+        "options": [
+            "T",
+            "F"
+        ],
+        "Metadata": {
+            "index": 58,
+            "answer": "F",
+            "resource": "2022年度全国统计专业技术中级资格考试__实务卷_判断题_61",
+            "subject": "Statistics Law",
+            "question_format": "True_or_False",
+            "level": "medium level",
+            "year": 2022
+        }
+    }
+]
